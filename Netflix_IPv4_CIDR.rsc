@@ -1,428 +1,809 @@
 #Created by DKHNV
-#Gen3 15.11.2024
+#Gen4 01.05.2025
 /ip firewall address-list
 
-add list=Netflix address=	3.137.95.47	comment=Netflix	
-add list=Netflix address=	3.211.157.115	comment=Netflix	
-add list=Netflix address=	3.212.58.132	comment=Netflix	
-add list=Netflix address=	3.221.228.214	comment=Netflix	
-add list=Netflix address=	3.232.120.188	comment=Netflix	
-add list=Netflix address=	3.251.50.149	comment=Netflix	
-add list=Netflix address=	10.45.64.1	comment=Netflix	
-add list=Netflix address=	18.66.248.62	comment=Netflix	
-add list=Netflix address=	18.66.248.65	comment=Netflix	
-add list=Netflix address=	18.66.248.79	comment=Netflix	
-add list=Netflix address=	18.66.248.104	comment=Netflix	
-add list=Netflix address=	18.200.8.190	comment=Netflix	
-add list=Netflix address=	18.207.84.236	comment=Netflix	
-add list=Netflix address=	18.236.7.30	comment=Netflix	
-add list=Netflix address=	18.239.69.42	comment=Netflix	
-add list=Netflix address=	18.239.69.102	comment=Netflix	
-add list=Netflix address=	18.239.69.118	comment=Netflix	
-add list=Netflix address=	18.239.69.121	comment=Netflix	
-add list=Netflix address=	18.245.46.11	comment=Netflix	
-add list=Netflix address=	18.245.46.62	comment=Netflix	
-add list=Netflix address=	18.245.46.82	comment=Netflix	
-add list=Netflix address=	18.245.46.102	comment=Netflix	
-add list=Netflix address=	23.37.44.161	comment=Netflix	
-add list=Netflix address=	23.48.23.132	comment=Netflix	
-add list=Netflix address=	23.48.23.133	comment=Netflix	
-add list=Netflix address=	23.48.23.134	comment=Netflix	
-add list=Netflix address=	23.48.23.135	comment=Netflix	
-add list=Netflix address=	23.48.23.137	comment=Netflix	
-add list=Netflix address=	23.48.23.138	comment=Netflix	
-add list=Netflix address=	23.48.23.140	comment=Netflix	
-add list=Netflix address=	23.48.23.143	comment=Netflix	
-add list=Netflix address=	23.48.23.144	comment=Netflix	
-add list=Netflix address=	23.48.23.146	comment=Netflix	
-add list=Netflix address=	23.48.23.148	comment=Netflix	
-add list=Netflix address=	23.48.23.149	comment=Netflix	
-add list=Netflix address=	23.48.23.150	comment=Netflix	
-add list=Netflix address=	23.48.23.151	comment=Netflix	
-add list=Netflix address=	23.48.23.152	comment=Netflix	
-add list=Netflix address=	23.48.23.153	comment=Netflix	
-add list=Netflix address=	23.48.23.154	comment=Netflix	
-add list=Netflix address=	23.48.23.155	comment=Netflix	
-add list=Netflix address=	23.48.23.156	comment=Netflix	
-add list=Netflix address=	23.48.23.157	comment=Netflix	
-add list=Netflix address=	23.48.23.158	comment=Netflix	
-add list=Netflix address=	23.48.23.159	comment=Netflix	
-add list=Netflix address=	23.48.23.160	comment=Netflix	
-add list=Netflix address=	23.48.23.163	comment=Netflix	
-add list=Netflix address=	23.48.23.164	comment=Netflix	
-add list=Netflix address=	23.48.23.165	comment=Netflix	
-add list=Netflix address=	23.48.23.166	comment=Netflix	
-add list=Netflix address=	23.48.23.167	comment=Netflix	
-add list=Netflix address=	23.48.23.169	comment=Netflix	
-add list=Netflix address=	23.48.23.171	comment=Netflix	
-add list=Netflix address=	23.48.23.175	comment=Netflix	
-add list=Netflix address=	23.48.23.176	comment=Netflix	
-add list=Netflix address=	23.48.23.177	comment=Netflix	
-add list=Netflix address=	23.48.23.178	comment=Netflix	
-add list=Netflix address=	23.48.23.179	comment=Netflix	
-add list=Netflix address=	23.48.23.180	comment=Netflix	
-add list=Netflix address=	23.48.23.181	comment=Netflix	
-add list=Netflix address=	23.48.23.183	comment=Netflix	
-add list=Netflix address=	23.48.23.185	comment=Netflix	
-add list=Netflix address=	23.48.23.186	comment=Netflix	
-add list=Netflix address=	23.48.23.187	comment=Netflix	
-add list=Netflix address=	23.48.23.188	comment=Netflix	
-add list=Netflix address=	23.48.23.189	comment=Netflix	
-add list=Netflix address=	23.48.23.190	comment=Netflix	
-add list=Netflix address=	23.48.23.192	comment=Netflix	
-add list=Netflix address=	23.48.23.193	comment=Netflix	
-add list=Netflix address=	23.48.23.194	comment=Netflix	
-add list=Netflix address=	23.56.203.34	comment=Netflix	
-add list=Netflix address=	23.63.242.82	comment=Netflix	
-add list=Netflix address=	23.63.242.83	comment=Netflix	
-add list=Netflix address=	23.63.242.89	comment=Netflix	
-add list=Netflix address=	23.63.242.90	comment=Netflix	
-add list=Netflix address=	23.63.242.96	comment=Netflix	
-add list=Netflix address=	23.63.242.98	comment=Netflix	
-add list=Netflix address=	23.63.242.99	comment=Netflix	
-add list=Netflix address=	23.63.243.80	comment=Netflix	
-add list=Netflix address=	23.63.243.81	comment=Netflix	
-add list=Netflix address=	23.63.243.82	comment=Netflix	
-add list=Netflix address=	23.63.243.83	comment=Netflix	
-add list=Netflix address=	23.63.243.88	comment=Netflix	
-add list=Netflix address=	23.63.243.89	comment=Netflix	
-add list=Netflix address=	23.63.243.90	comment=Netflix	
-add list=Netflix address=	23.63.243.91	comment=Netflix	
-add list=Netflix address=	23.63.243.96	comment=Netflix	
-add list=Netflix address=	23.63.243.97	comment=Netflix	
-add list=Netflix address=	23.63.243.98	comment=Netflix	
-add list=Netflix address=	23.63.243.99	comment=Netflix	
-add list=Netflix address=	23.63.243.104	comment=Netflix	
-add list=Netflix address=	23.209.116.8	comment=Netflix	
-add list=Netflix address=	23.209.116.9	comment=Netflix	
-add list=Netflix address=	23.209.116.10	comment=Netflix	
-add list=Netflix address=	23.209.116.11	comment=Netflix	
-add list=Netflix address=	23.209.116.16	comment=Netflix	
-add list=Netflix address=	23.209.116.17	comment=Netflix	
-add list=Netflix address=	23.209.116.49	comment=Netflix	
-add list=Netflix address=	23.209.116.50	comment=Netflix	
-add list=Netflix address=	23.209.116.51	comment=Netflix	
-add list=Netflix address=	23.209.116.56	comment=Netflix	
-add list=Netflix address=	23.212.212.37	comment=Netflix	
-add list=Netflix address=	23.216.77.5	comment=Netflix	
-add list=Netflix address=	23.216.77.10	comment=Netflix	
-add list=Netflix address=	23.216.77.17	comment=Netflix	
-add list=Netflix address=	23.216.77.18	comment=Netflix	
-add list=Netflix address=	23.216.77.20	comment=Netflix	
-add list=Netflix address=	23.216.77.21	comment=Netflix	
-add list=Netflix address=	23.216.77.23	comment=Netflix	
-add list=Netflix address=	23.216.77.25	comment=Netflix	
-add list=Netflix address=	23.216.77.28	comment=Netflix	
-add list=Netflix address=	23.216.77.29	comment=Netflix	
-add list=Netflix address=	23.216.77.36	comment=Netflix	
-add list=Netflix address=	23.216.77.37	comment=Netflix	
-add list=Netflix address=	23.216.77.40	comment=Netflix	
-add list=Netflix address=	23.216.77.41	comment=Netflix	
-add list=Netflix address=	23.246.58.137	comment=Netflix	
-add list=Netflix address=	24.30.201.53	comment=Netflix	
-add list=Netflix address=	31.13.27.54	comment=Netflix	
-add list=Netflix address=	31.13.27.55	comment=Netflix	
-add list=Netflix address=	31.13.65.7	comment=Netflix	
-add list=Netflix address=	31.13.66.10	comment=Netflix	
-add list=Netflix address=	31.13.66.18	comment=Netflix	
-add list=Netflix address=	31.13.66.19	comment=Netflix	
-add list=Netflix address=	31.13.66.28	comment=Netflix	
-add list=Netflix address=	31.13.66.38	comment=Netflix	
-add list=Netflix address=	31.13.66.53	comment=Netflix	
-add list=Netflix address=	31.13.66.63	comment=Netflix	
-add list=Netflix address=	31.13.67.20	comment=Netflix	
-add list=Netflix address=	31.13.70.7	comment=Netflix	
-add list=Netflix address=	31.13.71.7	comment=Netflix	
-add list=Netflix address=	31.13.72.2	comment=Netflix	
-add list=Netflix address=	31.13.72.5	comment=Netflix	
-add list=Netflix address=	31.13.72.8	comment=Netflix	
-add list=Netflix address=	31.13.72.12	comment=Netflix	
-add list=Netflix address=	31.13.72.36	comment=Netflix	
-add list=Netflix address=	31.13.72.37	comment=Netflix	
-add list=Netflix address=	31.13.72.53	comment=Netflix	
-add list=Netflix address=	31.13.72.174	comment=Netflix	
-add list=Netflix address=	31.13.82.2	comment=Netflix	
-add list=Netflix address=	31.13.82.3	comment=Netflix	
-add list=Netflix address=	31.13.82.7	comment=Netflix	
-add list=Netflix address=	31.13.83.1	comment=Netflix	
-add list=Netflix address=	31.13.83.2	comment=Netflix	
-add list=Netflix address=	31.13.83.4	comment=Netflix	
-add list=Netflix address=	31.13.83.48	comment=Netflix	
-add list=Netflix address=	31.13.84.1	comment=Netflix	
-add list=Netflix address=	31.13.84.2	comment=Netflix	
-add list=Netflix address=	31.13.84.4	comment=Netflix	
-add list=Netflix address=	31.13.84.48	comment=Netflix	
-add list=Netflix address=	31.13.85.4	comment=Netflix	
-add list=Netflix address=	31.13.86.1	comment=Netflix	
-add list=Netflix address=	31.13.86.2	comment=Netflix	
-add list=Netflix address=	31.13.86.4	comment=Netflix	
-add list=Netflix address=	31.13.86.48	comment=Netflix	
-add list=Netflix address=	31.13.87.9	comment=Netflix	
-add list=Netflix address=	31.13.88.13	comment=Netflix	
-add list=Netflix address=	31.13.93.26	comment=Netflix	
-add list=Netflix address=	34.218.19.240	comment=Netflix	
-add list=Netflix address=	34.224.36.125	comment=Netflix	
-add list=Netflix address=	34.241.157.21	comment=Netflix	
-add list=Netflix address=	34.241.234.20	comment=Netflix	
-add list=Netflix address=	34.248.14.88	comment=Netflix	
-add list=Netflix address=	34.248.167.66	comment=Netflix	
-add list=Netflix address=	34.248.216.204	comment=Netflix	
-add list=Netflix address=	34.250.2.79	comment=Netflix	
-add list=Netflix address=	34.252.74.1	comment=Netflix	
-add list=Netflix address=	34.252.180.155	comment=Netflix	
-add list=Netflix address=	34.253.247.31	comment=Netflix	
-add list=Netflix address=	38.142.246.50	comment=Netflix	
-add list=Netflix address=	44.196.195.32	comment=Netflix	
-add list=Netflix address=	44.226.113.145	comment=Netflix	
-add list=Netflix address=	44.240.158.19	comment=Netflix	
-add list=Netflix address=	45.57.90.1	comment=Netflix	
-add list=Netflix address=	45.57.91.1	comment=Netflix	
-add list=Netflix address=	46.137.171.215	comment=Netflix	
-add list=Netflix address=	50.17.247.9	comment=Netflix	
-add list=Netflix address=	52.0.16.118	comment=Netflix	
-add list=Netflix address=	52.0.131.132	comment=Netflix	
-add list=Netflix address=	52.1.119.170	comment=Netflix	
-add list=Netflix address=	52.1.147.205	comment=Netflix	
-add list=Netflix address=	52.1.173.203	comment=Netflix	
-add list=Netflix address=	52.4.38.70	comment=Netflix	
-add list=Netflix address=	52.4.145.119	comment=Netflix	
-add list=Netflix address=	52.4.175.111	comment=Netflix	
-add list=Netflix address=	52.4.225.124	comment=Netflix	
-add list=Netflix address=	52.4.240.221	comment=Netflix	
-add list=Netflix address=	52.5.181.79	comment=Netflix	
-add list=Netflix address=	52.6.3.192	comment=Netflix	
-add list=Netflix address=	52.6.46.142	comment=Netflix	
-add list=Netflix address=	52.16.250.204	comment=Netflix	
-add list=Netflix address=	52.17.111.227	comment=Netflix	
-add list=Netflix address=	52.17.132.61	comment=Netflix	
-add list=Netflix address=	52.30.181.20	comment=Netflix	
-add list=Netflix address=	52.31.48.193	comment=Netflix	
-add list=Netflix address=	52.31.50.243	comment=Netflix	
-add list=Netflix address=	52.49.77.122	comment=Netflix	
-add list=Netflix address=	52.208.98.177	comment=Netflix	
-add list=Netflix address=	52.209.109.107	comment=Netflix	
-add list=Netflix address=	52.209.156.152	comment=Netflix	
-add list=Netflix address=	52.209.207.213	comment=Netflix	
-add list=Netflix address=	52.210.121.131	comment=Netflix	
-add list=Netflix address=	52.211.110.190	comment=Netflix	
-add list=Netflix address=	52.213.79.183	comment=Netflix	
-add list=Netflix address=	52.213.164.31	comment=Netflix	
-add list=Netflix address=	52.214.145.154	comment=Netflix	
-add list=Netflix address=	52.214.181.141	comment=Netflix	
-add list=Netflix address=	54.72.58.194	comment=Netflix	
-add list=Netflix address=	54.72.76.153	comment=Netflix	
-add list=Netflix address=	54.72.160.4	comment=Netflix	
-add list=Netflix address=	54.73.148.110	comment=Netflix	
-add list=Netflix address=	54.74.73.31	comment=Netflix	
-add list=Netflix address=	54.77.129.190	comment=Netflix	
-add list=Netflix address=	54.145.90.155	comment=Netflix	
-add list=Netflix address=	54.154.91.127	comment=Netflix	
-add list=Netflix address=	54.155.178.5	comment=Netflix	
-add list=Netflix address=	54.155.246.232	comment=Netflix	
-add list=Netflix address=	54.167.250.117	comment=Netflix	
-add list=Netflix address=	54.170.196.176	comment=Netflix	
-add list=Netflix address=	54.194.82.94	comment=Netflix	
-add list=Netflix address=	54.216.64.205	comment=Netflix	
-add list=Netflix address=	54.220.198.173	comment=Netflix	
-add list=Netflix address=	54.229.73.5	comment=Netflix	
-add list=Netflix address=	54.229.129.97	comment=Netflix	
-add list=Netflix address=	54.235.153.250	comment=Netflix	
-add list=Netflix address=	54.246.79.9	comment=Netflix	
-add list=Netflix address=	57.144.110.192	comment=Netflix	
-add list=Netflix address=	57.144.132.128	comment=Netflix	
-add list=Netflix address=	57.144.144.128	comment=Netflix	
-add list=Netflix address=	57.144.152.128	comment=Netflix	
-add list=Netflix address=	69.53.236.55	comment=Netflix	
-add list=Netflix address=	69.171.227.75	comment=Netflix	
-add list=Netflix address=	74.112.186.157	comment=Netflix	
-add list=Netflix address=	79.125.89.59	comment=Netflix	
-add list=Netflix address=	99.81.174.244	comment=Netflix	
-add list=Netflix address=	99.83.89.145	comment=Netflix	
-add list=Netflix address=	100.127.234.71	comment=Netflix	
-add list=Netflix address=	100.127.239.64	comment=Netflix	
-add list=Netflix address=	104.17.237.25	comment=Netflix	
-add list=Netflix address=	104.17.238.25	comment=Netflix	
-add list=Netflix address=	104.17.239.25	comment=Netflix	
-add list=Netflix address=	104.17.240.25	comment=Netflix	
-add list=Netflix address=	104.17.241.25	comment=Netflix	
-add list=Netflix address=	104.71.143.196	comment=Netflix	
-add list=Netflix address=	104.71.143.197	comment=Netflix	
-add list=Netflix address=	104.71.143.198	comment=Netflix	
-add list=Netflix address=	104.71.143.199	comment=Netflix	
-add list=Netflix address=	104.71.143.200	comment=Netflix	
-add list=Netflix address=	104.71.143.201	comment=Netflix	
-add list=Netflix address=	104.71.143.202	comment=Netflix	
-add list=Netflix address=	104.71.143.203	comment=Netflix	
-add list=Netflix address=	104.71.143.204	comment=Netflix	
-add list=Netflix address=	104.71.143.205	comment=Netflix	
-add list=Netflix address=	104.71.143.206	comment=Netflix	
-add list=Netflix address=	104.71.143.207	comment=Netflix	
-add list=Netflix address=	104.71.143.208	comment=Netflix	
-add list=Netflix address=	104.71.143.209	comment=Netflix	
-add list=Netflix address=	104.71.143.210	comment=Netflix	
-add list=Netflix address=	104.71.143.211	comment=Netflix	
-add list=Netflix address=	104.71.143.212	comment=Netflix	
-add list=Netflix address=	104.71.143.213	comment=Netflix	
-add list=Netflix address=	104.71.143.214	comment=Netflix	
-add list=Netflix address=	104.71.143.215	comment=Netflix	
-add list=Netflix address=	104.71.143.216	comment=Netflix	
-add list=Netflix address=	104.71.143.217	comment=Netflix	
-add list=Netflix address=	104.71.143.218	comment=Netflix	
-add list=Netflix address=	104.71.143.219	comment=Netflix	
-add list=Netflix address=	104.71.143.220	comment=Netflix	
-add list=Netflix address=	104.96.203.9	comment=Netflix	
-add list=Netflix address=	104.96.203.10	comment=Netflix	
-add list=Netflix address=	104.96.203.11	comment=Netflix	
-add list=Netflix address=	104.96.203.16	comment=Netflix	
-add list=Netflix address=	104.96.203.17	comment=Netflix	
-add list=Netflix address=	104.96.203.18	comment=Netflix	
-add list=Netflix address=	104.96.203.19	comment=Netflix	
-add list=Netflix address=	104.96.203.24	comment=Netflix	
-add list=Netflix address=	104.96.203.25	comment=Netflix	
-add list=Netflix address=	104.96.203.26	comment=Netflix	
-add list=Netflix address=	104.96.203.32	comment=Netflix	
-add list=Netflix address=	104.96.203.33	comment=Netflix	
-add list=Netflix address=	104.96.203.34	comment=Netflix	
-add list=Netflix address=	104.96.203.35	comment=Netflix	
-add list=Netflix address=	104.96.203.40	comment=Netflix	
-add list=Netflix address=	104.96.203.41	comment=Netflix	
-add list=Netflix address=	104.96.203.42	comment=Netflix	
-add list=Netflix address=	104.96.203.43	comment=Netflix	
-add list=Netflix address=	104.96.203.48	comment=Netflix	
-add list=Netflix address=	104.96.203.49	comment=Netflix	
-add list=Netflix address=	104.96.203.50	comment=Netflix	
-add list=Netflix address=	104.96.203.51	comment=Netflix	
-add list=Netflix address=	104.102.37.82	comment=Netflix	
-add list=Netflix address=	107.20.175.192	comment=Netflix	
-add list=Netflix address=	129.134.30.12	comment=Netflix	
-add list=Netflix address=	129.134.31.12	comment=Netflix	
-add list=Netflix address=	129.134.38.44	comment=Netflix	
-add list=Netflix address=	129.134.44.30	comment=Netflix	
-add list=Netflix address=	129.134.52.0	comment=Netflix	
-add list=Netflix address=	129.134.52.166	comment=Netflix	
-add list=Netflix address=	129.134.55.8	comment=Netflix	
-add list=Netflix address=	129.134.103.54	comment=Netflix	
-add list=Netflix address=	129.134.103.55	comment=Netflix	
-add list=Netflix address=	142.251.208.116	comment=Netflix	
-add list=Netflix address=	142.251.208.179	comment=Netflix	
-add list=Netflix address=	157.240.0.6	comment=Netflix	
-add list=Netflix address=	157.240.3.10	comment=Netflix	
-add list=Netflix address=	157.240.3.13	comment=Netflix	
-add list=Netflix address=	157.240.3.29	comment=Netflix	
-add list=Netflix address=	157.240.3.52	comment=Netflix	
-add list=Netflix address=	157.240.7.26	comment=Netflix	
-add list=Netflix address=	157.240.11.22	comment=Netflix	
-add list=Netflix address=	157.240.12.16	comment=Netflix	
-add list=Netflix address=	157.240.13.19	comment=Netflix	
-add list=Netflix address=	157.240.14.19	comment=Netflix	
-add list=Netflix address=	157.240.19.26	comment=Netflix	
-add list=Netflix address=	157.240.22.25	comment=Netflix	
-add list=Netflix address=	157.240.65.206	comment=Netflix	
-add list=Netflix address=	157.240.67.240	comment=Netflix	
-add list=Netflix address=	157.240.70.18	comment=Netflix	
-add list=Netflix address=	157.240.82.18	comment=Netflix	
-add list=Netflix address=	157.240.85.232	comment=Netflix	
-add list=Netflix address=	157.240.92.232	comment=Netflix	
-add list=Netflix address=	157.240.93.230	comment=Netflix	
-add list=Netflix address=	157.240.95.110	comment=Netflix	
-add list=Netflix address=	157.240.201.15	comment=Netflix	
-add list=Netflix address=	157.240.202.1	comment=Netflix	
-add list=Netflix address=	157.240.205.1	comment=Netflix	
-add list=Netflix address=	157.240.205.19	comment=Netflix	
-add list=Netflix address=	157.240.205.35	comment=Netflix	
-add list=Netflix address=	157.240.205.36	comment=Netflix	
-add list=Netflix address=	157.240.205.63	comment=Netflix	
-add list=Netflix address=	157.240.205.174	comment=Netflix	
-add list=Netflix address=	157.240.211.13	comment=Netflix	
-add list=Netflix address=	157.240.214.11	comment=Netflix	
-add list=Netflix address=	157.240.221.16	comment=Netflix	
-add list=Netflix address=	157.240.222.13	comment=Netflix	
-add list=Netflix address=	157.240.222.14	comment=Netflix	
-add list=Netflix address=	157.240.222.24	comment=Netflix	
-add list=Netflix address=	157.240.222.62	comment=Netflix	
-add list=Netflix address=	157.240.224.7	comment=Netflix	
-add list=Netflix address=	157.240.224.8	comment=Netflix	
-add list=Netflix address=	157.240.224.12	comment=Netflix	
-add list=Netflix address=	157.240.224.16	comment=Netflix	
-add list=Netflix address=	157.240.224.35	comment=Netflix	
-add list=Netflix address=	157.240.224.37	comment=Netflix	
-add list=Netflix address=	157.240.224.63	comment=Netflix	
-add list=Netflix address=	157.240.224.174	comment=Netflix	
-add list=Netflix address=	157.240.229.1	comment=Netflix	
-add list=Netflix address=	157.240.229.39	comment=Netflix	
-add list=Netflix address=	157.240.241.1	comment=Netflix	
-add list=Netflix address=	157.240.247.8	comment=Netflix	
-add list=Netflix address=	157.240.247.9	comment=Netflix	
-add list=Netflix address=	157.240.247.17	comment=Netflix	
-add list=Netflix address=	157.240.247.62	comment=Netflix	
-add list=Netflix address=	157.240.249.8	comment=Netflix	
-add list=Netflix address=	157.240.251.6	comment=Netflix	
-add list=Netflix address=	157.240.251.9	comment=Netflix	
-add list=Netflix address=	157.240.252.3	comment=Netflix	
-add list=Netflix address=	157.240.252.10	comment=Netflix	
-add list=Netflix address=	157.240.252.13	comment=Netflix	
-add list=Netflix address=	157.240.252.15	comment=Netflix	
-add list=Netflix address=	157.240.252.62	comment=Netflix	
-add list=Netflix address=	157.240.253.1	comment=Netflix	
-add list=Netflix address=	157.240.253.35	comment=Netflix	
-add list=Netflix address=	157.240.253.174	comment=Netflix	
-add list=Netflix address=	157.240.254.7	comment=Netflix	
-add list=Netflix address=	162.159.129.11	comment=Netflix	
-add list=Netflix address=	162.159.130.11	comment=Netflix	
-add list=Netflix address=	163.70.128.23	comment=Netflix	
-add list=Netflix address=	163.70.147.23	comment=Netflix	
-add list=Netflix address=	163.70.151.21	comment=Netflix	
-add list=Netflix address=	163.70.158.11	comment=Netflix	
-add list=Netflix address=	163.70.159.13	comment=Netflix	
-add list=Netflix address=	172.26.1.8	comment=Netflix	
-add list=Netflix address=	179.60.195.3	comment=Netflix	
-add list=Netflix address=	179.60.195.6	comment=Netflix	
-add list=Netflix address=	179.60.195.12	comment=Netflix	
-add list=Netflix address=	179.60.195.48	comment=Netflix	
-add list=Netflix address=	184.24.77.4	comment=Netflix	
-add list=Netflix address=	184.24.77.5	comment=Netflix	
-add list=Netflix address=	184.24.77.7	comment=Netflix	
-add list=Netflix address=	184.24.77.9	comment=Netflix	
-add list=Netflix address=	184.24.77.14	comment=Netflix	
-add list=Netflix address=	184.24.77.20	comment=Netflix	
-add list=Netflix address=	184.24.77.21	comment=Netflix	
-add list=Netflix address=	184.24.77.23	comment=Netflix	
-add list=Netflix address=	184.24.77.31	comment=Netflix	
-add list=Netflix address=	184.24.77.36	comment=Netflix	
-add list=Netflix address=	184.24.77.40	comment=Netflix	
-add list=Netflix address=	184.24.77.41	comment=Netflix	
-add list=Netflix address=	185.1.222.144	comment=Netflix	
-add list=Netflix address=	185.60.219.2	comment=Netflix	
-add list=Netflix address=	198.38.108.217	comment=Netflix	
-add list=Netflix address=	204.236.236.127	comment=Netflix	
-add list=Netflix address=	207.45.72.215	comment=Netflix	
-add list=Netflix address=	207.45.73.144	comment=Netflix	
-add list=Netflix address=	216.35.131.141	comment=Netflix	
-add list=Netflix address=	216.58.211.244	comment=Netflix	
-add list=Netflix address=	2.22.1.45	comment=Netflix	
-add list=Netflix address=	3.164.68.12	comment=Netflix	
-add list=Netflix address=	3.164.68.16	comment=Netflix	
-add list=Netflix address=	3.164.68.45	comment=Netflix	
-add list=Netflix address=	3.164.68.124	comment=Netflix	
-add list=Netflix address=	3.254.26.105	comment=Netflix	
-add list=Netflix address=	3.255.31.202	comment=Netflix	
-add list=Netflix address=	34.242.48.77	comment=Netflix	
-add list=Netflix address=	52.18.200.194	comment=Netflix	
-add list=Netflix address=	52.212.50.192	comment=Netflix	
-add list=Netflix address=	52.213.117.187	comment=Netflix	
-add list=Netflix address=	54.72.107.8	comment=Netflix	
-add list=Netflix address=	54.76.138.123	comment=Netflix	
-add list=Netflix address=	54.217.229.70	comment=Netflix	
-add list=Netflix address=	54.229.239.201	comment=Netflix	
-add list=Netflix address=	54.246.58.140	comment=Netflix	
-add list=Netflix address=	54.246.169.239	comment=Netflix	
-add list=Netflix address=	81.198.165.9	comment=Netflix	
-add list=Netflix address=	81.198.165.10	comment=Netflix	
-add list=Netflix address=	81.198.165.11	comment=Netflix	
-add list=Netflix address=	81.198.165.16	comment=Netflix	
-add list=Netflix address=	108.156.2.48	comment=Netflix	
-add list=Netflix address=	108.156.2.58	comment=Netflix	
-add list=Netflix address=	108.156.2.94	comment=Netflix	
-add list=Netflix address=	108.156.2.103	comment=Netflix	
-add list=Netflix address=	142.250.74.115	comment=Netflix	
-add list=Netflix address=	184.51.225.184	comment=Netflix	
+add list=Netflix	2.19.27.143	comment=Netflix
+add list=Netflix	2.22.1.45	comment=Netflix
+add list=Netflix	3.12.3.40	comment=Netflix
+add list=Netflix	3.12.126.98	comment=Netflix
+add list=Netflix	3.12.211.236	comment=Netflix
+add list=Netflix	3.12.243.234	comment=Netflix
+add list=Netflix	3.15.92.55	comment=Netflix
+add list=Netflix	3.17.233.126	comment=Netflix
+add list=Netflix	3.18.92.247	comment=Netflix
+add list=Netflix	3.19.205.174	comment=Netflix
+add list=Netflix	3.21.64.12	comment=Netflix
+add list=Netflix	3.21.223.19	comment=Netflix
+add list=Netflix	3.128.105.153	comment=Netflix
+add list=Netflix	3.128.245.165	comment=Netflix
+add list=Netflix	3.129.173.176	comment=Netflix
+add list=Netflix	3.129.177.173	comment=Netflix
+add list=Netflix	3.130.125.94	comment=Netflix
+add list=Netflix	3.130.233.138	comment=Netflix
+add list=Netflix	3.130.248.212	comment=Netflix
+add list=Netflix	3.131.20.238	comment=Netflix
+add list=Netflix	3.131.52.224	comment=Netflix
+add list=Netflix	3.132.32.229	comment=Netflix
+add list=Netflix	3.132.36.44	comment=Netflix
+add list=Netflix	3.132.37.209	comment=Netflix
+add list=Netflix	3.132.61.98	comment=Netflix
+add list=Netflix	3.132.167.25	comment=Netflix
+add list=Netflix	3.132.255.100	comment=Netflix
+add list=Netflix	3.133.57.11	comment=Netflix
+add list=Netflix	3.133.193.154	comment=Netflix
+add list=Netflix	3.136.253.118	comment=Netflix
+add list=Netflix	3.137.71.184	comment=Netflix
+add list=Netflix	3.137.75.83	comment=Netflix
+add list=Netflix	3.137.95.47	comment=Netflix
+add list=Netflix	3.138.161.83	comment=Netflix
+add list=Netflix	3.138.232.98	comment=Netflix
+add list=Netflix	3.140.152.134	comment=Netflix
+add list=Netflix	3.141.212.132	comment=Netflix
+add list=Netflix	3.146.214.133	comment=Netflix
+add list=Netflix	3.147.154.16	comment=Netflix
+add list=Netflix	3.160.132.7	comment=Netflix
+add list=Netflix	3.160.132.26	comment=Netflix
+add list=Netflix	3.160.132.109	comment=Netflix
+add list=Netflix	3.160.132.125	comment=Netflix
+add list=Netflix	3.161.119.47	comment=Netflix
+add list=Netflix	3.161.119.64	comment=Netflix
+add list=Netflix	3.161.119.110	comment=Netflix
+add list=Netflix	3.161.119.118	comment=Netflix
+add list=Netflix	3.162.140.20	comment=Netflix
+add list=Netflix	3.162.140.36	comment=Netflix
+add list=Netflix	3.162.140.82	comment=Netflix
+add list=Netflix	3.162.140.97	comment=Netflix
+add list=Netflix	3.164.68.12	comment=Netflix
+add list=Netflix	3.164.68.16	comment=Netflix
+add list=Netflix	3.164.68.45	comment=Netflix
+add list=Netflix	3.164.68.124	comment=Netflix
+add list=Netflix	3.164.163.14	comment=Netflix
+add list=Netflix	3.164.163.64	comment=Netflix
+add list=Netflix	3.164.163.108	comment=Netflix
+add list=Netflix	3.164.163.117	comment=Netflix
+add list=Netflix	3.164.182.3	comment=Netflix
+add list=Netflix	3.164.182.50	comment=Netflix
+add list=Netflix	3.164.182.110	comment=Netflix
+add list=Netflix	3.164.182.112	comment=Netflix
+add list=Netflix	3.164.206.42	comment=Netflix
+add list=Netflix	3.164.206.64	comment=Netflix
+add list=Netflix	3.164.206.86	comment=Netflix
+add list=Netflix	3.164.206.105	comment=Netflix
+add list=Netflix	3.164.230.11	comment=Netflix
+add list=Netflix	3.164.230.61	comment=Netflix
+add list=Netflix	3.164.230.72	comment=Netflix
+add list=Netflix	3.164.230.79	comment=Netflix
+add list=Netflix	3.164.240.45	comment=Netflix
+add list=Netflix	3.164.240.67	comment=Netflix
+add list=Netflix	3.164.240.74	comment=Netflix
+add list=Netflix	3.164.240.84	comment=Netflix
+add list=Netflix	3.165.190.12	comment=Netflix
+add list=Netflix	3.165.190.28	comment=Netflix
+add list=Netflix	3.165.190.32	comment=Netflix
+add list=Netflix	3.165.190.37	comment=Netflix
+add list=Netflix	3.166.14.44	comment=Netflix
+add list=Netflix	3.166.14.69	comment=Netflix
+add list=Netflix	3.166.14.112	comment=Netflix
+add list=Netflix	3.166.14.119	comment=Netflix
+add list=Netflix	3.167.2.30	comment=Netflix
+add list=Netflix	3.167.2.64	comment=Netflix
+add list=Netflix	3.167.2.117	comment=Netflix
+add list=Netflix	3.167.2.118	comment=Netflix
+add list=Netflix	3.168.217.8	comment=Netflix
+add list=Netflix	3.168.217.51	comment=Netflix
+add list=Netflix	3.168.217.91	comment=Netflix
+add list=Netflix	3.168.217.102	comment=Netflix
+add list=Netflix	3.211.157.115	comment=Netflix
+add list=Netflix	3.212.58.132	comment=Netflix
+add list=Netflix	3.213.129.181	comment=Netflix
+add list=Netflix	3.216.131.17	comment=Netflix
+add list=Netflix	3.216.216.23	comment=Netflix
+add list=Netflix	3.221.228.214	comment=Netflix
+add list=Netflix	3.222.220.127	comment=Netflix
+add list=Netflix	3.225.92.8	comment=Netflix
+add list=Netflix	3.230.129.93	comment=Netflix
+add list=Netflix	3.231.234.168	comment=Netflix
+add list=Netflix	3.232.120.188	comment=Netflix
+add list=Netflix	3.251.50.149	comment=Netflix
+add list=Netflix	3.254.26.105	comment=Netflix
+add list=Netflix	3.255.31.202	comment=Netflix
+add list=Netflix	10.45.64.1	comment=Netflix
+add list=Netflix	13.32.110.36	comment=Netflix
+add list=Netflix	13.32.110.55	comment=Netflix
+add list=Netflix	13.32.110.74	comment=Netflix
+add list=Netflix	13.32.110.128	comment=Netflix
+add list=Netflix	13.33.141.42	comment=Netflix
+add list=Netflix	13.33.141.94	comment=Netflix
+add list=Netflix	13.33.141.110	comment=Netflix
+add list=Netflix	13.33.141.123	comment=Netflix
+add list=Netflix	13.33.187.2	comment=Netflix
+add list=Netflix	13.33.187.45	comment=Netflix
+add list=Netflix	13.33.187.60	comment=Netflix
+add list=Netflix	13.33.187.67	comment=Netflix
+add list=Netflix	13.58.31.207	comment=Netflix
+add list=Netflix	13.58.96.87	comment=Netflix
+add list=Netflix	13.58.158.2	comment=Netflix
+add list=Netflix	13.59.96.40	comment=Netflix
+add list=Netflix	13.59.123.152	comment=Netflix
+add list=Netflix	13.59.143.154	comment=Netflix
+add list=Netflix	13.216.189.215	comment=Netflix
+add list=Netflix	13.227.146.33	comment=Netflix
+add list=Netflix	13.227.146.42	comment=Netflix
+add list=Netflix	13.227.146.55	comment=Netflix
+add list=Netflix	13.227.146.101	comment=Netflix
+add list=Netflix	18.64.119.4	comment=Netflix
+add list=Netflix	18.64.119.21	comment=Netflix
+add list=Netflix	18.64.119.28	comment=Netflix
+add list=Netflix	18.64.119.127	comment=Netflix
+add list=Netflix	18.65.39.3	comment=Netflix
+add list=Netflix	18.65.39.81	comment=Netflix
+add list=Netflix	18.65.39.94	comment=Netflix
+add list=Netflix	18.65.39.108	comment=Netflix
+add list=Netflix	18.66.27.17	comment=Netflix
+add list=Netflix	18.66.27.39	comment=Netflix
+add list=Netflix	18.66.27.67	comment=Netflix
+add list=Netflix	18.66.27.84	comment=Netflix
+add list=Netflix	18.66.171.14	comment=Netflix
+add list=Netflix	18.66.171.37	comment=Netflix
+add list=Netflix	18.66.171.56	comment=Netflix
+add list=Netflix	18.66.171.95	comment=Netflix
+add list=Netflix	18.66.248.62	comment=Netflix
+add list=Netflix	18.66.248.65	comment=Netflix
+add list=Netflix	18.66.248.79	comment=Netflix
+add list=Netflix	18.66.248.104	comment=Netflix
+add list=Netflix	18.118.251.233	comment=Netflix
+add list=Netflix	18.154.48.25	comment=Netflix
+add list=Netflix	18.154.48.82	comment=Netflix
+add list=Netflix	18.154.48.85	comment=Netflix
+add list=Netflix	18.154.48.115	comment=Netflix
+add list=Netflix	18.161.111.37	comment=Netflix
+add list=Netflix	18.161.111.38	comment=Netflix
+add list=Netflix	18.161.111.48	comment=Netflix
+add list=Netflix	18.161.111.90	comment=Netflix
+add list=Netflix	18.164.68.44	comment=Netflix
+add list=Netflix	18.164.68.54	comment=Netflix
+add list=Netflix	18.164.68.60	comment=Netflix
+add list=Netflix	18.164.68.115	comment=Netflix
+add list=Netflix	18.165.122.21	comment=Netflix
+add list=Netflix	18.165.122.49	comment=Netflix
+add list=Netflix	18.165.122.108	comment=Netflix
+add list=Netflix	18.165.122.123	comment=Netflix
+add list=Netflix	18.165.140.29	comment=Netflix
+add list=Netflix	18.165.140.66	comment=Netflix
+add list=Netflix	18.165.140.122	comment=Netflix
+add list=Netflix	18.165.140.129	comment=Netflix
+add list=Netflix	18.165.160.42	comment=Netflix
+add list=Netflix	18.165.160.79	comment=Netflix
+add list=Netflix	18.165.160.84	comment=Netflix
+add list=Netflix	18.165.160.103	comment=Netflix
+add list=Netflix	18.165.171.22	comment=Netflix
+add list=Netflix	18.165.171.63	comment=Netflix
+add list=Netflix	18.165.171.74	comment=Netflix
+add list=Netflix	18.165.171.86	comment=Netflix
+add list=Netflix	18.165.183.15	comment=Netflix
+add list=Netflix	18.165.183.32	comment=Netflix
+add list=Netflix	18.165.183.34	comment=Netflix
+add list=Netflix	18.165.183.82	comment=Netflix
+add list=Netflix	18.172.226.35	comment=Netflix
+add list=Netflix	18.172.226.45	comment=Netflix
+add list=Netflix	18.172.226.79	comment=Netflix
+add list=Netflix	18.172.226.90	comment=Netflix
+add list=Netflix	18.188.99.18	comment=Netflix
+add list=Netflix	18.189.65.196	comment=Netflix
+add list=Netflix	18.190.9.38	comment=Netflix
+add list=Netflix	18.191.2.23	comment=Netflix
+add list=Netflix	18.191.122.176	comment=Netflix
+add list=Netflix	18.200.8.190	comment=Netflix
+add list=Netflix	18.207.84.236	comment=Netflix
+add list=Netflix	18.211.239.233	comment=Netflix
+add list=Netflix	18.217.83.66	comment=Netflix
+add list=Netflix	18.219.30.145	comment=Netflix
+add list=Netflix	18.223.242.221	comment=Netflix
+add list=Netflix	18.224.115.146	comment=Netflix
+add list=Netflix	18.224.206.46	comment=Netflix
+add list=Netflix	18.236.7.30	comment=Netflix
+add list=Netflix	18.238.243.30	comment=Netflix
+add list=Netflix	18.238.243.84	comment=Netflix
+add list=Netflix	18.238.243.87	comment=Netflix
+add list=Netflix	18.238.243.90	comment=Netflix
+add list=Netflix	18.239.69.42	comment=Netflix
+add list=Netflix	18.239.69.102	comment=Netflix
+add list=Netflix	18.239.69.118	comment=Netflix
+add list=Netflix	18.239.69.121	comment=Netflix
+add list=Netflix	18.239.94.58	comment=Netflix
+add list=Netflix	18.239.94.89	comment=Netflix
+add list=Netflix	18.239.94.92	comment=Netflix
+add list=Netflix	18.239.94.128	comment=Netflix
+add list=Netflix	18.239.208.70	comment=Netflix
+add list=Netflix	18.239.208.71	comment=Netflix
+add list=Netflix	18.239.208.84	comment=Netflix
+add list=Netflix	18.239.208.101	comment=Netflix
+add list=Netflix	18.239.255.10	comment=Netflix
+add list=Netflix	18.239.255.34	comment=Netflix
+add list=Netflix	18.239.255.90	comment=Netflix
+add list=Netflix	18.239.255.103	comment=Netflix
+add list=Netflix	18.244.146.20	comment=Netflix
+add list=Netflix	18.244.146.27	comment=Netflix
+add list=Netflix	18.244.146.64	comment=Netflix
+add list=Netflix	18.244.146.67	comment=Netflix
+add list=Netflix	18.245.46.11	comment=Netflix
+add list=Netflix	18.245.46.62	comment=Netflix
+add list=Netflix	18.245.46.82	comment=Netflix
+add list=Netflix	18.245.46.102	comment=Netflix
+add list=Netflix	23.12.110.45	comment=Netflix
+add list=Netflix	23.34.43.107	comment=Netflix
+add list=Netflix	23.40.225.22	comment=Netflix
+add list=Netflix	23.54.1.163	comment=Netflix
+add list=Netflix	23.63.242.82	comment=Netflix
+add list=Netflix	23.63.242.83	comment=Netflix
+add list=Netflix	23.63.242.89	comment=Netflix
+add list=Netflix	23.63.242.90	comment=Netflix
+add list=Netflix	23.63.242.96	comment=Netflix
+add list=Netflix	23.63.242.98	comment=Netflix
+add list=Netflix	23.63.242.99	comment=Netflix
+add list=Netflix	23.63.243.80	comment=Netflix
+add list=Netflix	23.63.243.81	comment=Netflix
+add list=Netflix	23.63.243.82	comment=Netflix
+add list=Netflix	23.63.243.83	comment=Netflix
+add list=Netflix	23.63.243.88	comment=Netflix
+add list=Netflix	23.63.243.89	comment=Netflix
+add list=Netflix	23.63.243.90	comment=Netflix
+add list=Netflix	23.63.243.91	comment=Netflix
+add list=Netflix	23.63.243.96	comment=Netflix
+add list=Netflix	23.63.243.97	comment=Netflix
+add list=Netflix	23.63.243.98	comment=Netflix
+add list=Netflix	23.63.243.99	comment=Netflix
+add list=Netflix	23.63.243.104	comment=Netflix
+add list=Netflix	23.209.116.8	comment=Netflix
+add list=Netflix	23.209.116.9	comment=Netflix
+add list=Netflix	23.209.116.10	comment=Netflix
+add list=Netflix	23.209.116.11	comment=Netflix
+add list=Netflix	23.209.116.16	comment=Netflix
+add list=Netflix	23.209.116.17	comment=Netflix
+add list=Netflix	23.209.116.49	comment=Netflix
+add list=Netflix	23.209.116.50	comment=Netflix
+add list=Netflix	23.209.116.51	comment=Netflix
+add list=Netflix	23.209.116.56	comment=Netflix
+add list=Netflix	23.211.65.184	comment=Netflix
+add list=Netflix	23.246.58.137	comment=Netflix
+add list=Netflix	24.30.201.53	comment=Netflix
+add list=Netflix	31.13.27.54	comment=Netflix
+add list=Netflix	31.13.27.55	comment=Netflix
+add list=Netflix	31.13.65.7	comment=Netflix
+add list=Netflix	31.13.66.10	comment=Netflix
+add list=Netflix	31.13.66.18	comment=Netflix
+add list=Netflix	31.13.66.19	comment=Netflix
+add list=Netflix	31.13.66.28	comment=Netflix
+add list=Netflix	31.13.66.38	comment=Netflix
+add list=Netflix	31.13.66.53	comment=Netflix
+add list=Netflix	31.13.66.63	comment=Netflix
+add list=Netflix	31.13.67.20	comment=Netflix
+add list=Netflix	31.13.70.7	comment=Netflix
+add list=Netflix	31.13.71.7	comment=Netflix
+add list=Netflix	31.13.72.2	comment=Netflix
+add list=Netflix	31.13.72.5	comment=Netflix
+add list=Netflix	31.13.72.8	comment=Netflix
+add list=Netflix	31.13.72.12	comment=Netflix
+add list=Netflix	31.13.72.36	comment=Netflix
+add list=Netflix	31.13.72.37	comment=Netflix
+add list=Netflix	31.13.72.53	comment=Netflix
+add list=Netflix	31.13.72.174	comment=Netflix
+add list=Netflix	31.13.82.2	comment=Netflix
+add list=Netflix	31.13.82.3	comment=Netflix
+add list=Netflix	31.13.82.7	comment=Netflix
+add list=Netflix	31.13.83.1	comment=Netflix
+add list=Netflix	31.13.83.2	comment=Netflix
+add list=Netflix	31.13.83.4	comment=Netflix
+add list=Netflix	31.13.83.48	comment=Netflix
+add list=Netflix	31.13.84.1	comment=Netflix
+add list=Netflix	31.13.84.2	comment=Netflix
+add list=Netflix	31.13.84.4	comment=Netflix
+add list=Netflix	31.13.84.48	comment=Netflix
+add list=Netflix	31.13.85.4	comment=Netflix
+add list=Netflix	31.13.86.1	comment=Netflix
+add list=Netflix	31.13.86.2	comment=Netflix
+add list=Netflix	31.13.86.4	comment=Netflix
+add list=Netflix	31.13.86.48	comment=Netflix
+add list=Netflix	31.13.87.9	comment=Netflix
+add list=Netflix	31.13.88.13	comment=Netflix
+add list=Netflix	31.13.93.26	comment=Netflix
+add list=Netflix	34.194.4.124	comment=Netflix
+add list=Netflix	34.195.42.24	comment=Netflix
+add list=Netflix	34.197.53.168	comment=Netflix
+add list=Netflix	34.202.114.174	comment=Netflix
+add list=Netflix	34.203.127.113	comment=Netflix
+add list=Netflix	34.204.22.118	comment=Netflix
+add list=Netflix	34.206.169.162	comment=Netflix
+add list=Netflix	34.208.235.84	comment=Netflix
+add list=Netflix	34.212.185.237	comment=Netflix
+add list=Netflix	34.217.252.38	comment=Netflix
+add list=Netflix	34.218.19.240	comment=Netflix
+add list=Netflix	34.224.36.125	comment=Netflix
+add list=Netflix	34.225.72.208	comment=Netflix
+add list=Netflix	34.230.169.31	comment=Netflix
+add list=Netflix	34.231.208.206	comment=Netflix
+add list=Netflix	34.232.35.42	comment=Netflix
+add list=Netflix	34.233.31.196	comment=Netflix
+add list=Netflix	34.234.109.38	comment=Netflix
+add list=Netflix	34.236.87.147	comment=Netflix
+add list=Netflix	34.237.157.76	comment=Netflix
+add list=Netflix	34.240.52.30	comment=Netflix
+add list=Netflix	34.241.157.21	comment=Netflix
+add list=Netflix	34.241.206.117	comment=Netflix
+add list=Netflix	34.241.234.20	comment=Netflix
+add list=Netflix	34.242.48.77	comment=Netflix
+add list=Netflix	34.242.150.220	comment=Netflix
+add list=Netflix	34.247.18.13	comment=Netflix
+add list=Netflix	34.248.14.88	comment=Netflix
+add list=Netflix	34.248.75.49	comment=Netflix
+add list=Netflix	34.248.133.31	comment=Netflix
+add list=Netflix	34.248.167.66	comment=Netflix
+add list=Netflix	34.248.216.204	comment=Netflix
+add list=Netflix	34.250.2.79	comment=Netflix
+add list=Netflix	34.250.84.59	comment=Netflix
+add list=Netflix	34.251.84.199	comment=Netflix
+add list=Netflix	34.251.86.201	comment=Netflix
+add list=Netflix	34.252.74.1	comment=Netflix
+add list=Netflix	34.252.180.155	comment=Netflix
+add list=Netflix	34.253.247.31	comment=Netflix
+add list=Netflix	35.82.63.100	comment=Netflix
+add list=Netflix	35.163.192.149	comment=Netflix
+add list=Netflix	35.165.63.51	comment=Netflix
+add list=Netflix	38.142.246.50	comment=Netflix
+add list=Netflix	44.196.195.32	comment=Netflix
+add list=Netflix	44.197.57.108	comment=Netflix
+add list=Netflix	44.197.221.148	comment=Netflix
+add list=Netflix	44.209.144.235	comment=Netflix
+add list=Netflix	44.221.182.210	comment=Netflix
+add list=Netflix	44.226.113.145	comment=Netflix
+add list=Netflix	44.226.179.188	comment=Netflix
+add list=Netflix	44.226.248.54	comment=Netflix
+add list=Netflix	44.228.67.58	comment=Netflix
+add list=Netflix	44.229.122.169	comment=Netflix
+add list=Netflix	44.234.232.238	comment=Netflix
+add list=Netflix	44.236.136.138	comment=Netflix
+add list=Netflix	44.236.148.165	comment=Netflix
+add list=Netflix	44.237.234.25	comment=Netflix
+add list=Netflix	44.240.158.19	comment=Netflix
+add list=Netflix	44.240.252.44	comment=Netflix
+add list=Netflix	44.242.13.161	comment=Netflix
+add list=Netflix	44.242.60.85	comment=Netflix
+add list=Netflix	44.242.88.30	comment=Netflix
+add list=Netflix	44.242.131.93	comment=Netflix
+add list=Netflix	44.245.172.95	comment=Netflix
+add list=Netflix	45.57.90.1	comment=Netflix
+add list=Netflix	45.57.91.1	comment=Netflix
+add list=Netflix	46.137.171.215	comment=Netflix
+add list=Netflix	50.17.247.9	comment=Netflix
+add list=Netflix	52.0.16.118	comment=Netflix
+add list=Netflix	52.0.131.132	comment=Netflix
+add list=Netflix	52.0.143.13	comment=Netflix
+add list=Netflix	52.1.119.170	comment=Netflix
+add list=Netflix	52.1.147.205	comment=Netflix
+add list=Netflix	52.1.173.203	comment=Netflix
+add list=Netflix	52.3.132.208	comment=Netflix
+add list=Netflix	52.3.144.142	comment=Netflix
+add list=Netflix	52.4.38.70	comment=Netflix
+add list=Netflix	52.4.145.119	comment=Netflix
+add list=Netflix	52.4.175.111	comment=Netflix
+add list=Netflix	52.4.225.124	comment=Netflix
+add list=Netflix	52.4.240.221	comment=Netflix
+add list=Netflix	52.4.252.149	comment=Netflix
+add list=Netflix	52.5.181.79	comment=Netflix
+add list=Netflix	52.5.249.234	comment=Netflix
+add list=Netflix	52.6.3.192	comment=Netflix
+add list=Netflix	52.6.46.142	comment=Netflix
+add list=Netflix	52.7.244.252	comment=Netflix
+add list=Netflix	52.10.208.126	comment=Netflix
+add list=Netflix	52.12.247.40	comment=Netflix
+add list=Netflix	52.14.201.162	comment=Netflix
+add list=Netflix	52.16.250.204	comment=Netflix
+add list=Netflix	52.17.111.227	comment=Netflix
+add list=Netflix	52.17.132.61	comment=Netflix
+add list=Netflix	52.17.158.47	comment=Netflix
+add list=Netflix	52.18.173.121	comment=Netflix
+add list=Netflix	52.18.200.194	comment=Netflix
+add list=Netflix	52.18.254.239	comment=Netflix
+add list=Netflix	52.20.93.85	comment=Netflix
+add list=Netflix	52.20.126.149	comment=Netflix
+add list=Netflix	52.21.1.20	comment=Netflix
+add list=Netflix	52.30.139.33	comment=Netflix
+add list=Netflix	52.30.181.20	comment=Netflix
+add list=Netflix	52.31.48.193	comment=Netflix
+add list=Netflix	52.31.50.243	comment=Netflix
+add list=Netflix	52.33.247.19	comment=Netflix
+add list=Netflix	52.38.7.83	comment=Netflix
+add list=Netflix	52.41.151.213	comment=Netflix
+add list=Netflix	52.44.197.215	comment=Netflix
+add list=Netflix	52.45.118.37	comment=Netflix
+add list=Netflix	52.45.139.166	comment=Netflix
+add list=Netflix	52.48.29.108	comment=Netflix
+add list=Netflix	52.49.29.169	comment=Netflix
+add list=Netflix	52.49.41.243	comment=Netflix
+add list=Netflix	52.49.77.122	comment=Netflix
+add list=Netflix	52.71.159.247	comment=Netflix
+add list=Netflix	52.73.208.141	comment=Netflix
+add list=Netflix	52.84.106.46	comment=Netflix
+add list=Netflix	52.84.106.77	comment=Netflix
+add list=Netflix	52.84.106.114	comment=Netflix
+add list=Netflix	52.84.106.125	comment=Netflix
+add list=Netflix	52.84.174.58	comment=Netflix
+add list=Netflix	52.84.174.72	comment=Netflix
+add list=Netflix	52.84.174.76	comment=Netflix
+add list=Netflix	52.84.174.89	comment=Netflix
+add list=Netflix	52.85.5.12	comment=Netflix
+add list=Netflix	52.85.5.38	comment=Netflix
+add list=Netflix	52.85.5.87	comment=Netflix
+add list=Netflix	52.85.5.90	comment=Netflix
+add list=Netflix	52.85.49.11	comment=Netflix
+add list=Netflix	52.85.49.53	comment=Netflix
+add list=Netflix	52.85.49.77	comment=Netflix
+add list=Netflix	52.85.49.78	comment=Netflix
+add list=Netflix	52.85.65.17	comment=Netflix
+add list=Netflix	52.85.65.82	comment=Netflix
+add list=Netflix	52.85.65.92	comment=Netflix
+add list=Netflix	52.85.65.94	comment=Netflix
+add list=Netflix	52.85.92.36	comment=Netflix
+add list=Netflix	52.85.92.57	comment=Netflix
+add list=Netflix	52.85.92.60	comment=Netflix
+add list=Netflix	52.85.92.90	comment=Netflix
+add list=Netflix	52.86.215.195	comment=Netflix
+add list=Netflix	52.200.123.138	comment=Netflix
+add list=Netflix	52.201.152.21	comment=Netflix
+add list=Netflix	52.202.3.60	comment=Netflix
+add list=Netflix	52.202.25.104	comment=Netflix
+add list=Netflix	52.203.167.181	comment=Netflix
+add list=Netflix	52.205.54.147	comment=Netflix
+add list=Netflix	52.205.128.212	comment=Netflix
+add list=Netflix	52.208.98.177	comment=Netflix
+add list=Netflix	52.209.109.107	comment=Netflix
+add list=Netflix	52.209.117.91	comment=Netflix
+add list=Netflix	52.209.156.152	comment=Netflix
+add list=Netflix	52.209.207.213	comment=Netflix
+add list=Netflix	52.209.211.52	comment=Netflix
+add list=Netflix	52.210.63.192	comment=Netflix
+add list=Netflix	52.210.121.131	comment=Netflix
+add list=Netflix	52.210.222.25	comment=Netflix
+add list=Netflix	52.211.14.11	comment=Netflix
+add list=Netflix	52.211.110.190	comment=Netflix
+add list=Netflix	52.211.122.201	comment=Netflix
+add list=Netflix	52.212.50.192	comment=Netflix
+add list=Netflix	52.213.52.7	comment=Netflix
+add list=Netflix	52.213.79.183	comment=Netflix
+add list=Netflix	52.213.117.187	comment=Netflix
+add list=Netflix	52.213.164.31	comment=Netflix
+add list=Netflix	52.214.145.154	comment=Netflix
+add list=Netflix	52.214.181.141	comment=Netflix
+add list=Netflix	52.215.19.134	comment=Netflix
+add list=Netflix	52.215.78.165	comment=Netflix
+add list=Netflix	54.71.111.211	comment=Netflix
+add list=Netflix	54.71.245.24	comment=Netflix
+add list=Netflix	54.72.58.194	comment=Netflix
+add list=Netflix	54.72.76.153	comment=Netflix
+add list=Netflix	54.72.107.8	comment=Netflix
+add list=Netflix	54.72.160.4	comment=Netflix
+add list=Netflix	54.73.39.119	comment=Netflix
+add list=Netflix	54.73.148.110	comment=Netflix
+add list=Netflix	54.74.73.31	comment=Netflix
+add list=Netflix	54.76.87.134	comment=Netflix
+add list=Netflix	54.76.138.123	comment=Netflix
+add list=Netflix	54.76.212.68	comment=Netflix
+add list=Netflix	54.77.129.190	comment=Netflix
+add list=Netflix	54.84.54.3	comment=Netflix
+add list=Netflix	54.84.202.69	comment=Netflix
+add list=Netflix	54.88.59.75	comment=Netflix
+add list=Netflix	54.145.90.155	comment=Netflix
+add list=Netflix	54.154.91.127	comment=Netflix
+add list=Netflix	54.155.178.5	comment=Netflix
+add list=Netflix	54.155.246.232	comment=Netflix
+add list=Netflix	54.160.93.182	comment=Netflix
+add list=Netflix	54.162.100.207	comment=Netflix
+add list=Netflix	54.164.132.89	comment=Netflix
+add list=Netflix	54.167.250.117	comment=Netflix
+add list=Netflix	54.170.196.176	comment=Netflix
+add list=Netflix	54.174.31.200	comment=Netflix
+add list=Netflix	54.174.223.235	comment=Netflix
+add list=Netflix	54.189.73.148	comment=Netflix
+add list=Netflix	54.189.185.191	comment=Netflix
+add list=Netflix	54.194.82.94	comment=Netflix
+add list=Netflix	54.208.154.79	comment=Netflix
+add list=Netflix	54.213.101.195	comment=Netflix
+add list=Netflix	54.214.31.161	comment=Netflix
+add list=Netflix	54.216.64.205	comment=Netflix
+add list=Netflix	54.217.229.70	comment=Netflix
+add list=Netflix	54.220.198.173	comment=Netflix
+add list=Netflix	54.229.6.192	comment=Netflix
+add list=Netflix	54.229.73.5	comment=Netflix
+add list=Netflix	54.229.84.137	comment=Netflix
+add list=Netflix	54.229.129.97	comment=Netflix
+add list=Netflix	54.229.239.201	comment=Netflix
+add list=Netflix	54.229.254.136	comment=Netflix
+add list=Netflix	54.230.206.16	comment=Netflix
+add list=Netflix	54.230.206.20	comment=Netflix
+add list=Netflix	54.230.206.82	comment=Netflix
+add list=Netflix	54.230.206.100	comment=Netflix
+add list=Netflix	54.235.126.162	comment=Netflix
+add list=Netflix	54.235.153.250	comment=Netflix
+add list=Netflix	54.237.226.164	comment=Netflix
+add list=Netflix	54.240.174.11	comment=Netflix
+add list=Netflix	54.240.174.38	comment=Netflix
+add list=Netflix	54.240.174.123	comment=Netflix
+add list=Netflix	54.240.174.128	comment=Netflix
+add list=Netflix	54.246.58.140	comment=Netflix
+add list=Netflix	54.246.79.9	comment=Netflix
+add list=Netflix	54.246.169.239	comment=Netflix
+add list=Netflix	57.144.110.192	comment=Netflix
+add list=Netflix	57.144.132.128	comment=Netflix
+add list=Netflix	57.144.144.128	comment=Netflix
+add list=Netflix	57.144.152.128	comment=Netflix
+add list=Netflix	65.9.66.4	comment=Netflix
+add list=Netflix	65.9.66.9	comment=Netflix
+add list=Netflix	65.9.66.22	comment=Netflix
+add list=Netflix	65.9.66.62	comment=Netflix
+add list=Netflix	65.9.95.10	comment=Netflix
+add list=Netflix	65.9.95.64	comment=Netflix
+add list=Netflix	65.9.95.82	comment=Netflix
+add list=Netflix	65.9.95.96	comment=Netflix
+add list=Netflix	65.9.189.27	comment=Netflix
+add list=Netflix	65.9.189.55	comment=Netflix
+add list=Netflix	65.9.189.73	comment=Netflix
+add list=Netflix	65.9.189.115	comment=Netflix
+add list=Netflix	69.53.236.55	comment=Netflix
+add list=Netflix	69.171.227.75	comment=Netflix
+add list=Netflix	74.112.186.157	comment=Netflix
+add list=Netflix	74.125.131.121	comment=Netflix
+add list=Netflix	79.125.89.59	comment=Netflix
+add list=Netflix	81.198.165.8	comment=Netflix
+add list=Netflix	81.198.165.9	comment=Netflix
+add list=Netflix	81.198.165.10	comment=Netflix
+add list=Netflix	81.198.165.11	comment=Netflix
+add list=Netflix	81.198.165.16	comment=Netflix
+add list=Netflix	81.198.165.27	comment=Netflix
+add list=Netflix	81.198.165.32	comment=Netflix
+add list=Netflix	81.198.165.34	comment=Netflix
+add list=Netflix	81.198.165.40	comment=Netflix
+add list=Netflix	88.221.96.195	comment=Netflix
+add list=Netflix	92.123.204.189	comment=Netflix
+add list=Netflix	98.85.45.78	comment=Netflix
+add list=Netflix	98.85.148.156	comment=Netflix
+add list=Netflix	98.85.218.18	comment=Netflix
+add list=Netflix	99.81.174.244	comment=Netflix
+add list=Netflix	99.83.89.145	comment=Netflix
+add list=Netflix	100.20.29.191	comment=Netflix
+add list=Netflix	100.28.105.134	comment=Netflix
+add list=Netflix	100.127.234.41	comment=Netflix
+add list=Netflix	100.127.234.71	comment=Netflix
+add list=Netflix	100.127.234.114	comment=Netflix
+add list=Netflix	100.127.234.150	comment=Netflix
+add list=Netflix	100.127.234.163	comment=Netflix
+add list=Netflix	100.127.234.200	comment=Netflix
+add list=Netflix	100.127.234.201	comment=Netflix
+add list=Netflix	100.127.234.212	comment=Netflix
+add list=Netflix	100.127.234.240	comment=Netflix
+add list=Netflix	100.127.234.241	comment=Netflix
+add list=Netflix	100.127.235.43	comment=Netflix
+add list=Netflix	100.127.235.86	comment=Netflix
+add list=Netflix	100.127.235.174	comment=Netflix
+add list=Netflix	100.127.235.207	comment=Netflix
+add list=Netflix	100.127.238.45	comment=Netflix
+add list=Netflix	100.127.238.63	comment=Netflix
+add list=Netflix	100.127.238.163	comment=Netflix
+add list=Netflix	100.127.238.185	comment=Netflix
+add list=Netflix	100.127.238.207	comment=Netflix
+add list=Netflix	100.127.239.30	comment=Netflix
+add list=Netflix	100.127.239.64	comment=Netflix
+add list=Netflix	100.127.239.86	comment=Netflix
+add list=Netflix	100.127.239.90	comment=Netflix
+add list=Netflix	100.127.239.149	comment=Netflix
+add list=Netflix	100.127.239.172	comment=Netflix
+add list=Netflix	100.127.239.235	comment=Netflix
+add list=Netflix	104.17.237.25	comment=Netflix
+add list=Netflix	104.17.238.25	comment=Netflix
+add list=Netflix	104.17.239.25	comment=Netflix
+add list=Netflix	104.17.240.25	comment=Netflix
+add list=Netflix	104.17.241.25	comment=Netflix
+add list=Netflix	104.71.143.196	comment=Netflix
+add list=Netflix	104.71.143.197	comment=Netflix
+add list=Netflix	104.71.143.198	comment=Netflix
+add list=Netflix	104.71.143.199	comment=Netflix
+add list=Netflix	104.71.143.200	comment=Netflix
+add list=Netflix	104.71.143.201	comment=Netflix
+add list=Netflix	104.71.143.202	comment=Netflix
+add list=Netflix	104.71.143.203	comment=Netflix
+add list=Netflix	104.71.143.204	comment=Netflix
+add list=Netflix	104.71.143.205	comment=Netflix
+add list=Netflix	104.71.143.206	comment=Netflix
+add list=Netflix	104.71.143.207	comment=Netflix
+add list=Netflix	104.71.143.208	comment=Netflix
+add list=Netflix	104.71.143.209	comment=Netflix
+add list=Netflix	104.71.143.210	comment=Netflix
+add list=Netflix	104.71.143.211	comment=Netflix
+add list=Netflix	104.71.143.212	comment=Netflix
+add list=Netflix	104.71.143.213	comment=Netflix
+add list=Netflix	104.71.143.214	comment=Netflix
+add list=Netflix	104.71.143.215	comment=Netflix
+add list=Netflix	104.71.143.216	comment=Netflix
+add list=Netflix	104.71.143.217	comment=Netflix
+add list=Netflix	104.71.143.218	comment=Netflix
+add list=Netflix	104.71.143.219	comment=Netflix
+add list=Netflix	104.71.143.220	comment=Netflix
+add list=Netflix	104.81.120.184	comment=Netflix
+add list=Netflix	104.96.203.9	comment=Netflix
+add list=Netflix	104.96.203.10	comment=Netflix
+add list=Netflix	104.96.203.11	comment=Netflix
+add list=Netflix	104.96.203.16	comment=Netflix
+add list=Netflix	104.96.203.17	comment=Netflix
+add list=Netflix	104.96.203.18	comment=Netflix
+add list=Netflix	104.96.203.19	comment=Netflix
+add list=Netflix	104.96.203.24	comment=Netflix
+add list=Netflix	104.96.203.25	comment=Netflix
+add list=Netflix	104.96.203.26	comment=Netflix
+add list=Netflix	104.96.203.32	comment=Netflix
+add list=Netflix	104.96.203.33	comment=Netflix
+add list=Netflix	104.96.203.34	comment=Netflix
+add list=Netflix	104.96.203.35	comment=Netflix
+add list=Netflix	104.96.203.40	comment=Netflix
+add list=Netflix	104.96.203.41	comment=Netflix
+add list=Netflix	104.96.203.42	comment=Netflix
+add list=Netflix	104.96.203.43	comment=Netflix
+add list=Netflix	104.96.203.48	comment=Netflix
+add list=Netflix	104.96.203.49	comment=Netflix
+add list=Netflix	104.96.203.50	comment=Netflix
+add list=Netflix	104.96.203.51	comment=Netflix
+add list=Netflix	104.102.9.192	comment=Netflix
+add list=Netflix	107.20.160.27	comment=Netflix
+add list=Netflix	107.20.175.192	comment=Netflix
+add list=Netflix	108.139.229.8	comment=Netflix
+add list=Netflix	108.139.229.36	comment=Netflix
+add list=Netflix	108.139.229.41	comment=Netflix
+add list=Netflix	108.139.229.90	comment=Netflix
+add list=Netflix	108.156.2.48	comment=Netflix
+add list=Netflix	108.156.2.58	comment=Netflix
+add list=Netflix	108.156.2.94	comment=Netflix
+add list=Netflix	108.156.2.103	comment=Netflix
+add list=Netflix	108.156.22.38	comment=Netflix
+add list=Netflix	108.156.22.49	comment=Netflix
+add list=Netflix	108.156.22.95	comment=Netflix
+add list=Netflix	108.156.22.111	comment=Netflix
+add list=Netflix	108.156.60.44	comment=Netflix
+add list=Netflix	108.156.60.92	comment=Netflix
+add list=Netflix	108.156.60.94	comment=Netflix
+add list=Netflix	108.156.60.109	comment=Netflix
+add list=Netflix	108.157.214.2	comment=Netflix
+add list=Netflix	108.157.214.95	comment=Netflix
+add list=Netflix	108.157.214.122	comment=Netflix
+add list=Netflix	108.157.214.128	comment=Netflix
+add list=Netflix	108.157.229.30	comment=Netflix
+add list=Netflix	108.157.229.58	comment=Netflix
+add list=Netflix	108.157.229.59	comment=Netflix
+add list=Netflix	108.157.229.119	comment=Netflix
+add list=Netflix	108.159.120.7	comment=Netflix
+add list=Netflix	108.159.120.47	comment=Netflix
+add list=Netflix	108.159.120.79	comment=Netflix
+add list=Netflix	108.159.120.80	comment=Netflix
+add list=Netflix	129.134.30.12	comment=Netflix
+add list=Netflix	129.134.31.12	comment=Netflix
+add list=Netflix	129.134.38.44	comment=Netflix
+add list=Netflix	129.134.44.30	comment=Netflix
+add list=Netflix	129.134.52.0	comment=Netflix
+add list=Netflix	129.134.52.166	comment=Netflix
+add list=Netflix	129.134.55.8	comment=Netflix
+add list=Netflix	129.134.103.54	comment=Netflix
+add list=Netflix	129.134.103.55	comment=Netflix
+add list=Netflix	142.250.74.19	comment=Netflix
+add list=Netflix	142.250.74.51	comment=Netflix
+add list=Netflix	142.250.74.83	comment=Netflix
+add list=Netflix	142.250.74.115	comment=Netflix
+add list=Netflix	142.250.180.115	comment=Netflix
+add list=Netflix	142.250.203.243	comment=Netflix
+add list=Netflix	142.251.1.121	comment=Netflix
+add list=Netflix	142.251.37.51	comment=Netflix
+add list=Netflix	142.251.143.83	comment=Netflix
+add list=Netflix	142.251.208.116	comment=Netflix
+add list=Netflix	143.204.55.16	comment=Netflix
+add list=Netflix	143.204.55.25	comment=Netflix
+add list=Netflix	143.204.55.35	comment=Netflix
+add list=Netflix	143.204.55.51	comment=Netflix
+add list=Netflix	143.204.237.4	comment=Netflix
+add list=Netflix	143.204.237.36	comment=Netflix
+add list=Netflix	143.204.237.83	comment=Netflix
+add list=Netflix	143.204.237.124	comment=Netflix
+add list=Netflix	157.240.0.6	comment=Netflix
+add list=Netflix	157.240.3.10	comment=Netflix
+add list=Netflix	157.240.3.13	comment=Netflix
+add list=Netflix	157.240.3.29	comment=Netflix
+add list=Netflix	157.240.3.52	comment=Netflix
+add list=Netflix	157.240.7.26	comment=Netflix
+add list=Netflix	157.240.11.22	comment=Netflix
+add list=Netflix	157.240.12.16	comment=Netflix
+add list=Netflix	157.240.13.19	comment=Netflix
+add list=Netflix	157.240.14.19	comment=Netflix
+add list=Netflix	157.240.19.26	comment=Netflix
+add list=Netflix	157.240.22.25	comment=Netflix
+add list=Netflix	157.240.65.206	comment=Netflix
+add list=Netflix	157.240.67.240	comment=Netflix
+add list=Netflix	157.240.70.18	comment=Netflix
+add list=Netflix	157.240.82.18	comment=Netflix
+add list=Netflix	157.240.85.232	comment=Netflix
+add list=Netflix	157.240.92.232	comment=Netflix
+add list=Netflix	157.240.93.230	comment=Netflix
+add list=Netflix	157.240.95.110	comment=Netflix
+add list=Netflix	157.240.201.15	comment=Netflix
+add list=Netflix	157.240.202.1	comment=Netflix
+add list=Netflix	157.240.205.1	comment=Netflix
+add list=Netflix	157.240.205.19	comment=Netflix
+add list=Netflix	157.240.205.35	comment=Netflix
+add list=Netflix	157.240.205.36	comment=Netflix
+add list=Netflix	157.240.205.63	comment=Netflix
+add list=Netflix	157.240.205.174	comment=Netflix
+add list=Netflix	157.240.211.13	comment=Netflix
+add list=Netflix	157.240.214.11	comment=Netflix
+add list=Netflix	157.240.221.16	comment=Netflix
+add list=Netflix	157.240.222.13	comment=Netflix
+add list=Netflix	157.240.222.14	comment=Netflix
+add list=Netflix	157.240.222.24	comment=Netflix
+add list=Netflix	157.240.222.62	comment=Netflix
+add list=Netflix	157.240.224.7	comment=Netflix
+add list=Netflix	157.240.224.8	comment=Netflix
+add list=Netflix	157.240.224.12	comment=Netflix
+add list=Netflix	157.240.224.16	comment=Netflix
+add list=Netflix	157.240.224.35	comment=Netflix
+add list=Netflix	157.240.224.37	comment=Netflix
+add list=Netflix	157.240.224.63	comment=Netflix
+add list=Netflix	157.240.224.174	comment=Netflix
+add list=Netflix	157.240.229.1	comment=Netflix
+add list=Netflix	157.240.229.39	comment=Netflix
+add list=Netflix	157.240.241.1	comment=Netflix
+add list=Netflix	157.240.247.8	comment=Netflix
+add list=Netflix	157.240.247.9	comment=Netflix
+add list=Netflix	157.240.247.17	comment=Netflix
+add list=Netflix	157.240.247.62	comment=Netflix
+add list=Netflix	157.240.249.8	comment=Netflix
+add list=Netflix	157.240.251.6	comment=Netflix
+add list=Netflix	157.240.251.9	comment=Netflix
+add list=Netflix	157.240.252.3	comment=Netflix
+add list=Netflix	157.240.252.10	comment=Netflix
+add list=Netflix	157.240.252.13	comment=Netflix
+add list=Netflix	157.240.252.15	comment=Netflix
+add list=Netflix	157.240.252.62	comment=Netflix
+add list=Netflix	157.240.253.1	comment=Netflix
+add list=Netflix	157.240.253.35	comment=Netflix
+add list=Netflix	157.240.253.174	comment=Netflix
+add list=Netflix	157.240.254.7	comment=Netflix
+add list=Netflix	162.159.129.11	comment=Netflix
+add list=Netflix	162.159.130.11	comment=Netflix
+add list=Netflix	163.70.128.23	comment=Netflix
+add list=Netflix	163.70.147.23	comment=Netflix
+add list=Netflix	163.70.151.21	comment=Netflix
+add list=Netflix	163.70.158.11	comment=Netflix
+add list=Netflix	163.70.159.13	comment=Netflix
+add list=Netflix	172.26.1.8	comment=Netflix
+add list=Netflix	172.217.21.179	comment=Netflix
+add list=Netflix	176.34.94.213	comment=Netflix
+add list=Netflix	179.60.195.3	comment=Netflix
+add list=Netflix	179.60.195.6	comment=Netflix
+add list=Netflix	179.60.195.12	comment=Netflix
+add list=Netflix	179.60.195.48	comment=Netflix
+add list=Netflix	184.51.225.184	comment=Netflix
+add list=Netflix	185.1.222.144	comment=Netflix
+add list=Netflix	185.60.219.2	comment=Netflix
+add list=Netflix	198.38.108.217	comment=Netflix
+add list=Netflix	204.236.236.127	comment=Netflix
+add list=Netflix	207.45.72.1	comment=Netflix
+add list=Netflix	207.45.72.215	comment=Netflix
+add list=Netflix	207.45.73.1	comment=Netflix
+add list=Netflix	207.45.73.144	comment=Netflix
+add list=Netflix	209.85.233.121	comment=Netflix
+add list=Netflix	216.35.131.141	comment=Netflix
+add list=Netflix	216.58.198.83	comment=Netflix
+add list=Netflix	216.58.205.211	comment=Netflix
+add list=Netflix	216.58.207.211	comment=Netflix
+add list=Netflix	216.58.207.243	comment=Netflix
+add list=Netflix	216.58.209.179	comment=Netflix
+add list=Netflix	216.58.209.211	comment=Netflix
+add list=Netflix	216.58.210.179	comment=Netflix
+add list=Netflix	216.58.211.19	comment=Netflix
+add list=Netflix	216.58.211.211	comment=Netflix
+add list=Netflix	216.58.211.243	comment=Netflix
+add list=Netflix	216.58.211.244	comment=Netflix
+add list=Netflix	216.58.212.115	comment=Netflix
