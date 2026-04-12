@@ -1,18 +1,81 @@
 #Created by DKHNV
-#Gen13 - 23.12.2025
+#Gen2 12.04.2026
 
 /ip firewall address-list
-add list=Netflix address=	23.246.0.0/18	comment=Netflix
-add list=Netflix address=	37.77.184.0/21	comment=Netflix
-add list=Netflix address=	45.57.0.0/17	comment=Netflix
-add list=Netflix address=	64.120.128.0/17	comment=Netflix
-add list=Netflix address=	66.197.128.0/17	comment=Netflix
-add list=Netflix address=	69.53.224.0/19	comment=Netflix
-add list=Netflix address=	108.175.32.0/20	comment=Netflix
-add list=Netflix address=	185.2.220.0/22	comment=Netflix
-add list=Netflix address=	185.9.188.0/22	comment=Netflix
-add list=Netflix address=	192.173.64.0/18	comment=Netflix
-add list=Netflix address=	198.38.96.0/19	comment=Netflix
-add list=Netflix address=	198.45.48.0/20	comment=Netflix
-add list=Netflix address=	207.45.72.0/22	comment=Netflix
-add list=Netflix address=	208.75.76.0/22	comment=Netflix
+
+add list=netflix address=3.137.95.47/32 comment=netflix
+add list=netflix address=3.211.157.115/32 comment=netflix
+add list=netflix address=3.221.228.214/32 comment=netflix
+add list=netflix address=3.232.120.188/32 comment=netflix
+add list=netflix address=10.45.64.1/32 comment=netflix
+add list=netflix address=18.200.8.190/32 comment=netflix
+add list=netflix address=18.202.126.15/32 comment=netflix
+add list=netflix address=18.207.84.236/32 comment=netflix
+add list=netflix address=18.236.7.30/32 comment=netflix
+add list=netflix address=23.222.38.138/32 comment=netflix
+add list=netflix address=23.246.58.137/32 comment=netflix
+add list=netflix address=34.218.19.240/32 comment=netflix
+add list=netflix address=34.242.48.77/32 comment=netflix
+add list=netflix address=34.252.74.1/32 comment=netflix
+add list=netflix address=44.226.113.145/32 comment=netflix
+add list=netflix address=44.240.158.19/32 comment=netflix
+add list=netflix address=45.57.90.1/32 comment=netflix
+add list=netflix address=45.57.91.1/32 comment=netflix
+add list=netflix address=46.137.171.215/32 comment=netflix
+add list=netflix address=50.17.247.9/32 comment=netflix
+add list=netflix address=52.0.16.118/32 comment=netflix
+add list=netflix address=52.0.131.132/32 comment=netflix
+add list=netflix address=52.1.119.170/32 comment=netflix
+add list=netflix address=52.1.147.205/32 comment=netflix
+add list=netflix address=52.1.173.203/32 comment=netflix
+add list=netflix address=52.4.38.70/32 comment=netflix
+add list=netflix address=52.4.145.119/32 comment=netflix
+add list=netflix address=52.4.175.111/32 comment=netflix
+add list=netflix address=52.4.225.124/32 comment=netflix
+add list=netflix address=52.4.240.221/32 comment=netflix
+add list=netflix address=52.5.181.79/32 comment=netflix
+add list=netflix address=52.6.3.192/32 comment=netflix
+add list=netflix address=52.6.46.142/32 comment=netflix
+add list=netflix address=52.31.48.193/32 comment=netflix
+add list=netflix address=52.49.77.122/32 comment=netflix
+add list=netflix address=52.214.181.141/32 comment=netflix
+add list=netflix address=52.215.78.165/32 comment=netflix
+add list=netflix address=54.72.107.8/32 comment=netflix
+add list=netflix address=54.73.148.110/32 comment=netflix
+add list=netflix address=54.76.212.68/32 comment=netflix
+add list=netflix address=54.145.90.155/32 comment=netflix
+add list=netflix address=54.155.246.232/32 comment=netflix
+add list=netflix address=54.170.196.176/32 comment=netflix
+add list=netflix address=54.194.82.94/32 comment=netflix
+add list=netflix address=54.216.64.205/32 comment=netflix
+add list=netflix address=54.220.198.173/32 comment=netflix
+add list=netflix address=54.235.153.250/32 comment=netflix
+add list=netflix address=54.246.58.140/32 comment=netflix
+add list=netflix address=54.246.79.9/32 comment=netflix
+add list=netflix address=63.33.28.190/32 comment=netflix
+add list=netflix address=69.53.236.55/32 comment=netflix
+add list=netflix address=74.112.186.157/32 comment=netflix
+add list=netflix address=79.125.89.59/32 comment=netflix
+add list=netflix address=84.53.175.11/32 comment=netflix
+add list=netflix address=84.53.175.16/32 comment=netflix
+add list=netflix address=88.221.25.171/32 comment=netflix
+add list=netflix address=88.221.25.184/32 comment=netflix
+add list=netflix address=99.80.111.91/32 comment=netflix
+add list=netflix address=99.81.174.244/32 comment=netflix
+add list=netflix address=100.127.237.45/32 comment=netflix
+add list=netflix address=100.127.238.24/32 comment=netflix
+add list=netflix address=104.16.46.231/32 comment=netflix
+add list=netflix address=104.16.47.231/32 comment=netflix
+add list=netflix address=104.16.48.231/32 comment=netflix
+add list=netflix address=104.16.49.231/32 comment=netflix
+add list=netflix address=104.16.50.231/32 comment=netflix
+add list=netflix address=107.20.175.192/32 comment=netflix
+add list=netflix address=142.251.39.147/32 comment=netflix
+add list=netflix address=142.251.209.243/32 comment=netflix
+add list=netflix address=172.26.1.8/32 comment=netflix
+add list=netflix address=176.34.94.213/32 comment=netflix
+add list=netflix address=198.38.108.217/32 comment=netflix
+add list=netflix address=204.236.236.127/32 comment=netflix
+add list=netflix address=207.45.72.215/32 comment=netflix
+add list=netflix address=207.45.73.144/32 comment=netflix
+add list=netflix address=216.35.131.141/32 comment=netflix
