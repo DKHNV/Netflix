@@ -1,3 +1,6 @@
+api-global.netflix.com
+api-user.netflix.com
+api.netflix.com
 appboot.netflix.com
 control.tls.develop.test.cloud.netflix.com
 dse.netflix.com
