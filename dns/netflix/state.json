@@ -1,0 +1,138 @@
+{
+  "hosts": {
+    "appboot.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "appboot.netflix.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "fast.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "fast.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "netflix.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "secure.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "secure.netflix.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "uiboot.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "uiboot.netflix.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    },
+    "www.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 0,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "www.netflix.com",
+      "ipv4": [],
+      "last_check": null,
+      "last_negative": null,
+      "last_result": "UNTESTED",
+      "last_success": null,
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {},
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed"
+      ],
+      "status": "pending"
+    }
+  },
+  "updated_at": null,
+  "version": 2
+}
