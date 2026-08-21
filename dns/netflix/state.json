@@ -1,138 +1,6054 @@
 {
   "hosts": {
-    "appboot.netflix.com": {
+    "ablaze-beta.prod.netflix.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 0,
+      "consecutive_negative_checks": 1,
       "ever_validated": false,
       "expired_at": null,
-      "first_seen": "2026-08-21T07:50:39Z",
-      "hostname": "appboot.netflix.com",
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "ablaze-beta.prod.netflix.com",
       "ipv4": [],
-      "last_check": null,
-      "last_negative": null,
-      "last_result": "UNTESTED",
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
       "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "elb-nlb-wall-e-internal-v6-ad22d8bc38a61128.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.82.166.28",
+            "100.85.111.233",
+            "100.85.16.128"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "elb-nlb-wall-e-internal-v6-ad22d8bc38a61128.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.82.166.28",
+            "100.85.111.233",
+            "100.85.16.128"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "elb-nlb-wall-e-internal-v6-ad22d8bc38a61128.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.82.166.28",
+            "100.85.111.233",
+            "100.85.16.128"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "ablaze.prod.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "ablaze.prod.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "elb-nlb-wall-e-internal-v6-ad22d8bc38a61128.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.82.166.28",
+            "100.85.111.233",
+            "100.85.16.128"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "elb-nlb-wall-e-internal-v6-ad22d8bc38a61128.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.82.166.28",
+            "100.85.111.233",
+            "100.85.16.128"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "elb-nlb-wall-e-internal-v6-ad22d8bc38a61128.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.82.166.28",
+            "100.85.111.233",
+            "100.85.16.128"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "ablaze.test.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "ablaze.test.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "account.leportal.netflix.com": {
+      "canonical_name": "elb-nlb-wall-e-external-7d9a887aa637f47f.elb.us-east-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "account.leportal.netflix.com",
+      "ipv4": [
+        "3.221.228.214",
+        "18.207.84.236",
+        "52.0.131.132"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "elb-nlb-wall-e-external-7d9a887aa637f47f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.221.228.214",
+            "18.207.84.236",
+            "52.0.131.132"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "elb-nlb-wall-e-external-7d9a887aa637f47f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.221.228.214",
+            "18.207.84.236",
+            "52.0.131.132"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "elb-nlb-wall-e-external-7d9a887aa637f47f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.221.228.214",
+            "18.207.84.236",
+            "52.0.131.132"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "account.netflix.com": {
+      "canonical_name": "www.prod.ftl.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "account.netflix.com",
+      "ipv4": [
+        "207.45.72.1",
+        "207.45.73.1"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "acct-api.netflix.com": {
+      "canonical_name": "billingpartnerapi--vpc0-1123721273.us-east-1.elb.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "acct-api.netflix.com",
+      "ipv4": [
+        "34.195.84.90"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "billingpartnerapi--vpc0-1123721273.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "34.195.84.90"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "billingpartnerapi--vpc0-1123721273.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "34.195.84.90"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "billingpartnerapi--vpc0-1123721273.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "34.195.84.90"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "android.prod.dradis.netflix.com": {
+      "canonical_name": "apiproxy-device-prod-nlb-3-a653f8a785200e05.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "android.prod.dradis.netflix.com",
+      "ipv4": [
+        "34.214.209.123",
+        "35.165.30.1",
+        "44.235.227.192",
+        "44.235.252.74",
+        "52.41.157.130",
+        "54.184.157.35"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-device-prod-nlb-4-97fa936b307500cb.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.165.30.1",
+            "44.235.227.192",
+            "54.184.157.35"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-device-prod-nlb-4-97fa936b307500cb.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.165.30.1",
+            "44.235.227.192",
+            "54.184.157.35"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-device-prod-nlb-3-a653f8a785200e05.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.214.209.123",
+            "44.235.252.74",
+            "52.41.157.130"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "appboot.netflix.com": {
+      "canonical_name": "appboot.us-west-2.origin.prodaa.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "appboot.netflix.com",
+      "ipv4": [
+        "34.217.204.82",
+        "44.234.6.167",
+        "52.89.219.164"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "appboot.us-west-2.origin.prodaa.netflix.com",
+          "ipv4": [
+            "34.217.204.82",
+            "44.234.6.167",
+            "52.89.219.164"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "appboot.us-west-2.origin.prodaa.netflix.com",
+          "ipv4": [
+            "34.217.204.82",
+            "44.234.6.167",
+            "52.89.219.164"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "appboot.us-west-2.origin.prodaa.netflix.com",
+          "ipv4": [
+            "34.217.204.82",
+            "44.234.6.167",
+            "52.89.219.164"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "bootstrap_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
-    "fast.com": {
+    "assetqc.backlot.netflix.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 0,
+      "consecutive_negative_checks": 1,
       "ever_validated": false,
       "expired_at": null,
-      "first_seen": "2026-08-21T07:50:39Z",
-      "hostname": "fast.com",
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "assetqc.backlot.netflix.com",
       "ipv4": [],
-      "last_check": null,
-      "last_negative": null,
-      "last_result": "UNTESTED",
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
       "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "assetqc.netflix.com": {
+      "canonical_name": "elb-nlb-wall-e-external-7d9a887aa637f47f.elb.us-east-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "assetqc.netflix.com",
+      "ipv4": [
+        "3.221.228.214",
+        "18.207.84.236",
+        "52.0.131.132"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "elb-nlb-wall-e-external-7d9a887aa637f47f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.221.228.214",
+            "18.207.84.236",
+            "52.0.131.132"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "elb-nlb-wall-e-external-7d9a887aa637f47f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.221.228.214",
+            "18.207.84.236",
+            "52.0.131.132"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "elb-nlb-wall-e-external-7d9a887aa637f47f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.221.228.214",
+            "18.207.84.236",
+            "52.0.131.132"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "billdesk-sihub-encryption-test.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "billdesk-sihub-encryption-test.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "billdesk-sihub-encryption.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "billdesk-sihub-encryption.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "billdesk-sihub-signature-prod.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "billdesk-sihub-signature-prod.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "billdesk-sihub-signature-test.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "billdesk-sihub-signature-test.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "c00.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "c00.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "c00.sand.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "c00.sand.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "c00.tech.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "c00.tech.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "c01.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "c01.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "c01.sand.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "c01.sand.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "c01.tech.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "c01.tech.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "c02.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "c02.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "c02.sand.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "c02.sand.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "c02.tech.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "c02.tech.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "ca.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "ca.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "catalog.netflix.com": {
+      "canonical_name": "apiproxy-partner-prod-mtls-nlb-fc2e5765ba9f3a81.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "catalog.netflix.com",
+      "ipv4": [
+        "34.210.151.137",
+        "44.225.205.100",
+        "44.253.87.205"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-partner-prod-mtls-nlb-fc2e5765ba9f3a81.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.210.151.137",
+            "44.225.205.100",
+            "44.253.87.205"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-partner-prod-mtls-nlb-fc2e5765ba9f3a81.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.210.151.137",
+            "44.225.205.100",
+            "44.253.87.205"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-partner-prod-mtls-nlb-fc2e5765ba9f3a81.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.210.151.137",
+            "44.225.205.100",
+            "44.253.87.205"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "cdn.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "cdn.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "cdn.sand.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "cdn.sand.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "cdn.tech.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "cdn.tech.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "confluence.corp.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "confluence.corp.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "confluence.netflix.com": {
+      "canonical_name": "alluvium-stable-2113129653.us-west-2.elb.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "confluence.netflix.com",
+      "ipv4": [
+        "35.164.121.117",
+        "44.254.11.50",
+        "52.25.139.222"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "alluvium-stable-2113129653.us-west-2.elb.amazonaws.com",
+          "ipv4": [
+            "35.164.121.117",
+            "44.254.11.50",
+            "52.25.139.222"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "alluvium-stable-2113129653.us-west-2.elb.amazonaws.com",
+          "ipv4": [
+            "35.164.121.117",
+            "44.254.11.50",
+            "52.25.139.222"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "alluvium-stable-2113129653.us-west-2.elb.amazonaws.com",
+          "ipv4": [
+            "35.164.121.117",
+            "44.254.11.50",
+            "52.25.139.222"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "contactus.netflix.com": {
+      "canonical_name": "apiproxy-helpcenter-nlb-c7098e1ee413230a.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "contactus.netflix.com",
+      "ipv4": [
+        "34.217.252.38",
+        "44.226.248.54",
+        "54.214.31.161"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-helpcenter-nlb-c7098e1ee413230a.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.217.252.38",
+            "44.226.248.54",
+            "54.214.31.161"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-helpcenter-nlb-c7098e1ee413230a.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.217.252.38",
+            "44.226.248.54",
+            "54.214.31.161"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-helpcenter-nlb-c7098e1ee413230a.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.217.252.38",
+            "44.226.248.54",
+            "54.214.31.161"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "control.tls.develop.test.cloud.netflix.com": {
+      "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "control.tls.develop.test.cloud.netflix.com",
+      "ipv4": [
+        "35.169.19.205",
+        "52.87.41.154",
+        "52.203.123.59"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "35.169.19.205",
+            "52.87.41.154",
+            "52.203.123.59"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "35.169.19.205",
+            "52.87.41.154",
+            "52.203.123.59"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "35.169.19.205",
+            "52.87.41.154",
+            "52.203.123.59"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "deeplink.netflix.com": {
+      "canonical_name": "apiproxy-device-prod-nlb-1-54e80724f8c6ba2d.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "deeplink.netflix.com",
+      "ipv4": [
+        "35.165.30.1",
+        "44.225.17.85",
+        "44.229.178.197",
+        "44.235.227.192",
+        "44.235.228.33",
+        "44.236.11.33",
+        "52.13.68.104",
+        "54.184.157.35",
+        "54.189.33.245"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-device-prod-nlb-1-54e80724f8c6ba2d.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "44.229.178.197",
+            "44.236.11.33",
+            "52.13.68.104"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-device-prod-nlb-2-9a34ae4608b5939d.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "44.225.17.85",
+            "44.235.228.33",
+            "54.189.33.245"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-device-prod-nlb-4-97fa936b307500cb.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.165.30.1",
+            "44.235.227.192",
+            "54.184.157.35"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "develop-stage.netflix.com": {
+      "canonical_name": "apiproxy-website-nlb-staging-64dad1d1ae1b8502.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "develop-stage.netflix.com",
+      "ipv4": [
+        "35.160.97.102",
+        "52.11.156.50",
+        "54.148.182.98"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-website-nlb-staging-64dad1d1ae1b8502.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.160.97.102",
+            "52.11.156.50",
+            "54.148.182.98"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-website-nlb-staging-64dad1d1ae1b8502.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.160.97.102",
+            "52.11.156.50",
+            "54.148.182.98"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-website-nlb-staging-64dad1d1ae1b8502.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.160.97.102",
+            "52.11.156.50",
+            "54.148.182.98"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "dnajs.test.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "dnajs.test.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "dse.netflix.com": {
+      "canonical_name": "detour.prod.netflix.net",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "dse.netflix.com",
+      "ipv4": [
+        "18.236.7.30",
+        "34.218.19.240",
+        "44.226.113.145"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "embed.develop-stage.netflix.com": {
+      "canonical_name": "www.prod.ftl.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "embed.develop-stage.netflix.com",
+      "ipv4": [
+        "207.45.72.1",
+        "207.45.73.1"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "embed.release-stage.netflix.com": {
+      "canonical_name": "www.prod.ftl.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "embed.release-stage.netflix.com",
+      "ipv4": [
+        "207.45.72.1",
+        "207.45.73.1"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "fast.com": {
+      "canonical_name": "fast.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "fast.com",
+      "ipv4": [
+        "23.203.236.4",
+        "96.17.217.57"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "fast.com",
+          "ipv4": [
+            "23.203.236.4"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "fast.com",
+          "ipv4": [
+            "23.203.236.4"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "fast.com",
+          "ipv4": [
+            "96.17.217.57"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "bootstrap_seed"
+      ],
+      "status": "active"
+    },
+    "ftl.netflix.com": {
+      "canonical_name": "ftl.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "ftl.netflix.com",
+      "ipv4": [
+        "45.57.40.1",
+        "45.57.41.1"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "ftl.netflix.com",
+          "ipv4": [
+            "45.57.40.1",
+            "45.57.41.1"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "ftl.netflix.com",
+          "ipv4": [
+            "45.57.40.1",
+            "45.57.41.1"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "ftl.netflix.com",
+          "ipv4": [
+            "45.57.40.1",
+            "45.57.41.1"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "graphit.dta.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "graphit.dta.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "internal-mat-graphit-1382162984.us-west-2.elb.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.81.24.38"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "internal-mat-graphit-1382162984.us-west-2.elb.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.81.24.38"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "internal-mat-graphit-1382162984.us-west-2.elb.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.81.24.38"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "helix-prod-202510-202610.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "helix-prod-202510-202610.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "help.netflix.com": {
+      "canonical_name": "apiproxy-helpcenter-nlb-c7098e1ee413230a.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "help.netflix.com",
+      "ipv4": [
+        "34.217.252.38",
+        "44.226.248.54",
+        "54.214.31.161"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-helpcenter-nlb-c7098e1ee413230a.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.217.252.38",
+            "44.226.248.54",
+            "54.214.31.161"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-helpcenter-nlb-c7098e1ee413230a.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.217.252.38",
+            "44.226.248.54",
+            "54.214.31.161"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-helpcenter-nlb-c7098e1ee413230a.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.217.252.38",
+            "44.226.248.54",
+            "54.214.31.161"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "help.stage.netflix.com": {
+      "canonical_name": "apiproxy-staging-nlb-ba33824345946d8f.elb.us-east-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "help.stage.netflix.com",
+      "ipv4": [
+        "3.230.221.30",
+        "52.21.52.186",
+        "52.207.146.139"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-staging-nlb-ba33824345946d8f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.230.221.30",
+            "52.21.52.186",
+            "52.207.146.139"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-staging-nlb-ba33824345946d8f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.230.221.30",
+            "52.21.52.186",
+            "52.207.146.139"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-staging-nlb-ba33824345946d8f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.230.221.30",
+            "52.21.52.186",
+            "52.207.146.139"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "hopper-stream.prototypes.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "hopper-stream.prototypes.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "internaljobs.netflix.com": {
+      "canonical_name": "detour.prod.netflix.net",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "internaljobs.netflix.com",
+      "ipv4": [
+        "18.236.7.30",
+        "34.218.19.240",
+        "34.252.74.1",
+        "44.226.113.145",
+        "46.137.171.215",
+        "52.31.48.193"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "34.252.74.1",
+            "46.137.171.215",
+            "52.31.48.193"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "ios.prod.dradis.netflix.com": {
+      "canonical_name": "apiproxy-device-prod-nlb-1-54e80724f8c6ba2d.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "ios.prod.dradis.netflix.com",
+      "ipv4": [
+        "34.214.209.123",
+        "35.165.30.1",
+        "44.229.178.197",
+        "44.235.227.192",
+        "44.235.252.74",
+        "44.236.11.33",
+        "52.13.68.104",
+        "52.41.157.130",
+        "54.184.157.35"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-device-prod-nlb-3-a653f8a785200e05.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.214.209.123",
+            "44.235.252.74",
+            "52.41.157.130"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-device-prod-nlb-4-97fa936b307500cb.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.165.30.1",
+            "44.235.227.192",
+            "54.184.157.35"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-device-prod-nlb-1-54e80724f8c6ba2d.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "44.229.178.197",
+            "44.236.11.33",
+            "52.13.68.104"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "jira.corp.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "jira.corp.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "jira.netflix.com": {
+      "canonical_name": "corpjiraprod.mgmt.netflix.net",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "jira.netflix.com",
+      "ipv4": [
+        "35.164.121.117",
+        "44.254.11.50",
+        "52.25.139.222"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "corpjiraprod.mgmt.netflix.net",
+          "ipv4": [
+            "35.164.121.117",
+            "44.254.11.50",
+            "52.25.139.222"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "corpjiraprod.mgmt.netflix.net",
+          "ipv4": [
+            "35.164.121.117",
+            "44.254.11.50",
+            "52.25.139.222"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "corpjiraprod.mgmt.netflix.net",
+          "ipv4": [
+            "35.164.121.117",
+            "44.254.11.50",
+            "52.25.139.222"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "leportal.netflix.com": {
+      "canonical_name": "apiproxy-island-prod-nlb-d0597974a2822a9e.elb.us-east-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "leportal.netflix.com",
+      "ipv4": [
+        "3.232.120.188",
+        "54.145.90.155",
+        "54.235.153.250"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-island-prod-nlb-d0597974a2822a9e.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.232.120.188",
+            "54.145.90.155",
+            "54.235.153.250"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-island-prod-nlb-d0597974a2822a9e.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.232.120.188",
+            "54.145.90.155",
+            "54.235.153.250"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-island-prod-nlb-d0597974a2822a9e.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.232.120.188",
+            "54.145.90.155",
+            "54.235.153.250"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "local.dta.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "local.dta.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "dtalocal.vip.us-west-2.prod.cloud.netflix.net",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.114.255.54"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "dtalocal.vip.us-west-2.prod.cloud.netflix.net",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.114.255.54"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "dtalocal.vip.us-west-2.prod.cloud.netflix.net",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.114.255.54"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "logparser.dta.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "logparser.dta.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "internal-mat-logparser-1783834616.us-west-2.elb.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.87.174.55",
+            "100.87.78.134"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "internal-mat-logparser-1783834616.us-west-2.elb.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.87.174.55",
+            "100.87.78.134"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "internal-mat-logparser-1783834616.us-west-2.elb.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.87.174.55",
+            "100.87.78.134"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "logs.netflix.com": {
+      "canonical_name": "apiproxy-logging-s1-fda6d13c2f6a9750.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "logs.netflix.com",
+      "ipv4": [
+        "35.82.63.100",
+        "35.163.192.149",
+        "35.165.63.51",
+        "44.226.179.188",
+        "44.229.122.169",
+        "52.10.208.126",
+        "52.33.247.19",
+        "54.189.185.191",
+        "54.213.101.195"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-logging-s3-2f6e65ada0fecdc5.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.82.63.100",
+            "44.226.179.188",
+            "52.10.208.126"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-logging-s1-fda6d13c2f6a9750.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.163.192.149",
+            "52.33.247.19",
+            "54.213.101.195"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-logging-s4-a123fa8d414246ea.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.165.63.51",
+            "44.229.122.169",
+            "54.189.185.191"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "mgkverifytest.security.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "mgkverifytest.security.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "microstrategy.netflix.com": {
+      "canonical_name": "detour.prod.netflix.net",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "microstrategy.netflix.com",
+      "ipv4": [
+        "18.236.7.30",
+        "34.218.19.240",
+        "44.226.113.145"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "microstrategyapi.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "microstrategyapi.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "microstrategydev.netflix.com": {
+      "canonical_name": "detour.prod.netflix.net",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "microstrategydev.netflix.com",
+      "ipv4": [
+        "18.236.7.30",
+        "34.218.19.240",
+        "44.226.113.145"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "microstrategydevapi.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "microstrategydevapi.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
       ],
       "status": "pending"
     },
     "netflix.com": {
-      "canonical_name": null,
+      "canonical_name": "netflix.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "netflix.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "3.211.157.115",
+        "3.225.92.8",
+        "44.234.232.238",
+        "44.237.234.25",
+        "44.240.158.19",
+        "44.242.13.161",
+        "44.242.60.85",
+        "52.38.7.83",
+        "54.160.93.182"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "netflix.com",
+          "ipv4": [
+            "3.211.157.115",
+            "3.225.92.8",
+            "54.160.93.182"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "netflix.com",
+          "ipv4": [
+            "44.234.232.238",
+            "44.237.234.25",
+            "44.242.60.85"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "netflix.com",
+          "ipv4": [
+            "44.240.158.19",
+            "44.242.13.161",
+            "52.38.7.83"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
-        "bootstrap_seed"
+        "bootstrap_seed",
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "nhegdefirstdeploy.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "nhegdefirstdeploy.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "nrdp.corp.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "nrdp.corp.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "nrdp.prod.dradis.netflix.com": {
+      "canonical_name": "apiproxy-nrdp-prod-nlb-1-4659b24f746a127b.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "nrdp.prod.dradis.netflix.com",
+      "ipv4": [
+        "34.216.127.28",
+        "52.11.244.216",
+        "52.41.112.18",
+        "54.187.226.31",
+        "54.212.90.5",
+        "54.213.122.159"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-nrdp-prod-nlb-1-4659b24f746a127b.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "52.41.112.18",
+            "54.187.226.31",
+            "54.213.122.159"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-nrdp-prod-nlb-2-42101415231301e4.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.216.127.28",
+            "52.11.244.216",
+            "54.212.90.5"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-nrdp-prod-nlb-1-4659b24f746a127b.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "52.41.112.18",
+            "54.187.226.31",
+            "54.213.122.159"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "nrdp.staging.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "nrdp.staging.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "nrdp.ws.exp.netflix.com": {
+      "canonical_name": "apiproxy-nrdp-ws-nlb-1-2d0ae32ff32519fb.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "nrdp.ws.exp.netflix.com",
+      "ipv4": [
+        "35.80.125.17",
+        "44.232.234.135",
+        "44.237.116.29",
+        "44.239.254.161",
+        "52.37.176.140",
+        "54.71.145.69"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-3-a6c177a29d26a7d9.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "44.239.254.161",
+            "52.37.176.140",
+            "54.71.145.69"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-1-2d0ae32ff32519fb.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.80.125.17",
+            "44.232.234.135",
+            "44.237.116.29"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-1-2d0ae32ff32519fb.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.80.125.17",
+            "44.232.234.135",
+            "44.237.116.29"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "nrdp.ws.netflix.com": {
+      "canonical_name": "apiproxy-nrdp-ws-nlb-1-2d0ae32ff32519fb.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "nrdp.ws.netflix.com",
+      "ipv4": [
+        "35.80.125.17",
+        "35.167.75.251",
+        "44.232.234.135",
+        "44.233.16.243",
+        "44.237.116.29",
+        "44.239.254.161",
+        "52.37.176.140",
+        "52.88.47.121",
+        "54.71.145.69"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-4-e27f046810edea6b.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.167.75.251",
+            "44.233.16.243",
+            "52.88.47.121"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-1-2d0ae32ff32519fb.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.80.125.17",
+            "44.232.234.135",
+            "44.237.116.29"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-3-a6c177a29d26a7d9.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "44.239.254.161",
+            "52.37.176.140",
+            "54.71.145.69"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "nrdp.ws.swiss.netflix.com": {
+      "canonical_name": "apiproxy-nrdp-ws-nlb-2-c43eab9f8c4ae3ea.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "nrdp.ws.swiss.netflix.com",
+      "ipv4": [
+        "35.162.243.143",
+        "44.232.61.28",
+        "44.239.254.161",
+        "52.34.229.242",
+        "52.37.176.140",
+        "54.71.145.69"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-2-c43eab9f8c4ae3ea.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.162.243.143",
+            "44.232.61.28",
+            "52.34.229.242"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-2-c43eab9f8c4ae3ea.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.162.243.143",
+            "44.232.61.28",
+            "52.34.229.242"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-3-a6c177a29d26a7d9.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "44.239.254.161",
+            "52.37.176.140",
+            "54.71.145.69"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "oca-api.eu-west-1.origin.prodaa.netflix.com": {
+      "canonical_name": "oca-api.eu-west-1.origin.prodaa.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "oca-api.eu-west-1.origin.prodaa.netflix.com",
+      "ipv4": [
+        "34.240.82.124",
+        "52.214.151.249",
+        "54.171.227.38"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "oca-api.eu-west-1.origin.prodaa.netflix.com",
+          "ipv4": [
+            "34.240.82.124",
+            "52.214.151.249",
+            "54.171.227.38"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "oca-api.eu-west-1.origin.prodaa.netflix.com",
+          "ipv4": [
+            "34.240.82.124",
+            "52.214.151.249",
+            "54.171.227.38"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "oca-api.eu-west-1.origin.prodaa.netflix.com",
+          "ipv4": [
+            "34.240.82.124",
+            "52.214.151.249",
+            "54.171.227.38"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "oca-api.eu-west-1.prodaa.netflix.com": {
+      "canonical_name": "oca-api.eu-west-1.prodaa.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "oca-api.eu-west-1.prodaa.netflix.com",
+      "ipv4": [
+        "34.240.82.124",
+        "52.214.151.249",
+        "54.171.227.38"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "oca-api.eu-west-1.prodaa.netflix.com",
+          "ipv4": [
+            "34.240.82.124",
+            "52.214.151.249",
+            "54.171.227.38"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "oca-api.eu-west-1.prodaa.netflix.com",
+          "ipv4": [
+            "34.240.82.124",
+            "52.214.151.249",
+            "54.171.227.38"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "oca-api.eu-west-1.prodaa.netflix.com",
+          "ipv4": [
+            "34.240.82.124",
+            "52.214.151.249",
+            "54.171.227.38"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "oca-api.netflix.com": {
+      "canonical_name": "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "oca-api.netflix.com",
+      "ipv4": [
+        "34.213.114.77",
+        "35.165.68.166",
+        "52.40.134.57"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "oca-api.us-east-1.origin.prodaa.netflix.com": {
+      "canonical_name": "oca-api.us-east-1.origin.prodaa.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "oca-api.us-east-1.origin.prodaa.netflix.com",
+      "ipv4": [
+        "18.214.21.235",
+        "35.175.169.16",
+        "54.156.68.242"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "oca-api.us-east-1.origin.prodaa.netflix.com",
+          "ipv4": [
+            "18.214.21.235",
+            "35.175.169.16",
+            "54.156.68.242"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "oca-api.us-east-1.origin.prodaa.netflix.com",
+          "ipv4": [
+            "18.214.21.235",
+            "35.175.169.16",
+            "54.156.68.242"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "oca-api.us-east-1.origin.prodaa.netflix.com",
+          "ipv4": [
+            "18.214.21.235",
+            "35.175.169.16",
+            "54.156.68.242"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "oca-api.us-east-1.prodaa.netflix.com": {
+      "canonical_name": "oca-api.us-east-1.prodaa.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "oca-api.us-east-1.prodaa.netflix.com",
+      "ipv4": [
+        "18.214.21.235",
+        "35.175.169.16",
+        "54.156.68.242"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "oca-api.us-east-1.prodaa.netflix.com",
+          "ipv4": [
+            "18.214.21.235",
+            "35.175.169.16",
+            "54.156.68.242"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "oca-api.us-east-1.prodaa.netflix.com",
+          "ipv4": [
+            "18.214.21.235",
+            "35.175.169.16",
+            "54.156.68.242"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "oca-api.us-east-1.prodaa.netflix.com",
+          "ipv4": [
+            "18.214.21.235",
+            "35.175.169.16",
+            "54.156.68.242"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "oca-api.us-west-2.origin.prodaa.netflix.com": {
+      "canonical_name": "oca-api.us-west-2.origin.prodaa.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "oca-api.us-west-2.origin.prodaa.netflix.com",
+      "ipv4": [
+        "34.213.114.77",
+        "35.165.68.166",
+        "52.40.134.57"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "oca-api.us-west-2.origin.prodaa.netflix.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "oca-api.us-west-2.origin.prodaa.netflix.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "oca-api.us-west-2.origin.prodaa.netflix.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "oca-api.us-west-2.prodaa.netflix.com": {
+      "canonical_name": "oca-api.us-west-2.prodaa.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "oca-api.us-west-2.prodaa.netflix.com",
+      "ipv4": [
+        "34.213.114.77",
+        "35.165.68.166",
+        "52.40.134.57"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "oca-api.us-west-2.prodaa.netflix.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "oca-api.us-west-2.prodaa.netflix.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "oca-api.us-west-2.prodaa.netflix.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "oca.probnik.netflix.com": {
+      "canonical_name": "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "oca.probnik.netflix.com",
+      "ipv4": [
+        "34.213.114.77",
+        "35.165.68.166",
+        "52.40.134.57"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "origin-sod.test.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "origin-sod.test.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-sod-origin-7469ee6a9e663d24.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.137.150",
+            "100.65.39.91",
+            "100.65.64.113"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-sod-origin-7469ee6a9e663d24.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.137.150",
+            "100.65.39.91",
+            "100.65.64.113"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-sod-origin-7469ee6a9e663d24.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.137.150",
+            "100.65.39.91",
+            "100.65.64.113"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "origin.sod.netflix.com": {
+      "canonical_name": "apiproxy-sod-origin-e5e4b58ed8359371.elb.us-east-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "origin.sod.netflix.com",
+      "ipv4": [
+        "3.224.46.210",
+        "3.230.87.71",
+        "34.224.144.93"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-sod-origin-e5e4b58ed8359371.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.224.46.210",
+            "3.230.87.71",
+            "34.224.144.93"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-sod-origin-e5e4b58ed8359371.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.224.46.210",
+            "3.230.87.71",
+            "34.224.144.93"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-sod-origin-e5e4b58ed8359371.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.224.46.210",
+            "3.230.87.71",
+            "34.224.144.93"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "pay-helix.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "pay-helix.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "prod.deeplink.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "prod.deeplink.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "promotion.dta.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "promotion.dta.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "promotion.dta.netflix.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.87.18.178",
+            "100.87.191.68"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "promotion.dta.netflix.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.87.18.178",
+            "100.87.191.68"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "promotion.dta.netflix.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.87.18.178",
+            "100.87.191.68"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "push.prod.eu-west-1.internal.dradis.netflix.com": {
+      "canonical_name": "pushy-prod-nlb1-dca90821e275d0a9.elb.eu-west-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.prod.eu-west-1.internal.dradis.netflix.com",
+      "ipv4": [
+        "34.252.28.38",
+        "52.51.253.173",
+        "54.75.137.188",
+        "54.171.156.218",
+        "54.229.152.140",
+        "63.33.228.172"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-prod-nlb1-dca90821e275d0a9.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "34.252.28.38",
+            "54.75.137.188",
+            "54.229.152.140"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-prod-nlb4-888783e50761c9f4.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "52.51.253.173",
+            "54.171.156.218",
+            "63.33.228.172"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-prod-nlb4-888783e50761c9f4.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "52.51.253.173",
+            "54.171.156.218",
+            "63.33.228.172"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.prod.eu-west-1.netflix.com": {
+      "canonical_name": "pushy-prod-nlb1-dca90821e275d0a9.elb.eu-west-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.prod.eu-west-1.netflix.com",
+      "ipv4": [
+        "34.252.28.38",
+        "52.16.16.21",
+        "52.19.109.21",
+        "52.212.99.156",
+        "54.73.239.34",
+        "54.75.137.188",
+        "54.170.39.204",
+        "54.216.227.219",
+        "54.229.152.140"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-prod-nlb3-cd80e4a025a1d73a.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "52.19.109.21",
+            "52.212.99.156",
+            "54.216.227.219"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-prod-nlb1-dca90821e275d0a9.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "34.252.28.38",
+            "54.75.137.188",
+            "54.229.152.140"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-prod-nlb2-0faa00dadac6cbf8.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "52.16.16.21",
+            "54.73.239.34",
+            "54.170.39.204"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.prod.netflix.com": {
+      "canonical_name": "pushy-prod-nlb1-shard2-442b94832ed52b97.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.prod.netflix.com",
+      "ipv4": [
+        "35.82.23.172",
+        "35.163.21.50",
+        "44.237.126.180",
+        "44.237.172.67",
+        "44.245.54.146",
+        "52.10.248.239",
+        "52.11.46.122",
+        "52.88.144.31",
+        "54.148.231.76"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-prod-nlb1-shard2-442b94832ed52b97.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "44.237.172.67",
+            "44.245.54.146",
+            "52.11.46.122"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-prod-nlb3-0264e104ead4010e.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.82.23.172",
+            "44.237.126.180",
+            "52.10.248.239"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-prod-nlb3-shard2-0229fce26fc325aa.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.163.21.50",
+            "52.88.144.31",
+            "54.148.231.76"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.prod.us-east-1.internal.dradis.netflix.com": {
+      "canonical_name": "pushy-prod-nlb3-shard2-368379bc3fc32985.elb.us-east-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.prod.us-east-1.internal.dradis.netflix.com",
+      "ipv4": [
+        "3.217.114.204",
+        "18.209.85.220",
+        "50.17.133.142",
+        "52.200.71.94",
+        "54.159.105.66",
+        "54.236.226.169"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-prod-nlb4-722d5d6bc21c0f3f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "18.209.85.220",
+            "50.17.133.142",
+            "52.200.71.94"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-prod-nlb4-722d5d6bc21c0f3f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "18.209.85.220",
+            "50.17.133.142",
+            "52.200.71.94"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-prod-nlb3-shard2-368379bc3fc32985.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.217.114.204",
+            "54.159.105.66",
+            "54.236.226.169"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.prod.us-east-1.netflix.com": {
+      "canonical_name": "pushy-prod-nlb4-722d5d6bc21c0f3f.elb.us-east-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.prod.us-east-1.netflix.com",
+      "ipv4": [
+        "3.230.206.166",
+        "18.209.85.220",
+        "50.17.133.142",
+        "52.200.71.94",
+        "54.174.75.142",
+        "174.129.170.121"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-prod-nlb4-shard2-9274479dbff3f3e0.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.230.206.166",
+            "54.174.75.142",
+            "174.129.170.121"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-prod-nlb4-722d5d6bc21c0f3f.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "18.209.85.220",
+            "50.17.133.142",
+            "52.200.71.94"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-prod-nlb4-shard2-9274479dbff3f3e0.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.230.206.166",
+            "54.174.75.142",
+            "174.129.170.121"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.prod.us-west-2.internal.dradis.netflix.com": {
+      "canonical_name": "pushy-prod-nlb1-shard2-442b94832ed52b97.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.prod.us-west-2.internal.dradis.netflix.com",
+      "ipv4": [
+        "35.82.23.172",
+        "35.163.21.50",
+        "44.237.126.180",
+        "44.237.172.67",
+        "44.245.54.146",
+        "52.10.248.239",
+        "52.11.46.122",
+        "52.88.144.31",
+        "54.148.231.76"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-prod-nlb1-shard2-442b94832ed52b97.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "44.237.172.67",
+            "44.245.54.146",
+            "52.11.46.122"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-prod-nlb3-0264e104ead4010e.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.82.23.172",
+            "44.237.126.180",
+            "52.10.248.239"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-prod-nlb3-shard2-0229fce26fc325aa.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.163.21.50",
+            "52.88.144.31",
+            "54.148.231.76"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.prod.us-west-2.netflix.com": {
+      "canonical_name": "pushy-prod-nlb1-d580f75201967b9e.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.prod.us-west-2.netflix.com",
+      "ipv4": [
+        "34.223.153.246",
+        "35.81.92.226",
+        "35.81.198.46",
+        "35.82.23.172",
+        "35.162.161.22",
+        "44.237.126.180",
+        "44.237.239.19",
+        "50.112.122.241",
+        "52.10.248.239"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-prod-nlb1-d580f75201967b9e.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.223.153.246",
+            "35.81.198.46",
+            "44.237.239.19"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-prod-nlb3-0264e104ead4010e.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.82.23.172",
+            "44.237.126.180",
+            "52.10.248.239"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-prod-nlb2-93bf95f445442309.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.81.92.226",
+            "35.162.161.22",
+            "50.112.122.241"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.staging.eu-west-1.internal.dradis.netflix.com": {
+      "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.staging.eu-west-1.internal.dradis.netflix.com",
+      "ipv4": [
+        "18.200.55.57"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "18.200.55.57"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "18.200.55.57"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "18.200.55.57"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.staging.eu-west-1.netflix.com": {
+      "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.staging.eu-west-1.netflix.com",
+      "ipv4": [
+        "18.200.55.57"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "18.200.55.57"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "18.200.55.57"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "18.200.55.57"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.staging.us-east-1.internal.dradis.netflix.com": {
+      "canonical_name": "pushy-staging-1-010da478a2df6fd2.elb.us-east-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.staging.us-east-1.internal.dradis.netflix.com",
+      "ipv4": [
+        "54.144.85.96"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-staging-1-010da478a2df6fd2.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "54.144.85.96"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-staging-1-010da478a2df6fd2.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "54.144.85.96"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-staging-1-010da478a2df6fd2.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "54.144.85.96"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.staging.us-east-1.netflix.com": {
+      "canonical_name": "pushy-staging-1-010da478a2df6fd2.elb.us-east-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.staging.us-east-1.netflix.com",
+      "ipv4": [
+        "54.144.85.96"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-staging-1-010da478a2df6fd2.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "54.144.85.96"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-staging-1-010da478a2df6fd2.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "54.144.85.96"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-staging-1-010da478a2df6fd2.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "54.144.85.96"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.staging.us-west-2.internal.dradis.netflix.com": {
+      "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.staging.us-west-2.internal.dradis.netflix.com",
+      "ipv4": [
+        "16.144.130.118"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "16.144.130.118"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "16.144.130.118"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "16.144.130.118"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "push.staging.us-west-2.netflix.com": {
+      "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.staging.us-west-2.netflix.com",
+      "ipv4": [
+        "16.144.130.118"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "16.144.130.118"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "16.144.130.118"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "16.144.130.118"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "raven-dev.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "raven-dev.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "raven.netflix.com": {
+      "canonical_name": "detour.prod.netflix.net",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "raven.netflix.com",
+      "ipv4": [
+        "18.236.7.30",
+        "34.218.19.240",
+        "44.226.113.145"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "release-stage.netflix.com": {
+      "canonical_name": "www.prod.ftl.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "release-stage.netflix.com",
+      "ipv4": [
+        "207.45.72.1",
+        "207.45.73.1"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "release.staging.ssic.netflix.com": {
+      "canonical_name": "apiproxy-website-nlb-staging-64dad1d1ae1b8502.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "release.staging.ssic.netflix.com",
+      "ipv4": [
+        "35.160.97.102",
+        "52.11.156.50",
+        "54.148.182.98"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-website-nlb-staging-64dad1d1ae1b8502.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.160.97.102",
+            "52.11.156.50",
+            "54.148.182.98"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-website-nlb-staging-64dad1d1ae1b8502.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.160.97.102",
+            "52.11.156.50",
+            "54.148.182.98"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-website-nlb-staging-64dad1d1ae1b8502.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.160.97.102",
+            "52.11.156.50",
+            "54.148.182.98"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "sand.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "sand.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "scene-stream.prototypes.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "scene-stream.prototypes.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "elb-nlb-wall-e-internal-ff2181fee559fad4.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.65.117.229",
+            "100.65.179.249",
+            "100.65.29.40"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
       ],
       "status": "pending"
     },
     "secure.netflix.com": {
-      "canonical_name": null,
+      "canonical_name": "sec-oc.netflix.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "secure.netflix.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "45.57.90.1",
+        "45.57.91.1"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "sec-oc.netflix.com",
+          "ipv4": [
+            "45.57.90.1",
+            "45.57.91.1"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "sec-oc.netflix.com",
+          "ipv4": [
+            "45.57.90.1",
+            "45.57.91.1"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "sec-oc.netflix.com",
+          "ipv4": [
+            "45.57.90.1",
+            "45.57.91.1"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "bootstrap_seed"
       ],
+      "status": "active"
+    },
+    "secured.netflix.com": {
+      "canonical_name": "h-netflix.online-metrix.net",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "secured.netflix.com",
+      "ipv4": [
+        "192.225.159.73"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "h-netflix.online-metrix.net",
+          "ipv4": [
+            "192.225.159.73"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "h-netflix.online-metrix.net",
+          "ipv4": [
+            "192.225.159.73"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "h-netflix.online-metrix.net",
+          "ipv4": [
+            "192.225.159.73"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "sgw.staginga.cloud.netflix.com": {
+      "canonical_name": "apiproxy-device-stage-nlb-eacfed30a2857c10.elb.us-east-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "sgw.staginga.cloud.netflix.com",
+      "ipv4": [
+        "44.206.174.47",
+        "52.73.16.20",
+        "54.82.127.235"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-device-stage-nlb-eacfed30a2857c10.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "44.206.174.47",
+            "52.73.16.20",
+            "54.82.127.235"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-device-stage-nlb-eacfed30a2857c10.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "44.206.174.47",
+            "52.73.16.20",
+            "54.82.127.235"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-device-stage-nlb-eacfed30a2857c10.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "44.206.174.47",
+            "52.73.16.20",
+            "54.82.127.235"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "signup.netflix.com": {
+      "canonical_name": "detour.prod.netflix.net",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "signup.netflix.com",
+      "ipv4": [
+        "18.236.7.30",
+        "34.218.19.240",
+        "44.226.113.145",
+        "50.17.247.9",
+        "107.20.175.192",
+        "204.236.236.127"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "50.17.247.9",
+            "107.20.175.192",
+            "204.236.236.127"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "sourcegraph.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "sourcegraph.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
       "status": "pending"
     },
-    "uiboot.netflix.com": {
+    "stash.corp.netflix.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 0,
+      "consecutive_negative_checks": 1,
       "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "stash.corp.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "stash.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "stash.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "gitaway.cluster.us-east-1.prod.cloud.netflix.net",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.70.193.83",
+            "100.70.196.112",
+            "100.70.201.47"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "gitaway.cluster.us-east-1.prod.cloud.netflix.net",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.70.193.83",
+            "100.70.196.112",
+            "100.70.201.47"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "gitaway.cluster.us-east-1.prod.cloud.netflix.net",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.70.193.83",
+            "100.70.196.112",
+            "100.70.201.47"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "tech.nxtgms.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "tech.nxtgms.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "test.deeplink.netflix.com": {
+      "canonical_name": "apiproxy-device-test-nlb-79b631ef0c87ca44.elb.us-east-1.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "test.deeplink.netflix.com",
+      "ipv4": [
+        "3.208.58.229",
+        "34.194.54.162",
+        "52.6.241.246"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-device-test-nlb-79b631ef0c87ca44.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.208.58.229",
+            "34.194.54.162",
+            "52.6.241.246"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-device-test-nlb-79b631ef0c87ca44.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.208.58.229",
+            "34.194.54.162",
+            "52.6.241.246"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-device-test-nlb-79b631ef0c87ca44.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.208.58.229",
+            "34.194.54.162",
+            "52.6.241.246"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "tls.develop.test.cloud.netflix.com": {
+      "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "tls.develop.test.cloud.netflix.com",
+      "ipv4": [
+        "35.169.19.205",
+        "52.87.41.154",
+        "52.203.123.59"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "35.169.19.205",
+            "52.87.41.154",
+            "52.203.123.59"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "35.169.19.205",
+            "52.87.41.154",
+            "52.203.123.59"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "35.169.19.205",
+            "52.87.41.154",
+            "52.203.123.59"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "tlscontrol.develop.test.cloud.netflix.com": {
+      "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "tlscontrol.develop.test.cloud.netflix.com",
+      "ipv4": [
+        "35.169.19.205",
+        "52.87.41.154",
+        "52.203.123.59"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "35.169.19.205",
+            "52.87.41.154",
+            "52.203.123.59"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "35.169.19.205",
+            "52.87.41.154",
+            "52.203.123.59"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-device-test-1264968492.us-east-1.elb.amazonaws.com",
+          "ipv4": [
+            "35.169.19.205",
+            "52.87.41.154",
+            "52.203.123.59"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "tv.netflix.com": {
+      "canonical_name": "detour.prod.netflix.net",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "tv.netflix.com",
+      "ipv4": [
+        "18.236.7.30",
+        "34.218.19.240",
+        "44.226.113.145"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "uiboot.netflix.com": {
+      "canonical_name": "apiproxy-appboot-nlb-048ab784d02e27b7.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "uiboot.netflix.com",
-      "ipv4": [],
-      "last_check": null,
+      "ipv4": [
+        "34.217.204.82",
+        "44.234.6.167",
+        "52.89.219.164"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-appboot-nlb-048ab784d02e27b7.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.217.204.82",
+            "44.234.6.167",
+            "52.89.219.164"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-appboot-nlb-048ab784d02e27b7.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.217.204.82",
+            "44.234.6.167",
+            "52.89.219.164"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-appboot-nlb-048ab784d02e27b7.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.217.204.82",
+            "44.234.6.167",
+            "52.89.219.164"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
         "bootstrap_seed"
       ],
-      "status": "pending"
+      "status": "active"
     },
-    "www.netflix.com": {
-      "canonical_name": null,
+    "v4.eu-west-1.probnik.netflix.com": {
+      "canonical_name": "v4.eu-west-1.probnik.netflix.com",
       "consecutive_negative_checks": 0,
-      "ever_validated": false,
+      "ever_validated": true,
       "expired_at": null,
-      "first_seen": "2026-08-21T07:50:39Z",
-      "hostname": "www.netflix.com",
-      "ipv4": [],
-      "last_check": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "v4.eu-west-1.probnik.netflix.com",
+      "ipv4": [
+        "34.240.82.124",
+        "52.214.151.249",
+        "54.171.227.38"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
       "last_negative": null,
-      "last_result": "UNTESTED",
-      "last_success": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
-      "resolver_results": {},
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "v4.eu-west-1.probnik.netflix.com",
+          "ipv4": [
+            "34.240.82.124",
+            "52.214.151.249",
+            "54.171.227.38"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "v4.eu-west-1.probnik.netflix.com",
+          "ipv4": [
+            "34.240.82.124",
+            "52.214.151.249",
+            "54.171.227.38"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "v4.eu-west-1.probnik.netflix.com",
+          "ipv4": [
+            "34.240.82.124",
+            "52.214.151.249",
+            "54.171.227.38"
+          ],
+          "status": "OK"
+        }
+      },
       "safety_reason": null,
       "sources": [
-        "bootstrap_seed"
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "v4.us-east-1.probnik.netflix.com": {
+      "canonical_name": "v4.us-east-1.probnik.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "v4.us-east-1.probnik.netflix.com",
+      "ipv4": [
+        "18.214.21.235",
+        "35.175.169.16",
+        "54.156.68.242"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "v4.us-east-1.probnik.netflix.com",
+          "ipv4": [
+            "18.214.21.235",
+            "35.175.169.16",
+            "54.156.68.242"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "v4.us-east-1.probnik.netflix.com",
+          "ipv4": [
+            "18.214.21.235",
+            "35.175.169.16",
+            "54.156.68.242"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "v4.us-east-1.probnik.netflix.com",
+          "ipv4": [
+            "18.214.21.235",
+            "35.175.169.16",
+            "54.156.68.242"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "v4.us-west-2.probnik.netflix.com": {
+      "canonical_name": "v4.us-west-2.probnik.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "v4.us-west-2.probnik.netflix.com",
+      "ipv4": [
+        "34.213.114.77",
+        "35.165.68.166",
+        "52.40.134.57"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "v4.us-west-2.probnik.netflix.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "v4.us-west-2.probnik.netflix.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "v4.us-west-2.probnik.netflix.com",
+          "ipv4": [
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "v6.eu-west-1.probnik.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "v6.eu-west-1.probnik.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "v6.us-east-1.probnik.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "v6.us-east-1.probnik.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "v6.us-west-2.probnik.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "v6.us-west-2.probnik.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "watson.netflix.com": {
+      "canonical_name": "detour.prod.netflix.net",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "watson.netflix.com",
+      "ipv4": [
+        "18.236.7.30",
+        "34.218.19.240",
+        "34.252.74.1",
+        "44.226.113.145",
+        "46.137.171.215",
+        "52.31.48.193"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "18.236.7.30",
+            "34.218.19.240",
+            "44.226.113.145"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "detour.prod.netflix.net",
+          "ipv4": [
+            "34.252.74.1",
+            "46.137.171.215",
+            "52.31.48.193"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "wdintegrations.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "wdintegrations.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NO_A"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NO_A"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "ws.push.sandbox.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "ws.push.sandbox.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-sandbox-2-defe60bdb0352568.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.82.183.120",
+            "100.85.22.136",
+            "100.95.99.190"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-sandbox-2-defe60bdb0352568.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.82.183.120",
+            "100.85.22.136",
+            "100.95.99.190"
+          ],
+          "status": "NON_GLOBAL_A"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-sandbox-2-defe60bdb0352568.elb.us-east-1.amazonaws.com",
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
+            "100.82.183.120",
+            "100.85.22.136",
+            "100.95.99.190"
+          ],
+          "status": "NON_GLOBAL_A"
+        }
+      },
+      "safety_reason": "NON_GLOBAL_A",
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "ws.push.staging.netflix.com": {
+      "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "ws.push.staging.netflix.com",
+      "ipv4": [
+        "16.144.130.118"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "16.144.130.118"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "16.144.130.118"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-staging-1-49609a365022f800.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "16.144.130.118"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "www.netflix.com": {
+      "canonical_name": "www.prod.ftl.netflix.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T07:50:39Z",
+      "hostname": "www.netflix.com",
+      "ipv4": [
+        "207.45.72.1",
+        "207.45.73.1"
+      ],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-21T08:09:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "www.prod.ftl.netflix.com",
+          "ipv4": [
+            "207.45.72.1",
+            "207.45.73.1"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "bootstrap_seed",
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "www1.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "www1.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "www2.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "www2.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "pending"
+    },
+    "www3.netflix.com": {
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
+      "ever_validated": false,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "www3.netflix.com",
+      "ipv4": [],
+      "last_check": "2026-08-21T08:09:29Z",
+      "last_failure": "2026-08-21T08:09:29Z",
+      "last_negative": "2026-08-21T08:09:29Z",
+      "last_result": "NEGATIVE",
+      "last_success": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-21T08:09:29Z",
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "8.8.8.8": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        },
+        "9.9.9.9": {
+          "ipv4": [],
+          "status": "NXDOMAIN"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
       ],
       "status": "pending"
     }
   },
-  "updated_at": null,
+  "updated_at": "2026-08-21T08:09:29Z",
   "version": 2
 }
