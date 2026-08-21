@@ -1,0 +1,30 @@
+name: DNS maintenance v1
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run checks only; do not modify or commit managed Netflix DNS state"
+        required: false
+        default: true
+        type: boolean
+
+  schedule:
+    - cron: "21 2,8,14,20 * * *"
+      timezone: "Europe/Helsinki"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dns-maintenance-netflix-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  maintain:
+    uses: DKHNV/DNS-Maintenance/.github/workflows/reusable-maintenance.yml@d2b7dffa3e79269e6f63ffb243ebf2abbfeae3eb
+    with:
+      config_path: dns-maintenance-v1.json
+      collection: netflix
+      dry_run: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+      engine_ref: d2b7dffa3e79269e6f63ffb243ebf2abbfeae3eb
