@@ -11,7 +11,10 @@ adc-uswest2-2b1.corp.netflix.com
 adc-uswest2-2b2.corp.netflix.com
 adldap.itp.netflix.com
 advertising.staging.netflix.com
+ajay-test-app.netflix.com
 alert.dta.netflix.com
+alertprocessor.dta.netflix.com
+android-appboot.test.netflix.com
 android.gameboot.netflix.com
 api-eu.netflix.com
 api-global-prefix.netflix.com
@@ -20,6 +23,7 @@ api-us.netflix.com
 apis.netflix.com
 artifacts.netflix.com
 assetqc.backlot.netflix.com
+beholder-api.dta.netflix.com
 billdesk-sihub-encryption-test.netflix.com
 billdesk-sihub-encryption.netflix.com
 billdesk-sihub-signature-prod.netflix.com
@@ -53,6 +57,7 @@ copyrightenforcement.test.netflix.com
 design-tech-real-data.prototypes.netflix.com
 dnajs.prod.netflix.com
 dnajs.test.netflix.com
+dtatestdispatcher.dta.netflix.com
 ec2types.test.netflix.com
 euwest.obiwan.netflix.com
 foggy.netflix.com
@@ -64,6 +69,7 @@ helpqa.test.netflix.com
 hopper-mobile.prototypes.netflix.com
 hopper-stream.prototypes.netflix.com
 htmltvui.netflix.com
+interactive-discovery.prototypes.netflix.com
 ios.gameboot.netflix.com
 jira.corp.netflix.com
 live-proto-tv.prototypes.netflix.com
@@ -73,6 +79,7 @@ logparser.dta.netflix.com
 mgkverifytest.security.netflix.com
 microstrategyapi.netflix.com
 microstrategydevapi.netflix.com
+muse.netflix.com
 netcertlab01.corp.netflix.com
 nhegdefirstdeploy.netflix.com
 nm.push.staging.eu-west-1.internal.dradis.netflix.com
@@ -83,6 +90,7 @@ nm.push.staging.us-east-2.internal.dradis.netflix.com
 nm.push.staging.us-east-2.netflix.com
 nm.push.staging.us-west-2.internal.dradis.netflix.com
 nm.push.staging.us-west-2.netflix.com
+nm.push.test.netflix.com
 notifications.netflix.com
 nrdp.corp.netflix.com
 nrdp.staging.netflix.com
@@ -100,6 +108,7 @@ prod.deeplink.netflix.com
 promotion.dta.netflix.com
 pulse-design-tech.prototypes.netflix.com
 push.prod.us-east-2.netflix.com
+push.test.netflix.com
 raven-dev.netflix.com
 sand.nxtgms.netflix.com
 scene-stream.prototypes.netflix.com
@@ -114,10 +123,12 @@ testcamper.netflix.com
 testplan.dta.netflix.com
 thesecret.corp.netflix.com
 thrifty20.netflix.com
+utpublish.dta.netflix.com
 v6.eu-west-1.probnik.netflix.com
 v6.us-east-1.probnik.netflix.com
 v6.us-west-2.probnik.netflix.com
 wdintegrations.netflix.com
+wdintegrationsdev.netflix.com
 ws.push.sandbox.netflix.com
 www1.netflix.com
 www2.netflix.com
