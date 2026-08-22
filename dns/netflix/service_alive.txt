@@ -11,6 +11,7 @@ android-appboot-staging.netflix.com
 android-appboot.netflix.com
 android.prod.dradis.netflix.com
 android.sharkboot.netflix.com
+anycast.ftl.netflix.com
 api-global-ecc.netflix.com
 api-useast-test.netflix.com
 apis.test.netflix.com
@@ -74,6 +75,7 @@ ftl.netflix.com
 fyc.netflix.com
 gaas-content.netflix.com
 games.netflix.com
+go.netflix.com
 graphhub.netflix.com
 guilds.netflix.com
 help.netflix.com
@@ -113,6 +115,7 @@ movies.netflix.com
 msg.netflix.com
 my-hw.oc.netflix.com
 my.oc.netflix.com
+nbc.int.cloud.netflix.com
 nbc.test.netflix.com
 netflix.com
 nm.push.prod.eu-west-1.internal.dradis.netflix.com
@@ -129,6 +132,7 @@ nmtracking.test.netflix.com
 npca.netflix.com
 npp.netflix.com
 npv.netflix.com
+nrd.netflix.com
 nrdp.prod.dradis.netflix.com
 nrdp.ws.ale.netflix.com
 nrdp.ws.exp.netflix.com
@@ -167,6 +171,8 @@ originator.backlot.netflix.com
 originstory.netflix.com
 partner.netflix.com
 partnerapi.netflix.com
+partnerapi.sandbox.netflix.com
+partnerapi.test.netflix.com
 partnerpay.netflix.com
 partnerpromo.netflix.com
 pr.netflix.com
@@ -188,6 +194,7 @@ push.staging.us-east-1.netflix.com
 push.staging.us-west-2.internal.dradis.netflix.com
 push.staging.us-west-2.netflix.com
 qc.netflix.com
+qr.netflix.com
 realtoreel.netflix.com
 refimages.dta.netflix.com
 release-int.test.netflix.com
