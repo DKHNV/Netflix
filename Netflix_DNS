@@ -3,15 +3,21 @@ about.netflix.com
 account.leportal.netflix.com
 account.netflix.com
 acct-api.netflix.com
+ads.test.netflix.com
 adstr.test.netflix.com
+advertising.netflix.com
 advertising.test.netflix.com
 android-appboot-staging.netflix.com
 android-appboot.netflix.com
 android.prod.dradis.netflix.com
 android.sharkboot.netflix.com
+api-global-ecc.netflix.com
 api-global.netflix.com
+api-us.test.netflix.com
+api-useast-test.netflix.com
 api-user.netflix.com
 api.netflix.com
+api.test.netflix.com
 apis.test.netflix.com
 app.netflix.com
 appboot.netflix.com
@@ -29,6 +35,8 @@ beacon.test.netflix.com
 beehive2.netflix.com
 beehiveui2t.test.netflix.com
 benefits.netflix.com
+beta.oc.netflix.com
+bfgui.netflix.com
 blog.netflix.com
 blue.prod.netflix.com
 bluray.netflix.com
@@ -51,6 +59,7 @@ customerevents.netflix.com
 customerevents.test.netflix.com
 customereventsqa.netflix.com
 deeplink.netflix.com
+dev-npp.netflix.com
 develop-int.test.netflix.com
 develop-stage.netflix.com
 develop.staging.ssic.netflix.com
@@ -91,6 +100,7 @@ iro.netflix.com
 irot.test.netflix.com
 ispspeedindex.netflix.com
 itunes.prod.cloud.netflix.com
+jet-api.netflix.com
 jira.netflix.com
 jobs.netflix.com
 lacounty.netflix.com
@@ -102,6 +112,7 @@ logs.netflix.com
 logs.staging.netflix.com
 logs.test.netflix.com
 m.netflix.com
+media.netflix.com
 meechum.netflix.com
 megamind.netflix.com
 mgkverify.security.netflix.com
@@ -113,6 +124,7 @@ movies.netflix.com
 msg.netflix.com
 my-hw.oc.netflix.com
 my.oc.netflix.com
+nbc.test.netflix.com
 netflix.com
 nm.push.prod.eu-west-1.internal.dradis.netflix.com
 nm.push.prod.eu-west-1.netflix.com
@@ -127,6 +139,7 @@ nm.push.sandbox.netflix.com
 nm.push.staging.netflix.com
 nmtracking.test.netflix.com
 npca.netflix.com
+npp.netflix.com
 npv.netflix.com
 nrdp.prod.dradis.netflix.com
 nrdp.ws.ale.netflix.com
@@ -153,10 +166,14 @@ oca-api.eu-west-1.prodaa.netflix.com
 oca-api.netflix.com
 oca-api.us-east-1.origin.prodaa.netflix.com
 oca-api.us-east-1.prodaa.netflix.com
+oca-api.us-east-2.origin.prodaa.netflix.com
 oca-api.us-west-2.origin.prodaa.netflix.com
 oca-api.us-west-2.prodaa.netflix.com
 oca.probnik.netflix.com
+ocga.ngp.prod.mtls.cloud.netflix.com
+ocga.ngp.test.mtls.cloud.netflix.com
 openconnect.netflix.com
+opencontent.netflix.com
 opstools.obiwan.stage.netflix.com
 origin.sod.netflix.com
 originator.backlot.netflix.com
@@ -206,6 +223,7 @@ sherlock.netflix.com
 shop.netflix.com
 signup.netflix.com
 sourcedeliveries.netflix.com
+staging-npp.netflix.com
 stash.nrd.netflix.com
 sustainability.netflix.com
 tableau.netflix.com
@@ -230,6 +248,9 @@ v4.us-east-1.probnik.netflix.com
 v4.us-west-2.probnik.netflix.com
 vandam.netflix.com
 vendorreporting.netflix.com
+venkman.cluster.eu-west-1.prod.cloud.netflix.com
+venkman.cluster.us-east-2.prod.cloud.netflix.com
+venkman.cluster.us-west-2.prod.cloud.netflix.com
 watson.netflix.com
 whitepages.netflix.com
 ws.push.staging.netflix.com
