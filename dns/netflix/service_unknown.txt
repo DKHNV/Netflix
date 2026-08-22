@@ -16,3 +16,4 @@ tlscontrol.develop.test.cloud.netflix.com
 uiboot.netflix.com
 useast.obiwan.netflix.com
 uswest.obiwan.netflix.com
+ws.push.test.netflix.com
