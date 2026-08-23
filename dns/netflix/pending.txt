@@ -12,6 +12,8 @@ adc-uswest2-2b2.corp.netflix.com
 adldap.itp.netflix.com
 ads.netflix.com
 advertising.staging.netflix.com
+aidsvc.netflix.com
+aidsvc.test.netflix.com
 ajay-test-app.netflix.com
 alert.dta.netflix.com
 alertprocessor.dta.netflix.com
@@ -89,6 +91,7 @@ htmltvui.netflix.com
 identity.prod.netflix.com
 identity.staging.netflix.com
 identity.test.netflix.com
+instantgames.netflix.com
 interactive-discovery.prototypes.netflix.com
 ios.gameboot.netflix.com
 jira.corp.netflix.com
