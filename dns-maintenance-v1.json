@@ -354,6 +354,12 @@
             "match": "exact",
             "value": "yellow2admin-test.netflix.com",
             "reason": "Admin test endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-40",
+            "match": "exact",
+            "value": "test.games.netflix.com",
+            "reason": "Explicit test games endpoint"
           }
         ]
       }
