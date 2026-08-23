@@ -215,6 +215,7 @@ sherlock.netflix.com
 shop.netflix.com
 signup.netflix.com
 sourcedeliveries.netflix.com
+spetools.test.netflix.com
 staging-npp.netflix.com
 stash.nrd.netflix.com
 sustainability.netflix.com
