@@ -1,0 +1,20 @@
+name: Netflix semantic policy pilot
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: netflix-semantic-policy-pilot-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  pilot:
+    uses: DKHNV/DNS-Maintenance/.github/workflows/reusable-maintenance.yml@4741a0f153d64ee8044deaa9ed0af0c040bf37c8
+    with:
+      config_path: dns-maintenance-semantic-pilot.json
+      collection: netflix
+      dry_run: true
+      engine_ref: 4741a0f153d64ee8044deaa9ed0af0c040bf37c8
