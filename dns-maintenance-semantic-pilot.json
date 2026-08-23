@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "defaults": {
+    "dns": {
+      "resolvers": [
+        "1.1.1.1",
+        "8.8.8.8",
+        "9.9.9.9"
+      ],
+      "timeout_seconds": 2.0,
+      "lifetime_seconds": 4.0,
+      "negative_votes_required": 2,
+      "suspect_after_hours": 72,
+      "quarantine_after_hours": 168,
+      "expire_after_hours": 720,
+      "negative_streak_max_gap_hours": 48,
+      "suspect_min_negative_observations": 3,
+      "quarantine_min_negative_observations": 7,
+      "max_workers": 20
+    },
+    "service_check": {
+      "enabled": true,
+      "port": 443,
+      "path": "/",
+      "timeout_seconds": 4.0,
+      "max_workers": 10,
+      "max_ipv4_per_host": 3,
+      "suspect_after_hours": 72,
+      "dead_after_hours": 168,
+      "failure_streak_max_gap_hours": 48,
+      "suspect_min_failure_observations": 3,
+      "dead_min_failure_observations": 7,
+      "history_days": 14,
+      "history_max_entries": 256,
+      "failure_log_limit": 50,
+      "user_agent": "DKHNV-DNS-Maintenance/1.0"
+    }
+  },
+  "collections": [
+    {
+      "name": "netflix",
+      "active_file": "Netflix_DNS",
+      "data_dir": "dns/netflix",
+      "discovery": {
+        "enabled": false,
+        "sources": []
+      },
+      "hostname_policy": {
+        "enabled": true,
+        "allow": [],
+        "exclude": [
+          {
+            "id": "exclude-test-netflix",
+            "match": "suffix",
+            "value": "test.netflix.com",
+            "reason": "Non-production test namespace"
+          },
+          {
+            "id": "exclude-test-cloud-netflix",
+            "match": "suffix",
+            "value": "test.cloud.netflix.com",
+            "reason": "Non-production cloud test namespace"
+          },
+          {
+            "id": "exclude-corp-netflix",
+            "match": "suffix",
+            "value": "corp.netflix.com",
+            "reason": "Corporate/internal namespace"
+          },
+          {
+            "id": "exclude-dta-netflix",
+            "match": "suffix",
+            "value": "dta.netflix.com",
+            "reason": "Developer/test tooling namespace"
+          },
+          {
+            "id": "exclude-prototypes-netflix",
+            "match": "suffix",
+            "value": "prototypes.netflix.com",
+            "reason": "Prototype environment"
+          },
+          {
+            "id": "exclude-internal-dradis-netflix",
+            "match": "suffix",
+            "value": "internal.dradis.netflix.com",
+            "reason": "Internal Dradis namespace"
+          },
+          {
+            "id": "exclude-sandbox-netflix",
+            "match": "suffix",
+            "value": "sandbox.netflix.com",
+            "reason": "Sandbox environment"
+          },
+          {
+            "id": "exclude-stage-netflix",
+            "match": "suffix",
+            "value": "stage.netflix.com",
+            "reason": "Stage environment"
+          },
+          {
+            "id": "exclude-staging-netflix",
+            "match": "suffix",
+            "value": "staging.netflix.com",
+            "reason": "Staging environment"
+          },
+          {
+            "id": "exclude-staging-ssic-netflix",
+            "match": "suffix",
+            "value": "staging.ssic.netflix.com",
+            "reason": "Staging SSIC environment"
+          }
+        ]
+      }
+    }
+  ]
+}
