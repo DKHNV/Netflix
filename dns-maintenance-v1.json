@@ -120,6 +120,240 @@
             "match": "suffix",
             "value": "staging.ssic.netflix.com",
             "reason": "Staging SSIC environment"
+          },
+          {
+            "id": "exclude-explicit-nonprod-01",
+            "match": "exact",
+            "value": "android-appboot-staging.netflix.com",
+            "reason": "Explicit staging endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-02",
+            "match": "exact",
+            "value": "api-useast-test.netflix.com",
+            "reason": "Explicit test endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-03",
+            "match": "exact",
+            "value": "customereventsqa.netflix.com",
+            "reason": "QA endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-04",
+            "match": "exact",
+            "value": "dev-npp.netflix.com",
+            "reason": "Development endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-05",
+            "match": "exact",
+            "value": "develop-stage.netflix.com",
+            "reason": "Development/stage endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-06",
+            "match": "exact",
+            "value": "embed.develop-stage.netflix.com",
+            "reason": "Development/stage endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-07",
+            "match": "exact",
+            "value": "embed.release-stage.netflix.com",
+            "reason": "Release staging endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-08",
+            "match": "exact",
+            "value": "ocga.ngp.test.mtls.cloud.netflix.com",
+            "reason": "Explicit test environment"
+          },
+          {
+            "id": "exclude-explicit-nonprod-09",
+            "match": "exact",
+            "value": "push.staging.eu-west-1.netflix.com",
+            "reason": "Staging push endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-10",
+            "match": "exact",
+            "value": "push.staging.us-east-1.netflix.com",
+            "reason": "Staging push endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-11",
+            "match": "exact",
+            "value": "push.staging.us-west-2.netflix.com",
+            "reason": "Staging push endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-12",
+            "match": "exact",
+            "value": "release-stage.netflix.com",
+            "reason": "Release staging endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-13",
+            "match": "exact",
+            "value": "sgw.staginga.cloud.netflix.com",
+            "reason": "Staging environment"
+          },
+          {
+            "id": "exclude-explicit-nonprod-14",
+            "match": "exact",
+            "value": "sgw.stagingb.cloud.netflix.com",
+            "reason": "Staging environment"
+          },
+          {
+            "id": "exclude-explicit-nonprod-15",
+            "match": "exact",
+            "value": "staging-npp.netflix.com",
+            "reason": "Staging endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-16",
+            "match": "exact",
+            "value": "test.deeplink.netflix.com",
+            "reason": "Explicit test endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-17",
+            "match": "exact",
+            "value": "test.security.netflix.com",
+            "reason": "Explicit test endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-18",
+            "match": "exact",
+            "value": "www2.alpha.netflix.com",
+            "reason": "Alpha environment"
+          },
+          {
+            "id": "exclude-explicit-nonprod-19",
+            "match": "exact",
+            "value": "ajay-test-app.netflix.com",
+            "reason": "Explicit test application"
+          },
+          {
+            "id": "exclude-explicit-nonprod-20",
+            "match": "exact",
+            "value": "api-staging-internal.netflix.com",
+            "reason": "Staging/internal endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-21",
+            "match": "exact",
+            "value": "billdesk-sihub-encryption-test.netflix.com",
+            "reason": "Payment integration test endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-22",
+            "match": "exact",
+            "value": "billdesk-sihub-signature-test.netflix.com",
+            "reason": "Payment integration test endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-23",
+            "match": "exact",
+            "value": "dev-npp-internal.netflix.com",
+            "reason": "Development/internal endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-24",
+            "match": "exact",
+            "value": "gotest.netflix.com",
+            "reason": "Explicit test endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-25",
+            "match": "exact",
+            "value": "mgkverifytest.security.netflix.com",
+            "reason": "Security test endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-26",
+            "match": "exact",
+            "value": "microstrategydevapi.netflix.com",
+            "reason": "Development API"
+          },
+          {
+            "id": "exclude-explicit-nonprod-27",
+            "match": "exact",
+            "value": "nm.push.staging.eu-west-1.netflix.com",
+            "reason": "Staging push endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-28",
+            "match": "exact",
+            "value": "nm.push.staging.us-east-1.netflix.com",
+            "reason": "Staging push endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-29",
+            "match": "exact",
+            "value": "nm.push.staging.us-east-2.netflix.com",
+            "reason": "Staging push endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-30",
+            "match": "exact",
+            "value": "nm.push.staging.us-west-2.netflix.com",
+            "reason": "Staging push endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-31",
+            "match": "exact",
+            "value": "nts-cert-testcontent-test.nrd.netflix.com",
+            "reason": "Certificate/test-content endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-32",
+            "match": "exact",
+            "value": "prehire-stage.netflix.com",
+            "reason": "Pre-hire staging endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-33",
+            "match": "exact",
+            "value": "raven-dev.netflix.com",
+            "reason": "Development endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-34",
+            "match": "exact",
+            "value": "staging-npp-internal.netflix.com",
+            "reason": "Staging/internal endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-35",
+            "match": "exact",
+            "value": "subtools-sandbox.netflix.com",
+            "reason": "Sandbox endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-36",
+            "match": "exact",
+            "value": "subtools-test.netflix.com",
+            "reason": "Test endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-37",
+            "match": "exact",
+            "value": "testcamper.netflix.com",
+            "reason": "Test endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-38",
+            "match": "exact",
+            "value": "wdintegrationsdev.netflix.com",
+            "reason": "Development integration endpoint"
+          },
+          {
+            "id": "exclude-explicit-nonprod-39",
+            "match": "exact",
+            "value": "yellow2admin-test.netflix.com",
+            "reason": "Admin test endpoint"
           }
         ]
       }
