@@ -1,6 +1,3 @@
-api-global.netflix.com
-api-user.netflix.com
-api.netflix.com
 venkman.cluster.eu-west-1.prod.cloud.netflix.com
 venkman.cluster.us-east-2.prod.cloud.netflix.com
 venkman.cluster.us-west-2.prod.cloud.netflix.com
