@@ -72,6 +72,7 @@ stash.netflix.com
 subtools-prod.netflix.com
 tech.nxtgms.netflix.com
 tenfootui.cast.netflix.com
+tenfootui.netflix.com
 thrifty20.netflix.com
 v6.eu-west-1.probnik.netflix.com
 v6.us-east-1.probnik.netflix.com

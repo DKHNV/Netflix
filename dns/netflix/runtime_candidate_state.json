@@ -10,10 +10,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-4359-1380.1.nflxso.net",
       "last_external_at": "2026-08-24T09:53:43Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -22,7 +22,7 @@
       "suffix": "nflxso.net"
     },
     "1057ce07c3a3bb324eeb4879e2e0be182a671e11406457dddece5df6ecbd2095": {
-      "active_cycles": 0,
+      "active_cycles": 1,
       "candidate_id": "1057ce07c3a3bb324eeb4879e2e0be182a671e11406457dddece5df6ecbd2095",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -31,10 +31,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ifvhpdf3deyctyb77m7rq-us-east-1.r.nflxso.net",
       "last_external_at": "2026-08-24T10:12:56Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -43,7 +43,7 @@
       "suffix": "nflxso.net"
     },
     "12fb49cfc8785149aea8dad00a1870ed6bd19b3464e9bd5a8f3d373311d5f471": {
-      "active_cycles": 0,
+      "active_cycles": 12,
       "candidate_id": "12fb49cfc8785149aea8dad00a1870ed6bd19b3464e9bd5a8f3d373311d5f471",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -51,14 +51,15 @@
       "first_intake_at": "2026-08-25T11:33:08Z",
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ipv4-c003-rix001-retn-isp.1.oca.nflxvideo.net",
-      "last_external_at": "2026-08-24T22:24:44Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
-      "last_observed": "2026-08-25T08:29:01Z",
-      "observation_count": 2,
-      "presence_cycles": 83,
+      "last_external_at": "2026-08-25T15:01:19Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
+      "last_observed": "2026-08-25T15:03:55Z",
+      "observation_count": 3,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
-        "2026-08-24"
+        "2026-08-24",
+        "2026-08-25"
       ],
       "state": "observed",
       "suffix": "nflxvideo.net"
@@ -73,10 +74,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ipv4-c002-waw001-retn-isp.1.oca.nflxvideo.net",
       "last_external_at": "2026-08-24T13:33:21Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -94,10 +95,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-4098-420.1.nflxso.net",
       "last_external_at": "2026-08-24T09:53:00Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -115,10 +116,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-8401-1380.1.nflxso.net",
       "last_external_at": "2026-08-24T09:53:17Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:29:01Z",
       "observation_count": 2,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -136,10 +137,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "help.nflxext.com",
       "last_external_at": "2026-08-24T09:40:25Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:29:01Z",
       "observation_count": 2,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -157,10 +158,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-3482-185.1.nflxso.net",
       "last_external_at": "2026-08-24T09:43:42Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -169,7 +170,7 @@
       "suffix": "nflxso.net"
     },
     "3fbd0893aaee21466e9973ebe09c47215585771b5876170e4eb6d547681e4725": {
-      "active_cycles": 0,
+      "active_cycles": 1,
       "candidate_id": "3fbd0893aaee21466e9973ebe09c47215585771b5876170e4eb6d547681e4725",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -177,14 +178,15 @@
       "first_intake_at": "2026-08-25T11:33:08Z",
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "assets.nflxext.com",
-      "last_external_at": "2026-08-24T22:38:01Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
-      "last_observed": "2026-08-25T08:28:56Z",
-      "observation_count": 1,
-      "presence_cycles": 83,
+      "last_external_at": "2026-08-25T15:47:39Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
+      "last_observed": "2026-08-25T16:09:37Z",
+      "observation_count": 4,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
-        "2026-08-24"
+        "2026-08-24",
+        "2026-08-25"
       ],
       "state": "observed",
       "suffix": "nflxext.com"
@@ -198,14 +200,15 @@
       "first_intake_at": "2026-08-25T11:33:08Z",
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ.a.nflxso.net",
-      "last_external_at": "2026-08-24T19:11:50Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
-      "last_observed": "2026-08-25T08:28:56Z",
-      "observation_count": 1,
-      "presence_cycles": 83,
+      "last_external_at": "2026-08-25T15:01:14Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
+      "last_observed": "2026-08-25T15:03:55Z",
+      "observation_count": 2,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
-        "2026-08-24"
+        "2026-08-24",
+        "2026-08-25"
       ],
       "state": "observed",
       "suffix": "nflxso.net"
@@ -220,10 +223,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ipv4-c146-arn001-ix.1.oca.nflxvideo.net",
       "last_external_at": "2026-08-24T14:02:49Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -241,10 +244,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-3928-185.1.nflxso.net",
       "last_external_at": "2026-08-24T09:47:48Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -262,10 +265,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-8807-1740.1.nflxso.net",
       "last_external_at": "2026-08-24T09:51:54Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -283,10 +286,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-3428-41.1.nflxso.net",
       "last_external_at": "2026-08-24T09:51:51Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -304,10 +307,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-6115-185.1.nflxso.net",
       "last_external_at": "2026-08-24T09:42:45Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:29:01Z",
       "observation_count": 2,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -325,10 +328,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-7142-420.1.nflxso.net",
       "last_external_at": "2026-08-24T09:44:13Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:29:01Z",
       "observation_count": 2,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -346,10 +349,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-8627-185.1.nflxso.net",
       "last_external_at": "2026-08-24T09:53:52Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:29:01Z",
       "observation_count": 2,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -367,13 +370,34 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ipv4-c133-arn001-ix.ftl.nflxvideo.net",
       "last_external_at": "2026-08-24T09:54:32Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
+      ],
+      "state": "observed",
+      "suffix": "nflxvideo.net"
+    },
+    "7176f5b420d49b479011316481ceed469c2b1450b80fe548313a042108dc0b3e": {
+      "active_cycles": 24,
+      "candidate_id": "7176f5b420d49b479011316481ceed469c2b1450b80fe548313a042108dc0b3e",
+      "current_presence": true,
+      "current_routing_status": "expired",
+      "feed_present": true,
+      "first_intake_at": "2026-08-25T23:42:37Z",
+      "first_observed": "2026-08-25T15:03:55Z",
+      "hostname": "ipv4-c111-arn001-ix.ftl.nflxvideo.net",
+      "last_external_at": "2026-08-25T15:01:18Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
+      "last_observed": "2026-08-25T15:03:55Z",
+      "observation_count": 1,
+      "presence_cycles": 71,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-25"
       ],
       "state": "observed",
       "suffix": "nflxvideo.net"
@@ -388,10 +412,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ifvn5dfbjdhqsevqief6a-us-east-1.r.nflxso.net",
       "last_external_at": "2026-08-24T13:32:58Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -409,10 +433,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-114-116.1.nflxso.net",
       "last_external_at": "2026-08-24T13:22:34Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:29:01Z",
       "observation_count": 2,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -430,10 +454,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ifvf7dencssnsxi5s52fi-us-east-1.r.nflxso.net",
       "last_external_at": "2026-08-24T09:54:32Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -451,10 +475,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-7522-7435.1.nflxso.net",
       "last_external_at": "2026-08-24T09:52:38Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -472,10 +496,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ipv4-c131-arn001-ix.ftl.nflxvideo.net",
       "last_external_at": "2026-08-24T13:32:57Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:29:01Z",
       "observation_count": 2,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -484,7 +508,7 @@
       "suffix": "nflxvideo.net"
     },
     "9302c3aaa165940d0dc1e1574bf80c70e46c31949ea09bec67db2ef2c800b11f": {
-      "active_cycles": 0,
+      "active_cycles": 12,
       "candidate_id": "9302c3aaa165940d0dc1e1574bf80c70e46c31949ea09bec67db2ef2c800b11f",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -492,17 +516,39 @@
       "first_intake_at": "2026-08-25T11:33:08Z",
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ipv4-c002-rix001-retn-isp.1.oca.nflxvideo.net",
-      "last_external_at": "2026-08-24T22:03:18Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
-      "last_observed": "2026-08-25T08:29:01Z",
-      "observation_count": 2,
-      "presence_cycles": 83,
+      "last_external_at": "2026-08-25T15:01:18Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
+      "last_observed": "2026-08-25T15:03:55Z",
+      "observation_count": 3,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
-        "2026-08-24"
+        "2026-08-24",
+        "2026-08-25"
       ],
       "state": "observed",
       "suffix": "nflxvideo.net"
+    },
+    "944fefb723d61c2cbc4719a6925c4f781cc01f9ea9e8fecad5990d1e884a5309": {
+      "active_cycles": 6,
+      "candidate_id": "944fefb723d61c2cbc4719a6925c4f781cc01f9ea9e8fecad5990d1e884a5309",
+      "current_presence": true,
+      "current_routing_status": "expired",
+      "feed_present": true,
+      "first_intake_at": "2026-08-25T23:42:37Z",
+      "first_observed": "2026-08-25T15:03:55Z",
+      "hostname": "ifvc3djevzad43ywdh2a6-us-east-1.r.nflxso.net",
+      "last_external_at": "2026-08-25T15:01:18Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
+      "last_observed": "2026-08-25T15:03:55Z",
+      "observation_count": 1,
+      "presence_cycles": 71,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-25"
+      ],
+      "state": "observed",
+      "suffix": "nflxso.net"
     },
     "982a1fd2c3dbbf0d8b35b7a39c9b9e1bd31831d3ee4ea68ec9507d9a8a3c7e6b": {
       "active_cycles": 1,
@@ -514,10 +560,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ae.nflximg.net",
       "last_external_at": "2026-08-24T08:14:36Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T09:35:44Z",
       "observation_count": 2,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -535,10 +581,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ipv4-c003-waw001-retn-isp.1.oca.nflxvideo.net",
       "last_external_at": "2026-08-24T13:33:24Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -556,10 +602,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-5214-185.1.nflxso.net",
       "last_external_at": "2026-08-24T09:41:31Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -577,10 +623,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-2935-420.1.nflxso.net",
       "last_external_at": "2026-08-24T09:56:25Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -598,10 +644,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ipv4-c141-arn001-ix.ftl.nflxvideo.net",
       "last_external_at": "2026-08-24T10:12:56Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:29:01Z",
       "observation_count": 2,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -619,10 +665,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-7834-185.1.nflxso.net",
       "last_external_at": "2026-08-24T09:43:51Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -631,7 +677,7 @@
       "suffix": "nflxso.net"
     },
     "cb33ec743e4154edf0bff37465fbfa198fd898f2361e6b59f27a127ac96b62db": {
-      "active_cycles": 60,
+      "active_cycles": 131,
       "candidate_id": "cb33ec743e4154edf0bff37465fbfa198fd898f2361e6b59f27a127ac96b62db",
       "current_presence": true,
       "current_routing_status": "active",
@@ -640,10 +686,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "e.ns.nflxso.net",
       "last_external_at": "2026-08-24T08:14:44Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:55:20Z",
       "observation_count": 2,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -652,7 +698,7 @@
       "suffix": "nflxso.net"
     },
     "cce41ff9f9921fc3f0eb86ca2a56689161e125510a0027423c0e5b44c54a4674": {
-      "active_cycles": 0,
+      "active_cycles": 12,
       "candidate_id": "cce41ff9f9921fc3f0eb86ca2a56689161e125510a0027423c0e5b44c54a4674",
       "current_presence": true,
       "current_routing_status": "expired",
@@ -660,14 +706,15 @@
       "first_intake_at": "2026-08-25T11:33:08Z",
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ipv4-c001-rix001-retn-isp.1.oca.nflxvideo.net",
-      "last_external_at": "2026-08-24T19:12:05Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
-      "last_observed": "2026-08-25T08:28:56Z",
-      "observation_count": 1,
-      "presence_cycles": 83,
+      "last_external_at": "2026-08-25T15:01:23Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
+      "last_observed": "2026-08-25T15:03:55Z",
+      "observation_count": 2,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
-        "2026-08-24"
+        "2026-08-24",
+        "2026-08-25"
       ],
       "state": "observed",
       "suffix": "nflxvideo.net"
@@ -682,10 +729,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-331-3852.1.nflxso.net",
       "last_external_at": "2026-08-24T09:43:43Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:28:56Z",
       "observation_count": 1,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -703,10 +750,10 @@
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "ipv4-c138-arn001-ix.1.oca.nflxvideo.net",
       "last_external_at": "2026-08-24T10:13:03Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
       "last_observed": "2026-08-25T08:29:01Z",
       "observation_count": 2,
-      "presence_cycles": 83,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-24"
@@ -715,32 +762,33 @@
       "suffix": "nflxvideo.net"
     },
     "ffbb45e6b25dc6ba3a8f23d692c1dc0684f3b611c952a9a9dcf8c8ab16749856": {
-      "active_cycles": 0,
+      "active_cycles": 1,
       "candidate_id": "ffbb45e6b25dc6ba3a8f23d692c1dc0684f3b611c952a9a9dcf8c8ab16749856",
       "current_presence": true,
-      "current_routing_status": "expired",
+      "current_routing_status": "grace",
       "feed_present": true,
       "first_intake_at": "2026-08-25T11:33:08Z",
       "first_observed": "2026-08-25T08:28:56Z",
       "hostname": "occ-0-3428-38.1.nflxso.net",
-      "last_external_at": "2026-08-24T22:07:20Z",
-      "last_intake_at": "2026-08-25T17:48:38Z",
-      "last_observed": "2026-08-25T08:29:01Z",
-      "observation_count": 2,
-      "presence_cycles": 83,
+      "last_external_at": "2026-08-25T15:01:15Z",
+      "last_intake_at": "2026-08-25T23:42:37Z",
+      "last_observed": "2026-08-25T15:24:07Z",
+      "observation_count": 4,
+      "presence_cycles": 154,
       "reactivation_count": 0,
       "seen_dates": [
-        "2026-08-24"
+        "2026-08-24",
+        "2026-08-25"
       ],
       "state": "observed",
       "suffix": "nflxso.net"
     }
   },
-  "last_intake_at": "2026-08-25T17:48:38Z",
+  "last_intake_at": "2026-08-25T23:42:37Z",
   "last_intake_status": "ok",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
   "schema_version": 1,
   "service": "netflix",
-  "source_content_hash": "bc6ab9c443855499c09ff116b97112a2fe3deebedcc3528727ce95faf2373c19",
-  "source_generated_at": "2026-08-25T14:58:50Z"
+  "source_content_hash": "c5db777939541ec172ebda3cfa5b9c4ddf1b9bccab7610c332d049bf215b8f6c",
+  "source_generated_at": "2026-08-25T20:57:40Z"
 }
