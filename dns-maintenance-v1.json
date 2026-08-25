@@ -41,6 +41,9 @@
       "name": "netflix",
       "active_file": "Netflix_DNS",
       "data_dir": "dns/netflix",
+      "runtime_candidate": {
+        "enabled": true
+      },
       "discovery": {
         "enabled": true,
         "sources": [
