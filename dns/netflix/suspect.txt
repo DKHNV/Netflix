@@ -41,6 +41,7 @@ htmltvui.netflix.com
 ios.gameboot.netflix.com
 logging.netflix.com
 microstrategyapi.netflix.com
+muse.netflix.com
 nhegdefirstdeploy.netflix.com
 notifications.netflix.com
 nxtgms.netflix.com

@@ -7,7 +7,6 @@ identity.prod.netflix.com
 instantgames.netflix.com
 mcrmanifestgen.netflix.com
 mriserver.netflix.com
-muse.netflix.com
 nbc.prod.netflix.com
 npp-internal.netflix.com
 oca-api.us-east-2.prodaa.netflix.com
