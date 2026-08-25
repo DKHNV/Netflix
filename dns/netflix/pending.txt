@@ -13,6 +13,7 @@ npp-internal.netflix.com
 oca-api.us-east-2.prodaa.netflix.com
 ramius.netflix.com
 siteops.prod.netflix.com
+sn.netflix.com
 subtools-prod.netflix.com
 tenfootui.cast.netflix.com
 tenfootui.netflix.com
