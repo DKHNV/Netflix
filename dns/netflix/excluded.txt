@@ -114,6 +114,8 @@ nmtracking.test.netflix.com
 nrdp.corp.netflix.com
 nrdp.staging.netflix.com
 nrdpcrash.dta.netflix.com
+ntag.staging.netflix.com
+ntag.test.netflix.com
 nts-cert-testcontent-test.nrd.netflix.com
 obelixd.test.netflix.com
 obelixt.test.netflix.com
