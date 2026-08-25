@@ -6,10 +6,12 @@ api-eu.netflix.com
 api-global-prefix.netflix.com
 api-latam.netflix.com
 api-us.netflix.com
+apis.netflix.com
 artifacts.netflix.com
 assetqc.backlot.netflix.com
 billdesk-sihub-encryption.netflix.com
 billdesk-sihub-signature-prod.netflix.com
+blesk.netflix.com
 c00.nxtgms.netflix.com
 c00.sand.nxtgms.netflix.com
 c00.tech.nxtgms.netflix.com
@@ -63,4 +65,5 @@ wdintegrations.netflix.com
 www1.netflix.com
 www2.netflix.com
 www3.netflix.com
+wwws.netflix.com
 yellow2admin-prod.netflix.com
