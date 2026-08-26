@@ -2,6 +2,7 @@ ablaze-beta.prod.netflix.com
 ablaze.prod.netflix.com
 adldap.itp.netflix.com
 ads.netflix.com
+aidsvc.netflix.com
 android.gameboot.netflix.com
 api-eu.netflix.com
 api-global-prefix.netflix.com
@@ -43,6 +44,7 @@ foggy.netflix.com
 helix-prod-202510-202610.netflix.com
 htmltvui.netflix.com
 identity.prod.netflix.com
+instantgames.netflix.com
 ios.gameboot.netflix.com
 logging.netflix.com
 mcrmanifestgen.netflix.com
