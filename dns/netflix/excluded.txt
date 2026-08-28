@@ -1,4 +1,3 @@
-ablaze.test.netflix.com
 adc-useast1-1c1.corp.netflix.com
 adc-useast1-1c2.corp.netflix.com
 adc-useast1-1d1.corp.netflix.com
@@ -30,8 +29,6 @@ assetqct.test.netflix.com
 beacon.test.netflix.com
 beehiveui2t.test.netflix.com
 beholder-api.dta.netflix.com
-billdesk-sihub-encryption-test.netflix.com
-billdesk-sihub-signature-test.netflix.com
 bob-api.dta.netflix.com
 cbp-eu.nccp.test.netflix.com
 cbp-us.nccp.test.netflix.com
@@ -39,7 +36,6 @@ cbp.nccp.test.netflix.com
 cms.obiwan.stage.netflix.com
 cms.obiwan.test.netflix.com
 codecov.dta.netflix.com
-confluence.corp.netflix.com
 control.tls.develop.test.cloud.netflix.com
 copyrightenforcement.test.netflix.com
 csi.dta.netflix.com
@@ -53,7 +49,6 @@ develop-stage.netflix.com
 develop.staging.ssic.netflix.com
 dexters.test.netflix.com
 dextert.test.netflix.com
-dnajs.test.netflix.com
 dtatestdispatcher.dta.netflix.com
 ec2types.test.netflix.com
 egon.test.netflix.com
@@ -62,7 +57,6 @@ embed.release-stage.netflix.com
 eworley-tls-curve-validation.test.cloud.netflix.com
 gaas-scar.test.netflix.com
 gotest.netflix.com
-graphit.dta.netflix.com
 handler.dta.netflix.com
 help.stage.netflix.com
 help.test.netflix.com
@@ -73,7 +67,6 @@ hoa-api.dta.netflix.com
 hoc.dta.netflix.com
 hoke-api.dta.netflix.com
 hopper-mobile.prototypes.netflix.com
-hopper-stream.prototypes.netflix.com
 ichnaea.staging.netflix.com
 ichnaea.test.netflix.com
 id.test.netflix.com
@@ -81,15 +74,10 @@ identity.staging.netflix.com
 identity.test.netflix.com
 interactive-discovery.prototypes.netflix.com
 irot.test.netflix.com
-jira.corp.netflix.com
 live-proto-tv.prototypes.netflix.com
-local.dta.netflix.com
-logparser.dta.netflix.com
 logs.staging.netflix.com
 logs.test.netflix.com
 logshredder.dta.netflix.com
-mgkverifytest.security.netflix.com
-microstrategydevapi.netflix.com
 monet.test.netflix.com
 mopro-torrent-server.dta.netflix.com
 nbc.test.netflix.com
@@ -111,8 +99,6 @@ nm.push.staging.us-west-2.internal.dradis.netflix.com
 nm.push.staging.us-west-2.netflix.com
 nm.push.test.netflix.com
 nmtracking.test.netflix.com
-nrdp.corp.netflix.com
-nrdp.staging.netflix.com
 nrdpcrash.dta.netflix.com
 ntag.staging.netflix.com
 ntag.test.netflix.com
@@ -126,12 +112,10 @@ obiwanqa.test.netflix.com
 obiwant.test.netflix.com
 ocga.ngp.test.mtls.cloud.netflix.com
 opstools.obiwan.stage.netflix.com
-origin-sod.test.netflix.com
 partnerapi.sandbox.netflix.com
 partnerapi.test.netflix.com
 prehire-stage.netflix.com
 presentationtracking.test.netflix.com
-promotion.dta.netflix.com
 prototypes.netflix.com
 pulse-design-tech.prototypes.netflix.com
 push.prod.eu-west-1.internal.dradis.netflix.com
@@ -145,13 +129,11 @@ push.staging.us-east-1.netflix.com
 push.staging.us-west-2.internal.dradis.netflix.com
 push.staging.us-west-2.netflix.com
 push.test.netflix.com
-raven-dev.netflix.com
 refimages.dta.netflix.com
 release-int.test.netflix.com
 release-stage.netflix.com
 release.staging.ssic.netflix.com
 request.irot.test.netflix.com
-scene-stream.prototypes.netflix.com
 schedule.dta.netflix.com
 screeningplayerd.test.netflix.com
 screeningplayert.test.netflix.com
@@ -163,7 +145,6 @@ siteops.test.netflix.com
 spetools.test.netflix.com
 staging-npp-internal.netflix.com
 staging-npp.netflix.com
-stash.corp.netflix.com
 stitch.dta.netflix.com
 subtools-sandbox.netflix.com
 subtools-test.netflix.com
@@ -180,7 +161,6 @@ turbot.test.netflix.com
 utpublish.dta.netflix.com
 venkman.cluster.us-east-1.test.cloud.netflix.com
 wdintegrationsdev.netflix.com
-ws.push.sandbox.netflix.com
 ws.push.staging.netflix.com
 ws.push.test.netflix.com
 ws.test.netflix.com
