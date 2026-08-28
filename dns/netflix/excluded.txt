@@ -8,7 +8,6 @@ adc-uswest2-2b1.corp.netflix.com
 adc-uswest2-2b2.corp.netflix.com
 ads.test.netflix.com
 adstr.test.netflix.com
-advertising.staging.netflix.com
 advertising.test.netflix.com
 aidsvc.test.netflix.com
 ajay-test-app.netflix.com
@@ -41,7 +40,6 @@ copyrightenforcement.test.netflix.com
 csi.dta.netflix.com
 customerevents.test.netflix.com
 customereventsqa.netflix.com
-design-tech-real-data.prototypes.netflix.com
 dev-npp-internal.netflix.com
 dev-npp.netflix.com
 develop-int.test.netflix.com
@@ -81,22 +79,13 @@ logshredder.dta.netflix.com
 monet.test.netflix.com
 mopro-torrent-server.dta.netflix.com
 nbc.test.netflix.com
-netcertlab01.corp.netflix.com
 nimbus-api.dta.netflix.com
 nm.push.prod.eu-west-1.internal.dradis.netflix.com
 nm.push.prod.us-east-1.internal.dradis.netflix.com
 nm.push.prod.us-east-2.internal.dradis.netflix.com
 nm.push.prod.us-west-2.internal.dradis.netflix.com
 nm.push.sandbox.netflix.com
-nm.push.staging.eu-west-1.internal.dradis.netflix.com
-nm.push.staging.eu-west-1.netflix.com
 nm.push.staging.netflix.com
-nm.push.staging.us-east-1.internal.dradis.netflix.com
-nm.push.staging.us-east-1.netflix.com
-nm.push.staging.us-east-2.internal.dradis.netflix.com
-nm.push.staging.us-east-2.netflix.com
-nm.push.staging.us-west-2.internal.dradis.netflix.com
-nm.push.staging.us-west-2.netflix.com
 nm.push.test.netflix.com
 nmtracking.test.netflix.com
 nrdpcrash.dta.netflix.com
@@ -154,7 +143,6 @@ test.games.netflix.com
 test.security.netflix.com
 testcamper.netflix.com
 testplan.dta.netflix.com
-thesecret.corp.netflix.com
 tls.develop.test.cloud.netflix.com
 tlscontrol.develop.test.cloud.netflix.com
 turbot.test.netflix.com
