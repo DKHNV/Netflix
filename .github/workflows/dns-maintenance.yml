@@ -22,9 +22,9 @@ concurrency:
 
 jobs:
   maintain:
-    uses: DKHNV/DNS-Maintenance/.github/workflows/reusable-maintenance.yml@bb555b31c9959e89b8458f257c54868fd71fd88a
+    uses: DKHNV/DNS-Maintenance/.github/workflows/reusable-maintenance.yml@0ebf730deb89a3aa0a1dac31137103e3cd12b405
     with:
       config_path: dns-maintenance-v1.json
       collection: netflix
       dry_run: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
-      engine_ref: bb555b31c9959e89b8458f257c54868fd71fd88a
+      engine_ref: 0ebf730deb89a3aa0a1dac31137103e3cd12b405
