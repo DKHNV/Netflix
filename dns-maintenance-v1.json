@@ -49,6 +49,12 @@
             "enabled": true,
             "min_seen_days": 2,
             "min_observation_count": 2
+          },
+          "candidate_maturity": {
+            "enabled": true,
+            "min_candidate_age_hours": 24,
+            "min_additional_seen_days": 1,
+            "min_additional_observation_count": 1
           }
         }
       },
