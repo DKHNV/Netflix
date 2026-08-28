@@ -42,16 +42,22 @@
       "active_file": "Netflix_DNS",
       "data_dir": "dns/netflix",
       "runtime_candidate": {
-        "enabled": true,
-        "classification": {
-          "enabled": true,
-          "candidate_eligibility": {
-            "enabled": true,
-            "min_seen_days": 2,
-            "min_observation_count": 2
-          }
-        }
-      },
+  "enabled": true,
+  "classification": {
+    "enabled": true,
+    "candidate_eligibility": {
+      "enabled": true,
+      "min_seen_days": 2,
+      "min_observation_count": 2
+    },
+    "candidate_maturity": {
+      "enabled": true,
+      "min_candidate_age_hours": 24,
+      "min_additional_seen_days": 1,
+      "min_additional_observation_count": 1
+    }
+  }
+},
       "discovery": {
         "enabled": true,
         "sources": [
