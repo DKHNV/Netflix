@@ -1,17 +1,8 @@
-adc-useast1-1c1.corp.netflix.com
-adc-useast1-1c2.corp.netflix.com
-adc-useast1-1d1.corp.netflix.com
-adc-useast1-1d2.corp.netflix.com
-adc-uswest2-2a1.corp.netflix.com
-adc-uswest2-2a2.corp.netflix.com
-adc-uswest2-2b1.corp.netflix.com
-adc-uswest2-2b2.corp.netflix.com
 ads.test.netflix.com
 adstr.test.netflix.com
 advertising.test.netflix.com
 aidsvc.test.netflix.com
 ajay-test-app.netflix.com
-alert.dta.netflix.com
 alertprocessor.dta.netflix.com
 android-appboot-staging.netflix.com
 android-appboot.test.netflix.com
@@ -36,7 +27,6 @@ cms.obiwan.stage.netflix.com
 cms.obiwan.test.netflix.com
 codecov.dta.netflix.com
 control.tls.develop.test.cloud.netflix.com
-copyrightenforcement.test.netflix.com
 csi.dta.netflix.com
 customerevents.test.netflix.com
 customereventsqa.netflix.com
@@ -48,7 +38,6 @@ develop.staging.ssic.netflix.com
 dexters.test.netflix.com
 dextert.test.netflix.com
 dtatestdispatcher.dta.netflix.com
-ec2types.test.netflix.com
 egon.test.netflix.com
 embed.develop-stage.netflix.com
 embed.release-stage.netflix.com
@@ -103,7 +92,6 @@ ocga.ngp.test.mtls.cloud.netflix.com
 opstools.obiwan.stage.netflix.com
 partnerapi.sandbox.netflix.com
 partnerapi.test.netflix.com
-prehire-stage.netflix.com
 presentationtracking.test.netflix.com
 prototypes.netflix.com
 pulse-design-tech.prototypes.netflix.com
@@ -141,7 +129,6 @@ sue.dta.netflix.com
 test.deeplink.netflix.com
 test.games.netflix.com
 test.security.netflix.com
-testcamper.netflix.com
 testplan.dta.netflix.com
 tls.develop.test.cloud.netflix.com
 tlscontrol.develop.test.cloud.netflix.com
@@ -157,4 +144,3 @@ www-int.test.netflix.com
 www-qa.test.netflix.com
 www2.alpha.netflix.com
 wwws.test.netflix.com
-yellow2admin-test.netflix.com

@@ -1,3 +1,6 @@
+api-global.netflix.com
+api-user.netflix.com
+api.netflix.com
 appboot.netflix.com
 dse.netflix.com
 internationalbenefits.netflix.com
