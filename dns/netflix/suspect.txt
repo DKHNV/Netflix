@@ -1,15 +1,12 @@
 ads.netflix.com
 aidsvc.netflix.com
 api-internal.netflix.com
-apis.netflix.com
-blesk.netflix.com
 egon-wildcard.netflix.com
 egon.netflix.com
 identity.prod.netflix.com
 instantgames.netflix.com
 mcrmanifestgen.netflix.com
 mriserver.netflix.com
-muse.netflix.com
 nbc.prod.netflix.com
 npp-internal.netflix.com
 oca-api.us-east-2.prodaa.netflix.com
@@ -20,4 +17,3 @@ subtools-prod.netflix.com
 tenfootui.cast.netflix.com
 tenfootui.netflix.com
 venkman.cluster.us-east-1.prod.cloud.netflix.com
-wwws.netflix.com
