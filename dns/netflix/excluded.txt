@@ -3,8 +3,6 @@ adstr.test.netflix.com
 advertising.test.netflix.com
 aidsvc.test.netflix.com
 android-appboot-staging.netflix.com
-api-int-internal.test.netflix.com
-api-staging-internal.netflix.com
 api-us.test.netflix.com
 api-useast-test.netflix.com
 api.test.netflix.com
@@ -30,7 +28,6 @@ dextert.test.netflix.com
 embed.develop-stage.netflix.com
 embed.release-stage.netflix.com
 eworley-tls-curve-validation.test.cloud.netflix.com
-gotest.netflix.com
 help.stage.netflix.com
 helpt.test.netflix.com
 ichnaea.staging.netflix.com
@@ -50,7 +47,6 @@ nm.push.staging.netflix.com
 nmtracking.test.netflix.com
 ntag.staging.netflix.com
 ntag.test.netflix.com
-nts-cert-testcontent-test.nrd.netflix.com
 obelixd.test.netflix.com
 obelixt.test.netflix.com
 obiwan.stage.netflix.com

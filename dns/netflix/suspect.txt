@@ -1,4 +1,3 @@
 aidsvc.netflix.com
 instantgames.netflix.com
 sn.netflix.com
-tenfootui.netflix.com
