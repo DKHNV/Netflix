@@ -152,6 +152,7 @@ sctweb-old.netflix.com
 siteops-develop.test.netflix.com
 siteops.prod.netflix.com
 siteops.test.netflix.com
+sn.netflix.com
 sourcegraph.netflix.com
 staging-npp-internal.netflix.com
 stash.corp.netflix.com
