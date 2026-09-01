@@ -432,13 +432,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "360.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -446,7 +454,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -850,13 +858,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 302,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "about.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -864,7 +880,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1308,13 +1324,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 307,
+          "ip": "18.207.84.236",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "account.leportal.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.207.84.236",
@@ -1322,7 +1346,7 @@
         "52.0.131.132"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1766,20 +1790,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "207.45.72.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "account.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "207.45.72.1",
         "207.45.73.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2223,19 +2255,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.2",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 503,
+          "ip": "52.22.251.48",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.2",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "acct-api.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "52.22.251.48"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2770,13 +2810,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 47,
-      "history_successes": 47,
+      "history_samples": 48,
+      "history_successes": 48,
       "hostname": "advertising.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -2784,7 +2832,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3408,13 +3456,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "100.28.13.17",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "android-appboot.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "100.28.13.17",
@@ -3422,7 +3478,7 @@
         "54.224.145.4"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3866,13 +3922,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "107.22.243.248",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "android.prod.dradis.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.22.243.248",
@@ -3880,7 +3944,7 @@
         "3.219.54.248"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4316,13 +4380,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "18.205.122.65",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "android.sharkboot.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.205.122.65",
@@ -4330,7 +4402,7 @@
         "34.233.148.8"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4718,20 +4790,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "45.57.40.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "anycast.ftl.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "45.57.40.1",
         "45.57.41.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4740,7 +4820,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 403,
-          "ip": "107.22.243.248",
+          "ip": "3.214.91.176",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -5127,21 +5207,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "3.214.91.176",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 47,
-      "history_successes": 47,
+      "history_samples": 48,
+      "history_successes": 48,
       "hostname": "api-global-ecc.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "107.22.243.248",
-        "18.209.154.243",
-        "35.168.39.97"
+        "3.214.91.176",
+        "3.219.54.248",
+        "3.234.191.246"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5166,9 +5254,9 @@
           "status": "TLS_CERT_ERROR"
         }
       ],
-      "consecutive_failures": 51,
+      "consecutive_failures": 52,
       "ever_alive": false,
-      "failure_observations": 51,
+      "failure_observations": 52,
       "failure_since": "2026-08-21T17:49:18Z",
       "first_seen": "2026-08-21T17:49:18Z",
       "history": [
@@ -5579,15 +5667,23 @@
             "TLS_CERT_ERROR"
           ],
           "type": "TLS_CERT_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_CERT_ERROR"
+          ],
+          "type": "TLS_CERT_ERROR"
         }
       ],
-      "history_failures": 51,
-      "history_samples": 51,
+      "history_failures": 52,
+      "history_samples": 52,
       "history_successes": 0,
       "hostname": "api-global.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)",
@@ -5820,9 +5916,9 @@
           "status": "TLS_CERT_ERROR"
         }
       ],
-      "consecutive_failures": 51,
+      "consecutive_failures": 52,
       "ever_alive": false,
-      "failure_observations": 51,
+      "failure_observations": 52,
       "failure_since": "2026-08-21T17:49:18Z",
       "first_seen": "2026-08-21T17:49:18Z",
       "history": [
@@ -6233,15 +6329,23 @@
             "TLS_CERT_ERROR"
           ],
           "type": "TLS_CERT_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_CERT_ERROR"
+          ],
+          "type": "TLS_CERT_ERROR"
         }
       ],
-      "history_failures": 51,
-      "history_samples": 51,
+      "history_failures": 52,
+      "history_samples": 52,
       "history_successes": 0,
       "hostname": "api-user.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)",
@@ -6298,9 +6402,9 @@
           "status": "TLS_CERT_ERROR"
         }
       ],
-      "consecutive_failures": 51,
+      "consecutive_failures": 52,
       "ever_alive": false,
-      "failure_observations": 51,
+      "failure_observations": 52,
       "failure_since": "2026-08-21T17:49:18Z",
       "first_seen": "2026-08-21T17:49:18Z",
       "history": [
@@ -6711,15 +6815,23 @@
             "TLS_CERT_ERROR"
           ],
           "type": "TLS_CERT_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_CERT_ERROR"
+          ],
+          "type": "TLS_CERT_ERROR"
         }
       ],
-      "history_failures": 51,
-      "history_samples": 51,
+      "history_failures": 52,
+      "history_samples": 52,
       "history_successes": 0,
       "hostname": "api.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)",
@@ -7363,20 +7475,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "207.45.72.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "app.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "207.45.72.1",
         "207.45.73.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7401,9 +7521,9 @@
           "status": "TLS_CERT_ERROR"
         }
       ],
-      "consecutive_failures": 53,
+      "consecutive_failures": 54,
       "ever_alive": false,
-      "failure_observations": 53,
+      "failure_observations": 54,
       "failure_since": "2026-08-21T08:09:29Z",
       "first_seen": "2026-08-21T08:09:29Z",
       "history": [
@@ -7830,15 +7950,23 @@
             "TLS_CERT_ERROR"
           ],
           "type": "TLS_CERT_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_CERT_ERROR"
+          ],
+          "type": "TLS_CERT_ERROR"
         }
       ],
-      "history_failures": 53,
-      "history_samples": 53,
+      "history_failures": 54,
+      "history_samples": 54,
       "history_successes": 0,
       "hostname": "appboot.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
@@ -8314,13 +8442,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 302,
+          "ip": "18.207.84.236",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "assetqc.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.207.84.236",
@@ -8328,7 +8464,7 @@
         "52.0.131.132"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8912,13 +9048,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "3.137.95.47",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "assets.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.137.95.47",
@@ -8926,7 +9070,7 @@
         "44.240.158.19"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9338,13 +9482,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "3.170.3.117",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "assets.obiwan.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.170.3.117",
@@ -9352,7 +9504,7 @@
         "3.170.3.58"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9780,13 +9932,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "athena.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -9794,7 +9954,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10222,13 +10382,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "autocomplete.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -10236,7 +10404,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10664,13 +10832,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "awards.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -10678,7 +10854,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10942,13 +11118,20 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "TLS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "ip": "100.61.241.230",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "TLS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 35,
-      "history_successes": 35,
+      "history_samples": 36,
+      "history_successes": 36,
       "hostname": "b-mtls.tech.nxtgms.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "100.61.241.230",
@@ -10956,7 +11139,7 @@
         "52.201.37.56"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11384,13 +11567,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "backlot.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -11398,7 +11589,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11826,13 +12017,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "backlothelp.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -11840,7 +12039,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12340,13 +12539,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "beehive2.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -12354,7 +12561,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12880,13 +13087,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "benefits.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -12894,7 +13109,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -13290,13 +13505,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 307,
+          "ip": "18.207.84.236",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 47,
-      "history_successes": 47,
+      "history_samples": 48,
+      "history_successes": 48,
       "hostname": "beta.oc.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.207.84.236",
@@ -13304,7 +13527,7 @@
         "52.0.131.132"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -13700,13 +13923,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 404,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 47,
-      "history_successes": 47,
+      "history_samples": 48,
+      "history_successes": 48,
       "hostname": "bfgui.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -13714,7 +13945,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -14142,13 +14373,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "blog.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -14156,7 +14395,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -14560,13 +14799,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 404,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "blue.prod.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -14574,7 +14821,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -15002,13 +15249,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "bluray.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -15016,7 +15271,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -15452,13 +15707,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "brand.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -15466,7 +15729,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -15878,13 +16141,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 302,
+          "ip": "104.16.46.231",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "cache.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "104.16.46.231",
@@ -15892,7 +16163,7 @@
         "104.16.48.231"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -16328,13 +16599,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "candidate.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -16342,7 +16621,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -16778,20 +17057,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "45.57.90.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "cast.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "45.57.90.1",
         "45.57.91.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -17181,13 +17468,20 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "TLS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "ip": "3.229.61.199",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "TLS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "catalog.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.229.61.199",
@@ -17195,7 +17489,7 @@
         "54.175.89.55"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18038,13 +18332,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 302,
+          "ip": "35.163.11.240",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "confluence.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "35.163.11.240",
@@ -18052,7 +18354,7 @@
         "52.25.139.222"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18496,13 +18798,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 302,
+          "ip": "3.222.220.127",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "contactus.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.222.220.127",
@@ -18510,7 +18820,7 @@
         "52.71.159.247"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18930,13 +19240,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 302,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "contenthub.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -18944,7 +19262,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -19498,13 +19816,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "104.16.46.231",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "creativeservices.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "104.16.46.231",
@@ -19512,7 +19838,7 @@
         "104.16.48.231"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -19916,13 +20242,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 404,
+          "ip": "3.230.56.88",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "customerevents.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.230.56.88",
@@ -19930,7 +20264,7 @@
         "54.175.114.128"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -20093,7 +20427,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 404,
-          "ip": "107.22.243.248",
+          "ip": "3.214.91.176",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -20528,21 +20862,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 404,
+          "ip": "3.214.91.176",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "deeplink.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "107.22.243.248",
         "3.214.91.176",
-        "3.219.54.248"
+        "3.219.54.248",
+        "3.234.191.246"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -21378,13 +21720,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "devices.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -21392,7 +21742,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -21812,13 +22162,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "dexter.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -21826,7 +22184,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -22426,13 +22784,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "docs.nrd.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -22440,7 +22806,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -22465,9 +22831,9 @@
           "status": "TLS_ERROR"
         }
       ],
-      "consecutive_failures": 53,
+      "consecutive_failures": 54,
       "ever_alive": false,
-      "failure_observations": 53,
+      "failure_observations": 54,
       "failure_since": "2026-08-21T08:09:29Z",
       "first_seen": "2026-08-21T08:09:29Z",
       "history": [
@@ -22894,15 +23260,23 @@
             "TLS_ERROR"
           ],
           "type": "TLS_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_ERROR"
+          ],
+          "type": "TLS_ERROR"
         }
       ],
-      "history_failures": 53,
-      "history_samples": 53,
+      "history_failures": 54,
+      "history_samples": 54,
       "history_successes": 0,
       "hostname": "dse.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)",
@@ -23354,13 +23728,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "duoenroll.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -23368,7 +23750,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -23376,9 +23758,10 @@
       "attempts": [
         {
           "cipher": "TLS_AES_128_GCM_SHA256",
+          "http_status": 301,
           "ip": "107.20.175.192",
           "port": 443,
-          "status": "TLS_OK",
+          "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
         }
       ],
@@ -23785,13 +24168,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "TLS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "dvd.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -23799,7 +24190,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -24219,13 +24610,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "editorial.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -24233,7 +24632,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -24895,13 +25294,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "events.fyc.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -24909,7 +25316,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -25411,13 +25818,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "extlauncher.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -25425,7 +25840,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -25869,20 +26284,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.2",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "23.214.225.58",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.2",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "fast.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "23.214.225.58",
-        "23.219.226.76"
+        "23.214.225.58"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -26326,20 +26748,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "45.57.40.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "ftl.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "45.57.40.1",
         "45.57.41.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -26759,13 +27189,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "fyc.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -26773,7 +27211,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -27177,13 +27615,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "3.171.100.122",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "gaas-content.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.171.100.122",
@@ -27191,7 +27637,7 @@
         "3.171.100.91"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -27595,13 +28041,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "18.116.227.143",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "games.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.116.227.143",
@@ -27609,7 +28063,7 @@
         "3.143.122.47"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -27997,13 +28451,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 307,
+          "ip": "18.207.84.236",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "go.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.207.84.236",
@@ -28011,7 +28473,7 @@
         "52.0.131.132"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -28447,13 +28909,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 404,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "graphhub.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -28461,7 +28931,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -28881,13 +29351,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "guilds.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -28895,7 +29373,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -29339,13 +29817,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 302,
+          "ip": "3.222.220.127",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "help.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.222.220.127",
@@ -29353,7 +29839,7 @@
         "52.71.159.247"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -29977,13 +30463,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 307,
+          "ip": "18.207.84.236",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "hydra.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.207.84.236",
@@ -29991,7 +30485,7 @@
         "52.0.131.132"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -30403,13 +30897,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "3.230.56.88",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "ichnaea-web.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.230.56.88",
@@ -30417,7 +30919,7 @@
         "54.175.114.128"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -31048,13 +31550,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "internaljobs.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -31062,7 +31572,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -31087,9 +31597,9 @@
           "status": "TLS_ERROR"
         }
       ],
-      "consecutive_failures": 52,
+      "consecutive_failures": 53,
       "ever_alive": false,
-      "failure_observations": 52,
+      "failure_observations": 53,
       "failure_since": "2026-08-21T11:46:08Z",
       "first_seen": "2026-08-21T11:46:08Z",
       "history": [
@@ -31508,15 +32018,23 @@
             "TLS_ERROR"
           ],
           "type": "TLS_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_ERROR"
+          ],
+          "type": "TLS_ERROR"
         }
       ],
-      "history_failures": 52,
-      "history_samples": 52,
+      "history_failures": 53,
+      "history_samples": 53,
       "history_successes": 0,
       "hostname": "internationalbenefits.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)",
@@ -31557,7 +32075,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 403,
-          "ip": "18.209.154.243",
+          "ip": "3.214.91.176",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -31992,21 +32510,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "3.214.91.176",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "ios.prod.dradis.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "18.209.154.243",
-        "35.171.10.11",
-        "52.73.71.11"
+        "3.214.91.176",
+        "3.219.54.248",
+        "52.87.23.187"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -32442,13 +32968,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "18.205.122.65",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "ios.sharkboot.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.205.122.65",
@@ -32456,7 +32990,7 @@
         "34.233.148.8"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -32876,13 +33410,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "ir.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -32890,7 +33432,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -33310,13 +33852,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "iro.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -33324,7 +33874,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -33834,13 +34384,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "ispspeedindex.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -33848,7 +34406,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -34284,13 +34842,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "107.23.144.120",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "itunes.prod.cloud.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.23.144.120",
@@ -34298,7 +34864,7 @@
         "34.237.116.239"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -34694,19 +35260,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 503,
+          "ip": "52.11.206.178",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 47,
-      "history_successes": 47,
+      "history_samples": 48,
+      "history_successes": 48,
       "hostname": "jet-api.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "52.11.206.178"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -35150,13 +35724,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 302,
+          "ip": "35.163.11.240",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "jira.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "35.163.11.240",
@@ -35164,7 +35746,7 @@
         "52.25.139.222"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -35600,13 +36182,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "jobs.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -35614,7 +36204,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -36026,13 +36616,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 302,
+          "ip": "104.16.46.231",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "lacounty.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "104.16.46.231",
@@ -36040,7 +36638,7 @@
         "104.16.48.231"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -36460,13 +37058,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "launcher.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -36474,7 +37080,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -36918,13 +37524,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "leportal.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -36932,7 +37546,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -37344,13 +37958,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 307,
+          "ip": "18.207.84.236",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "localization-lucid.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.207.84.236",
@@ -37358,7 +37980,7 @@
         "52.0.131.132"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -37778,13 +38400,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "localization.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -37792,7 +38422,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -38236,13 +38866,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "3.213.129.181",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "logs.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.213.129.181",
@@ -38250,7 +38888,7 @@
         "34.195.42.24"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -38898,13 +39536,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 404,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "m.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -38912,7 +39558,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -39308,13 +39954,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 47,
-      "history_successes": 47,
+      "history_samples": 48,
+      "history_successes": 48,
       "hostname": "media.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -39322,7 +39976,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -39726,19 +40380,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "3.162.112.202",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "meechum.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.162.112.202"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -40158,13 +40820,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "megamind.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -40172,7 +40842,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -40584,20 +41254,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 404,
+          "ip": "32.197.20.26",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "mgkverify.security.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "32.197.20.26",
         "98.94.222.130"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -40622,9 +41300,9 @@
           "status": "TLS_ERROR"
         }
       ],
-      "consecutive_failures": 53,
+      "consecutive_failures": 54,
       "ever_alive": false,
-      "failure_observations": 53,
+      "failure_observations": 54,
       "failure_since": "2026-08-21T08:09:29Z",
       "first_seen": "2026-08-21T08:09:29Z",
       "history": [
@@ -41051,15 +41729,23 @@
             "TLS_ERROR"
           ],
           "type": "TLS_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_ERROR"
+          ],
+          "type": "TLS_ERROR"
         }
       ],
-      "history_failures": 53,
-      "history_samples": 53,
+      "history_failures": 54,
+      "history_samples": 54,
       "history_successes": 0,
       "hostname": "microstrategy.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)",
@@ -41116,9 +41802,9 @@
           "status": "TLS_ERROR"
         }
       ],
-      "consecutive_failures": 53,
+      "consecutive_failures": 54,
       "ever_alive": false,
-      "failure_observations": 53,
+      "failure_observations": 54,
       "failure_since": "2026-08-21T08:09:29Z",
       "first_seen": "2026-08-21T08:09:29Z",
       "history": [
@@ -41546,15 +42232,23 @@
             "TLS_ERROR"
           ],
           "type": "TLS_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_ERROR"
+          ],
+          "type": "TLS_ERROR"
         }
       ],
-      "history_failures": 53,
-      "history_samples": 53,
+      "history_failures": 54,
+      "history_samples": 54,
       "history_successes": 0,
       "hostname": "microstrategydev.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)",
@@ -42005,13 +42699,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "monet.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -42019,7 +42721,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -42529,13 +43231,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "movies.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -42543,7 +43253,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -42979,21 +43689,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 404,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "msg.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
-        "44.236.136.138",
-        "44.240.252.44"
+        "54.145.90.155",
+        "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -43428,13 +44146,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "my-hw.oc.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -43442,7 +44168,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -43846,13 +44572,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "my.oc.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -43860,7 +44594,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -44248,13 +44982,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "nbc.int.cloud.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -44262,7 +45004,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -44337,7 +45079,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 405,
-          "ip": "3.230.129.93",
+          "ip": "3.211.157.115",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -44772,21 +45514,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "3.211.157.115",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "3.230.129.93",
-        "52.3.144.142",
-        "54.237.226.164"
+        "3.211.157.115",
+        "3.225.92.8",
+        "3.230.129.93"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -45280,13 +46030,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "3.254.20.149",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "nm.push.prod.eu-west-1.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.254.20.149",
@@ -45294,7 +46052,7 @@
         "54.229.148.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -45706,13 +46464,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "3.211.101.50",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "nm.push.prod.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.211.101.50",
@@ -45720,7 +46486,7 @@
         "52.4.82.130"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -46214,13 +46980,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "3.211.101.50",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "nm.push.prod.us-east-1.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.211.101.50",
@@ -46228,7 +47002,7 @@
         "52.4.82.130"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -46722,13 +47496,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "3.132.254.214",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "nm.push.prod.us-east-2.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.132.254.214",
@@ -46736,7 +47518,7 @@
         "3.19.84.251"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -47230,13 +48012,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "44.231.76.127",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "nm.push.prod.us-west-2.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "44.231.76.127",
@@ -47244,7 +48034,7 @@
         "44.240.6.158"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -47976,13 +48766,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "104.16.46.231",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "npca.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "104.16.46.231",
@@ -47990,7 +48788,7 @@
         "104.16.48.231"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -48386,13 +49184,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.2",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 502,
+          "ip": "3.233.165.17",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.2",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 47,
-      "history_successes": 47,
+      "history_samples": 48,
+      "history_successes": 48,
       "hostname": "npp.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.233.165.17",
@@ -48400,7 +49206,7 @@
         "54.173.25.53"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -48820,13 +49626,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "npv.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -48834,7 +49648,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -49222,13 +50036,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "18.208.39.199",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "nrd.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.208.39.199",
@@ -49236,7 +50058,7 @@
         "54.161.214.55"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -49680,21 +50502,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "100.24.167.221",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "nrdp.prod.dradis.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "100.24.167.221",
-        "3.220.58.77",
-        "3.222.157.144"
+        "23.22.76.98",
+        "3.220.58.77"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -49703,7 +50533,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 403,
-          "ip": "3.213.211.54",
+          "ip": "100.28.98.228",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -50122,21 +50952,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "100.28.98.228",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "nrdp.ws.ale.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
+        "100.28.98.228",
         "3.213.211.54",
-        "3.225.5.106",
-        "50.19.250.251"
+        "3.214.226.44"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -50145,7 +50983,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 403,
-          "ip": "50.19.250.251",
+          "ip": "100.28.98.228",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -50580,21 +51418,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "100.28.98.228",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "nrdp.ws.exp.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "50.19.250.251",
-        "54.225.179.161",
-        "54.227.133.84"
+        "100.28.98.228",
+        "3.213.211.54",
+        "3.214.226.44"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -50603,7 +51449,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 403,
-          "ip": "3.213.211.54",
+          "ip": "100.28.98.228",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -51038,21 +51884,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "100.28.98.228",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "nrdp.ws.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "3.213.211.54",
-        "3.225.5.106",
-        "52.5.16.105"
+        "100.28.98.228",
+        "3.214.226.44",
+        "3.234.65.207"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -51496,13 +52350,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "3.213.211.54",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "nrdp.ws.swiss.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.213.211.54",
@@ -51510,7 +52372,7 @@
         "50.19.250.251"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -51930,13 +52792,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "nrdpbuilds.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -51944,7 +52814,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -52364,13 +53234,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "nutshell.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -52378,7 +53256,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -52814,13 +53692,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "obelix.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -52828,7 +53714,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -53033,9 +53919,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 52,
+      "consecutive_failures": 53,
       "ever_alive": false,
-      "failure_observations": 52,
+      "failure_observations": 53,
       "failure_since": "2026-08-21T11:46:08Z",
       "first_seen": "2026-08-21T11:46:08Z",
       "history": [
@@ -53454,15 +54340,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 52,
-      "history_samples": 52,
+      "history_failures": 53,
+      "history_samples": 53,
       "history_successes": 0,
       "hostname": "obiwan.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -54332,13 +55226,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "18.214.21.235",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "oca-api-3rbal.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.214.21.235",
@@ -54346,7 +55248,7 @@
         "54.156.68.242"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -54782,13 +55684,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "18.214.21.235",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "oca-api-4rbal.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.214.21.235",
@@ -54796,7 +55706,7 @@
         "54.156.68.242"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -55232,13 +56142,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "18.214.21.235",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "oca-api-4rbalprodaa.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.214.21.235",
@@ -55246,7 +56164,7 @@
         "54.156.68.242"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -55682,13 +56600,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "18.214.21.235",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "oca-api-4rlatency.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.214.21.235",
@@ -55696,7 +56622,7 @@
         "54.156.68.242"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -56140,13 +57066,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "34.240.82.124",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "oca-api.eu-west-1.origin.prodaa.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "34.240.82.124",
@@ -56154,7 +57088,7 @@
         "54.171.227.38"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -56598,13 +57532,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "34.240.82.124",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "oca-api.eu-west-1.prodaa.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "34.240.82.124",
@@ -56612,7 +57554,7 @@
         "54.171.227.38"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -57056,13 +57998,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "18.214.21.235",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "oca-api.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.214.21.235",
@@ -57070,7 +58020,7 @@
         "54.156.68.242"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -57514,13 +58464,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "18.214.21.235",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "oca-api.us-east-1.origin.prodaa.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.214.21.235",
@@ -57528,7 +58486,7 @@
         "54.156.68.242"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -57972,13 +58930,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "18.214.21.235",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "oca-api.us-east-1.prodaa.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.214.21.235",
@@ -57986,7 +58952,7 @@
         "54.156.68.242"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -58382,13 +59348,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "3.132.196.97",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 47,
-      "history_successes": 47,
+      "history_samples": 48,
+      "history_successes": 48,
       "hostname": "oca-api.us-east-2.origin.prodaa.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.132.196.97",
@@ -58396,7 +59370,7 @@
         "3.141.219.247"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -58840,13 +59814,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "34.213.114.77",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "oca-api.us-west-2.origin.prodaa.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "34.213.114.77",
@@ -58854,7 +59836,7 @@
         "52.40.134.57"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -59298,13 +60280,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "34.213.114.77",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "oca-api.us-west-2.prodaa.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "34.213.114.77",
@@ -59312,7 +60302,7 @@
         "52.40.134.57"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -59756,13 +60746,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "18.214.21.235",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "oca.probnik.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.214.21.235",
@@ -59770,7 +60768,7 @@
         "54.156.68.242"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -60118,13 +61116,20 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "TLS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "ip": "3.216.77.106",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "TLS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 47,
-      "history_successes": 47,
+      "history_samples": 48,
+      "history_successes": 48,
       "hostname": "ocga.ngp.prod.mtls.cloud.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.216.77.106",
@@ -60132,7 +61137,7 @@
         "54.196.106.135"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -60612,13 +61617,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "104.16.46.231",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "openconnect.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "104.16.46.231",
@@ -60626,7 +61639,7 @@
         "104.16.48.231"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -60635,7 +61648,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 200,
-          "ip": "142.251.16.121",
+          "ip": "142.250.31.121",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -61022,21 +62035,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "142.250.31.121",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 47,
-      "history_successes": 47,
+      "history_samples": 48,
+      "history_successes": 48,
       "hostname": "opencontent.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.251.16.121",
-        "142.251.163.121",
-        "142.251.179.121"
+        "142.250.31.121",
+        "172.253.63.121",
+        "192.178.155.121"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -61586,13 +62607,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.2",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 404,
+          "ip": "3.224.46.210",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.2",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "origin.sod.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.224.46.210",
@@ -61600,7 +62629,7 @@
         "34.224.144.93"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -62004,13 +63033,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "originator.backlot.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -62018,7 +63055,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -62438,13 +63475,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "originstory.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -62452,7 +63497,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -62872,13 +63917,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "partner.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -62886,7 +63939,7 @@
         "204.236.236.127"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -63322,13 +64375,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.2",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 404,
+          "ip": "18.215.116.11",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.2",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "partnerapi.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.215.116.11",
@@ -63336,7 +64397,7 @@
         "52.86.46.168"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -63871,13 +64932,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "partnerpay.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -63885,7 +64954,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -64305,13 +65374,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "partnerpromo.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -64319,7 +65396,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -64739,13 +65816,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "pr.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -64753,7 +65838,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -65237,13 +66322,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "preview-docs.nrd.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -65251,7 +66344,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -65260,7 +66353,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 302,
-          "ip": "142.251.111.121",
+          "ip": "142.250.31.121",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -65655,21 +66748,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 302,
+          "ip": "142.250.31.121",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "prod-resources.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.251.111.121",
-        "142.251.16.121",
-        "142.251.167.121"
+        "142.250.31.121",
+        "172.253.63.121",
+        "192.178.155.121"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -66025,13 +67126,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "100.28.13.17",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 42,
-      "history_successes": 42,
+      "history_samples": 43,
+      "history_successes": 43,
       "hostname": "public.appboot.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "100.28.13.17",
@@ -66039,7 +67148,7 @@
         "54.224.145.4"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -66162,7 +67271,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 405,
-          "ip": "18.203.189.247",
+          "ip": "34.252.236.138",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -66597,21 +67706,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "34.252.236.138",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "push.prod.eu-west-1.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "18.203.189.247",
-        "3.248.133.231",
-        "34.252.38.116"
+        "34.252.236.138",
+        "34.252.28.38",
+        "34.252.91.172"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -67055,21 +68172,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "100.28.107.182",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "push.prod.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "100.28.107.182",
-        "174.129.170.121",
-        "3.230.206.166"
+        "23.22.178.161",
+        "3.217.114.204"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -67192,7 +68317,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 405,
-          "ip": "174.129.170.121",
+          "ip": "23.22.178.161",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -67627,21 +68752,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "23.22.178.161",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "push.prod.us-east-1.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "174.129.170.121",
         "23.22.178.161",
-        "3.217.114.204"
+        "3.217.114.204",
+        "34.226.253.187"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -67870,7 +69003,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 405,
-          "ip": "35.163.21.50",
+          "ip": "34.223.153.246",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -68305,21 +69438,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "34.223.153.246",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "push.prod.us-west-2.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
-        "35.163.21.50",
-        "44.245.106.67",
-        "52.41.15.42"
+        "34.223.153.246",
+        "35.81.198.46",
+        "44.229.50.4"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -69435,13 +70576,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "qc.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -69449,7 +70598,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -69837,20 +70986,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "207.45.72.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 46,
-      "history_successes": 46,
+      "history_samples": 47,
+      "history_successes": 47,
       "hostname": "qr.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "207.45.72.1",
         "207.45.73.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -69875,9 +71032,9 @@
           "status": "TLS_ERROR"
         }
       ],
-      "consecutive_failures": 53,
+      "consecutive_failures": 54,
       "ever_alive": false,
-      "failure_observations": 53,
+      "failure_observations": 54,
       "failure_since": "2026-08-21T08:09:29Z",
       "first_seen": "2026-08-21T08:09:29Z",
       "history": [
@@ -70304,15 +71461,23 @@
             "TLS_ERROR"
           ],
           "type": "TLS_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_ERROR"
+          ],
+          "type": "TLS_ERROR"
         }
       ],
-      "history_failures": 53,
-      "history_samples": 53,
+      "history_failures": 54,
+      "history_samples": 54,
       "history_successes": 0,
       "hostname": "raven.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1032)",
@@ -70763,13 +71928,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "realtoreel.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -70777,7 +71950,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -71628,13 +72801,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "request.iro.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -71642,7 +72823,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -72136,13 +73317,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "research.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -72150,7 +73339,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -72554,13 +73743,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "3.167.56.16",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "roomeo.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.167.56.16",
@@ -72568,7 +73765,7 @@
         "3.167.56.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -72988,13 +74185,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "sagawardsfyc.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -73002,7 +74207,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -73422,13 +74627,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "screeningplayer.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -73436,7 +74649,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -73545,9 +74758,9 @@
           "status": "TLS_CERT_ERROR"
         }
       ],
-      "consecutive_failures": 53,
+      "consecutive_failures": 54,
       "ever_alive": false,
-      "failure_observations": 53,
+      "failure_observations": 54,
       "failure_since": "2026-08-21T08:09:29Z",
       "first_seen": "2026-08-21T08:09:29Z",
       "history": [
@@ -73974,15 +75187,23 @@
             "TLS_CERT_ERROR"
           ],
           "type": "TLS_CERT_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_CERT_ERROR"
+          ],
+          "type": "TLS_CERT_ERROR"
         }
       ],
-      "history_failures": 53,
-      "history_samples": 53,
+      "history_failures": 54,
+      "history_samples": 54,
       "history_successes": 0,
       "hostname": "secure.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)",
@@ -74451,19 +75672,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 400,
+          "ip": "192.225.159.73",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "secured.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "192.225.159.73"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -75193,13 +76422,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "sherlock.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -75207,7 +76444,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -75627,13 +76864,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "shop.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -75641,7 +76886,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -76085,13 +77330,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "signup.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -76099,7 +77352,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -76519,13 +77772,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "sourcedeliveries.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -76533,7 +77794,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -77085,13 +78346,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "stash.nrd.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -77099,7 +78368,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -77151,20 +78420,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "35.160.142.47",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 4,
-      "history_successes": 4,
+      "history_samples": 5,
+      "history_successes": 5,
       "hostname": "survey.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "35.160.142.47",
         "44.255.151.92"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -77576,13 +78853,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "sustainability.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -77590,7 +78875,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -78002,13 +79287,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "tableau.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -78016,7 +79309,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -78436,13 +79729,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 50,
-      "history_successes": 50,
+      "history_samples": 51,
+      "history_successes": 51,
       "hostname": "techblog.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -78450,7 +79751,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -79090,13 +80391,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "thesecret.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -79104,7 +80413,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -79516,13 +80825,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "titlelocalization.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -79530,7 +80847,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -80242,13 +81559,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "top10.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -80256,7 +81581,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -80668,13 +81993,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "tudum.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -80682,7 +82015,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -81094,13 +82427,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "turbo.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -81108,7 +82449,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -81634,13 +82975,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "tv.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -81648,7 +82997,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -81673,9 +83022,9 @@
           "status": "TLS_CERT_ERROR"
         }
       ],
-      "consecutive_failures": 53,
+      "consecutive_failures": 54,
       "ever_alive": false,
-      "failure_observations": 53,
+      "failure_observations": 54,
       "failure_since": "2026-08-21T08:09:29Z",
       "first_seen": "2026-08-21T08:09:29Z",
       "history": [
@@ -82102,15 +83451,23 @@
             "TLS_CERT_ERROR"
           ],
           "type": "TLS_CERT_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_CERT_ERROR"
+          ],
+          "type": "TLS_CERT_ERROR"
         }
       ],
-      "history_failures": 53,
-      "history_samples": 53,
+      "history_failures": 54,
+      "history_samples": 54,
       "history_successes": 0,
       "hostname": "uiboot.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)",
@@ -82546,13 +83903,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "104.16.46.231",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 48,
-      "history_successes": 48,
+      "history_samples": 49,
+      "history_successes": 49,
       "hostname": "updates.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "104.16.46.231",
@@ -82560,7 +83925,7 @@
         "104.16.48.231"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -82585,9 +83950,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 52,
+      "consecutive_failures": 53,
       "ever_alive": false,
-      "failure_observations": 52,
+      "failure_observations": 53,
       "failure_since": "2026-08-21T11:46:08Z",
       "first_seen": "2026-08-21T11:46:08Z",
       "history": [
@@ -83006,15 +84371,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 52,
-      "history_samples": 52,
+      "history_failures": 53,
+      "history_samples": 53,
       "history_successes": 0,
       "hostname": "useast.obiwan.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -83071,9 +84444,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 52,
+      "consecutive_failures": 53,
       "ever_alive": false,
-      "failure_observations": 52,
+      "failure_observations": 53,
       "failure_since": "2026-08-21T11:46:08Z",
       "first_seen": "2026-08-21T11:46:08Z",
       "history": [
@@ -83492,15 +84865,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 52,
-      "history_samples": 52,
+      "history_failures": 53,
+      "history_samples": 53,
       "history_successes": 0,
       "hostname": "uswest.obiwan.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -83976,13 +85357,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "34.240.82.124",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "v4.eu-west-1.probnik.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "34.240.82.124",
@@ -83990,7 +85379,7 @@
         "54.171.227.38"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -84434,13 +85823,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "18.214.21.235",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "v4.us-east-1.probnik.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "18.214.21.235",
@@ -84448,7 +85845,7 @@
         "54.156.68.242"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -84892,13 +86289,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 403,
+          "ip": "34.213.114.77",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "v4.us-west-2.probnik.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "34.213.114.77",
@@ -84906,7 +86311,7 @@
         "52.40.134.57"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -85334,13 +86739,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 502,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 51,
-      "history_successes": 51,
+      "history_samples": 52,
+      "history_successes": 52,
       "hostname": "vandam.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -85348,7 +86761,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -85760,13 +87173,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "vendorreporting.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -85774,7 +87195,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -85782,26 +87203,26 @@
       "attempts": [
         {
           "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-          "ip": "18.209.154.243",
+          "ip": "107.22.243.248",
           "port": 443,
           "status": "TLS_CERT_ERROR"
         },
         {
           "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-          "ip": "3.214.91.176",
+          "ip": "35.168.39.97",
           "port": 443,
           "status": "TLS_CERT_ERROR"
         },
         {
           "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-          "ip": "3.219.54.248",
+          "ip": "44.225.17.85",
           "port": 443,
           "status": "TLS_CERT_ERROR"
         }
       ],
-      "consecutive_failures": 47,
+      "consecutive_failures": 48,
       "ever_alive": false,
-      "failure_observations": 47,
+      "failure_observations": 48,
       "failure_since": "2026-08-22T17:40:12Z",
       "first_seen": "2026-08-22T17:40:12Z",
       "history": [
@@ -86180,31 +87601,39 @@
             "TLS_CERT_ERROR"
           ],
           "type": "TLS_CERT_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_CERT_ERROR"
+          ],
+          "type": "TLS_CERT_ERROR"
         }
       ],
-      "history_failures": 47,
-      "history_samples": 47,
+      "history_failures": 48,
+      "history_samples": 48,
       "history_successes": 0,
       "hostname": "venkman.cluster.eu-west-1.prod.cloud.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-            "ip": "18.209.154.243",
+            "ip": "107.22.243.248",
             "port": 443,
             "status": "TLS_CERT_ERROR"
           },
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-            "ip": "3.214.91.176",
+            "ip": "35.168.39.97",
             "port": 443,
             "status": "TLS_CERT_ERROR"
           },
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-            "ip": "3.219.54.248",
+            "ip": "44.225.17.85",
             "port": 443,
             "status": "TLS_CERT_ERROR"
           }
@@ -86215,9 +87644,9 @@
         "type": "TLS_CERT_ERROR"
       },
       "last_ipv4": [
-        "18.209.154.243",
-        "3.214.91.176",
-        "3.219.54.248"
+        "107.22.243.248",
+        "35.168.39.97",
+        "44.225.17.85"
       ],
       "last_result": "FAILURE",
       "last_success": null,
@@ -86228,7 +87657,7 @@
       "attempts": [
         {
           "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-          "ip": "18.209.154.243",
+          "ip": "107.22.243.248",
           "port": 443,
           "status": "TLS_CERT_ERROR"
         },
@@ -86240,14 +87669,14 @@
         },
         {
           "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-          "ip": "35.171.10.11",
+          "ip": "35.168.39.97",
           "port": 443,
           "status": "TLS_CERT_ERROR"
         }
       ],
-      "consecutive_failures": 47,
+      "consecutive_failures": 48,
       "ever_alive": false,
-      "failure_observations": 47,
+      "failure_observations": 48,
       "failure_since": "2026-08-22T17:40:12Z",
       "first_seen": "2026-08-22T17:40:12Z",
       "history": [
@@ -86626,19 +88055,27 @@
             "TLS_CERT_ERROR"
           ],
           "type": "TLS_CERT_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_CERT_ERROR"
+          ],
+          "type": "TLS_CERT_ERROR"
         }
       ],
-      "history_failures": 47,
-      "history_samples": 47,
+      "history_failures": 48,
+      "history_samples": 48,
       "history_successes": 0,
       "hostname": "venkman.cluster.us-east-2.prod.cloud.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-            "ip": "18.209.154.243",
+            "ip": "107.22.243.248",
             "port": 443,
             "status": "TLS_CERT_ERROR"
           },
@@ -86650,7 +88087,7 @@
           },
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-            "ip": "35.171.10.11",
+            "ip": "35.168.39.97",
             "port": 443,
             "status": "TLS_CERT_ERROR"
           }
@@ -86661,9 +88098,9 @@
         "type": "TLS_CERT_ERROR"
       },
       "last_ipv4": [
-        "18.209.154.243",
+        "107.22.243.248",
         "3.234.191.246",
-        "35.171.10.11"
+        "35.168.39.97"
       ],
       "last_result": "FAILURE",
       "last_success": null,
@@ -86674,7 +88111,7 @@
       "attempts": [
         {
           "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-          "ip": "18.209.154.243",
+          "ip": "107.22.243.248",
           "port": 443,
           "status": "TLS_CERT_ERROR"
         },
@@ -86691,9 +88128,9 @@
           "status": "TLS_CERT_ERROR"
         }
       ],
-      "consecutive_failures": 47,
+      "consecutive_failures": 48,
       "ever_alive": false,
-      "failure_observations": 47,
+      "failure_observations": 48,
       "failure_since": "2026-08-22T17:40:12Z",
       "first_seen": "2026-08-22T17:40:12Z",
       "history": [
@@ -87072,19 +88509,27 @@
             "TLS_CERT_ERROR"
           ],
           "type": "TLS_CERT_ERROR"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TLS_CERT_ERROR"
+          ],
+          "type": "TLS_CERT_ERROR"
         }
       ],
-      "history_failures": 47,
-      "history_samples": 47,
+      "history_failures": 48,
+      "history_samples": 48,
       "history_successes": 0,
       "hostname": "venkman.cluster.us-west-2.prod.cloud.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": {
-        "at": "2026-09-01T15:28:42Z",
+        "at": "2026-09-01T19:57:58Z",
         "attempts": [
           {
             "detail": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)",
-            "ip": "18.209.154.243",
+            "ip": "107.22.243.248",
             "port": 443,
             "status": "TLS_CERT_ERROR"
           },
@@ -87107,7 +88552,7 @@
         "type": "TLS_CERT_ERROR"
       },
       "last_ipv4": [
-        "18.209.154.243",
+        "107.22.243.248",
         "3.214.91.176",
         "3.219.54.248"
       ],
@@ -87556,13 +89001,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "watson.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -87570,7 +89023,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -87982,13 +89435,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "whitepages.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -87996,7 +89457,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -89090,13 +90551,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 200,
+          "ip": "3.232.120.188",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 52,
-      "history_successes": 52,
+      "history_samples": 53,
+      "history_successes": 53,
       "hostname": "www.jobs.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.120.188",
@@ -89104,7 +90573,7 @@
         "54.235.153.250"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -89548,20 +91017,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 405,
+          "ip": "207.45.72.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 53,
-      "history_successes": 53,
+      "history_samples": 54,
+      "history_successes": 54,
       "hostname": "www.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "207.45.72.1",
         "207.45.73.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -89973,13 +91450,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-09-01T19:57:58Z",
+          "http_status": 301,
+          "ip": "107.20.175.192",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 49,
-      "history_successes": 49,
+      "history_samples": 50,
+      "history_successes": 50,
       "hostname": "www.top10.netflix.com",
-      "last_check": "2026-09-01T15:28:42Z",
+      "last_check": "2026-09-01T19:57:58Z",
       "last_failure": null,
       "last_ipv4": [
         "107.20.175.192",
@@ -89987,7 +91472,7 @@
         "50.17.247.9"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-09-01T15:28:42Z",
+      "last_success": "2026-09-01T19:57:58Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -90188,6 +91673,6 @@
       "status": "alive"
     }
   },
-  "updated_at": "2026-09-01T15:28:42Z",
+  "updated_at": "2026-09-01T19:57:58Z",
   "version": 3
 }
