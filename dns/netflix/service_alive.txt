@@ -46,6 +46,7 @@ editorial.netflix.com
 events.fyc.netflix.com
 extlauncher.netflix.com
 fast.com
+ftl-www.netflix.com
 ftl.netflix.com
 fyc.netflix.com
 gaas-content.netflix.com
