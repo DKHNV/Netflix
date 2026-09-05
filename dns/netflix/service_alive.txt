@@ -16,6 +16,7 @@ assets.obiwan.netflix.com
 athena.netflix.com
 autocomplete.netflix.com
 awards.netflix.com
+b-mtls.sand.nxtgms.netflix.com
 b-mtls.tech.nxtgms.netflix.com
 backlot.netflix.com
 backlothelp.netflix.com
