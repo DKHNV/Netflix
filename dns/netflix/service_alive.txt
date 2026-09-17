@@ -69,6 +69,7 @@ itunes.prod.cloud.netflix.com
 jet-api.netflix.com
 jira.netflix.com
 jobs.netflix.com
+kidsqr.netflix.com
 lacounty.netflix.com
 launcher.netflix.com
 leportal.netflix.com
