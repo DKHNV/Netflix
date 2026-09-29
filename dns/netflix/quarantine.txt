@@ -1,9 +1,4 @@
 aidsvc.netflix.com
 aidsvc.test.netflix.com
-api-int-internal.test.netflix.com
-api-staging-internal.netflix.com
-gotest.netflix.com
 instantgames.netflix.com
-nts-cert-testcontent-test.nrd.netflix.com
 sn.netflix.com
-tenfootui.netflix.com

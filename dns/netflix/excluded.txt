@@ -31,6 +31,7 @@ help.stage.netflix.com
 helpt.test.netflix.com
 ichnaea.staging.netflix.com
 ichnaea.test.netflix.com
+id.staging.netflix.com
 id.test.netflix.com
 irot.test.netflix.com
 logs.staging.netflix.com
