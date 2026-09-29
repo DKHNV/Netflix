@@ -1,4 +1,1 @@
-aidsvc.netflix.com
-aidsvc.test.netflix.com
-instantgames.netflix.com
 sn.netflix.com
