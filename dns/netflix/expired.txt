@@ -35,7 +35,6 @@ beholder-api.dta.netflix.com
 billdesk-sihub-encryption-test.netflix.com
 billdesk-sihub-encryption.netflix.com
 billdesk-sihub-signature-prod.netflix.com
-billdesk-sihub-signature-test.netflix.com
 blesk.netflix.com
 bob-api.dta.netflix.com
 c00.nxtgms.netflix.com
