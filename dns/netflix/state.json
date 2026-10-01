@@ -12,10 +12,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -249,10 +249,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -306,10 +306,10 @@
         "18.207.84.236",
         "52.0.131.132"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -362,10 +362,10 @@
         "207.45.72.1",
         "207.45.73.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -414,10 +414,10 @@
       "ipv4": [
         "52.22.251.48"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -873,10 +873,10 @@
         "34.250.17.145",
         "52.211.198.103"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -927,10 +927,10 @@
         "52.7.48.247",
         "54.172.85.35"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -984,10 +984,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -1101,10 +1101,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -1371,10 +1371,10 @@
         "52.21.52.186",
         "52.207.146.139"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -1428,10 +1428,10 @@
         "3.129.196.255",
         "18.221.229.140"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -1552,27 +1552,24 @@
       "status": "expired"
     },
     "android.prod.dradis.netflix.com": {
-      "canonical_name": "apiproxy-device-prod-nlb-2-1997a395972846c3.elb.us-east-2.amazonaws.com",
+      "canonical_name": "apiproxy-device-prod-nlb-3-476f82e9e47ea47f.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "android.prod.dradis.netflix.com",
       "ipv4": [
-        "3.131.81.23",
-        "3.131.252.91",
+        "3.132.172.84",
         "3.132.231.15",
         "3.132.253.101",
-        "3.133.239.80",
-        "18.217.99.125",
-        "35.165.30.1",
-        "44.235.227.192",
-        "54.184.157.35"
+        "3.133.172.165",
+        "18.119.26.28",
+        "18.217.99.125"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -1581,20 +1578,20 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "apiproxy-device-prod-nlb-2-1997a395972846c3.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-device-prod-nlb-4-3e94f3637ba3def3.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.131.81.23",
-            "3.131.252.91",
-            "3.133.239.80"
+            "3.132.172.84",
+            "3.133.172.165",
+            "18.119.26.28"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-device-prod-nlb-4-97fa936b307500cb.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-device-prod-nlb-3-476f82e9e47ea47f.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "35.165.30.1",
-            "44.235.227.192",
-            "54.184.157.35"
+            "3.132.231.15",
+            "3.132.253.101",
+            "18.217.99.125"
           ],
           "status": "OK"
         },
@@ -1626,10 +1623,10 @@
         "18.117.57.101",
         "18.223.36.194"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -1682,10 +1679,10 @@
         "45.57.40.1",
         "45.57.41.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -1764,27 +1761,21 @@
       "status": "expired"
     },
     "api-global-ecc.netflix.com": {
-      "canonical_name": "apiproxy-device-prod-nlb-1-54e80724f8c6ba2d.elb.us-west-2.amazonaws.com",
+      "canonical_name": "apiproxy-device-prod-nlb-4-3e94f3637ba3def3.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-22T17:40:12Z",
       "hostname": "api-global-ecc.netflix.com",
       "ipv4": [
-        "3.131.81.23",
-        "3.131.252.91",
         "3.132.172.84",
         "3.133.172.165",
-        "3.133.239.80",
-        "18.119.26.28",
-        "44.229.178.197",
-        "44.236.11.33",
-        "52.13.68.104"
+        "18.119.26.28"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -1802,20 +1793,20 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-device-prod-nlb-2-1997a395972846c3.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-device-prod-nlb-4-3e94f3637ba3def3.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.131.81.23",
-            "3.131.252.91",
-            "3.133.239.80"
+            "3.132.172.84",
+            "3.133.172.165",
+            "18.119.26.28"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-device-prod-nlb-1-54e80724f8c6ba2d.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-device-prod-nlb-4-3e94f3637ba3def3.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "44.229.178.197",
-            "44.236.11.33",
-            "52.13.68.104"
+            "3.132.172.84",
+            "3.133.172.165",
+            "18.119.26.28"
           ],
           "status": "OK"
         }
@@ -1866,7 +1857,7 @@
       "status": "expired"
     },
     "api-global.netflix.com": {
-      "canonical_name": "apiproxy-prod-nlb-s1-23af8ef0075e0796.elb.us-west-2.amazonaws.com",
+      "canonical_name": "apiproxy-prod-nlb-s1-d483e7998f43a4d2.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -1875,15 +1866,12 @@
       "ipv4": [
         "3.13.134.191",
         "3.143.109.83",
-        "3.148.32.134",
-        "34.208.235.84",
-        "44.236.148.165",
-        "54.189.73.148"
+        "3.148.32.134"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -1901,11 +1889,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-prod-nlb-s1-23af8ef0075e0796.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-prod-nlb-s1-d483e7998f43a4d2.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "34.208.235.84",
-            "44.236.148.165",
-            "54.189.73.148"
+            "3.13.134.191",
+            "3.143.109.83",
+            "3.148.32.134"
           ],
           "status": "OK"
         },
@@ -2231,10 +2219,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -2288,10 +2276,10 @@
         "52.5.134.229",
         "54.165.65.184"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -2334,7 +2322,7 @@
       "status": "excluded"
     },
     "api-user.netflix.com": {
-      "canonical_name": "apiproxy-prod-nlb-s1-23af8ef0075e0796.elb.us-west-2.amazonaws.com",
+      "canonical_name": "apiproxy-prod-nlb-s1-d483e7998f43a4d2.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -2343,15 +2331,12 @@
       "ipv4": [
         "3.13.134.191",
         "3.143.109.83",
-        "3.148.32.134",
-        "34.208.235.84",
-        "44.236.148.165",
-        "54.189.73.148"
+        "3.148.32.134"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -2378,11 +2363,11 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-prod-nlb-s1-23af8ef0075e0796.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-prod-nlb-s1-d483e7998f43a4d2.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "34.208.235.84",
-            "44.236.148.165",
-            "54.189.73.148"
+            "3.13.134.191",
+            "3.143.109.83",
+            "3.148.32.134"
           ],
           "status": "OK"
         }
@@ -2394,7 +2379,7 @@
       "status": "active"
     },
     "api.netflix.com": {
-      "canonical_name": "apiproxy-prod-nlb-s1-23af8ef0075e0796.elb.us-west-2.amazonaws.com",
+      "canonical_name": "apiproxy-prod-nlb-s1-d483e7998f43a4d2.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -2403,15 +2388,12 @@
       "ipv4": [
         "3.13.134.191",
         "3.143.109.83",
-        "3.148.32.134",
-        "34.208.235.84",
-        "44.236.148.165",
-        "54.189.73.148"
+        "3.148.32.134"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -2429,11 +2411,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-prod-nlb-s1-23af8ef0075e0796.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-prod-nlb-s1-d483e7998f43a4d2.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "34.208.235.84",
-            "44.236.148.165",
-            "54.189.73.148"
+            "3.13.134.191",
+            "3.143.109.83",
+            "3.148.32.134"
           ],
           "status": "OK"
         },
@@ -2465,10 +2447,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -2561,10 +2543,10 @@
         "52.71.51.60",
         "52.73.126.208"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -2617,10 +2599,10 @@
         "207.45.72.1",
         "207.45.73.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -2671,10 +2653,10 @@
         "3.129.196.255",
         "18.221.229.140"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -2821,10 +2803,10 @@
         "18.207.84.236",
         "52.0.131.132"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -2878,10 +2860,10 @@
         "54.144.169.59",
         "54.205.216.3"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -2935,10 +2917,10 @@
         "54.144.169.59",
         "54.205.216.3"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -2993,10 +2975,10 @@
         "44.240.158.19",
         "54.170.196.176"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3054,10 +3036,10 @@
         "18.154.110.91",
         "18.154.110.104"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3114,10 +3096,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3171,10 +3153,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3228,10 +3210,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3285,10 +3267,10 @@
         "98.83.45.191",
         "107.21.108.43"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3342,10 +3324,10 @@
         "54.159.239.154",
         "98.80.27.11"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3399,10 +3381,10 @@
         "52.201.37.56",
         "100.61.241.230"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3456,10 +3438,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3513,10 +3495,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3566,15 +3548,12 @@
       "first_seen": "2026-08-22T11:40:04Z",
       "hostname": "beacon.test.netflix.com",
       "ipv4": [
-        "34.249.116.139",
-        "52.54.24.236",
-        "52.201.21.64",
-        "54.167.128.47"
+        "34.249.116.139"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -3583,11 +3562,9 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "apiproxy-test-nlb-b922b8a285eb983f.elb.us-east-1.amazonaws.com",
+          "canonical_name": "apiproxy-test-nlb-07bda9b453b196de.elb.eu-west-1.amazonaws.com",
           "ipv4": [
-            "52.54.24.236",
-            "52.201.21.64",
-            "54.167.128.47"
+            "34.249.116.139"
           ],
           "status": "OK"
         },
@@ -3599,11 +3576,9 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-test-nlb-b922b8a285eb983f.elb.us-east-1.amazonaws.com",
+          "canonical_name": "apiproxy-test-nlb-07bda9b453b196de.elb.eu-west-1.amazonaws.com",
           "ipv4": [
-            "52.54.24.236",
-            "52.201.21.64",
-            "54.167.128.47"
+            "34.249.116.139"
           ],
           "status": "OK"
         }
@@ -3626,10 +3601,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3683,10 +3658,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -3794,10 +3769,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3851,10 +3826,10 @@
         "18.207.84.236",
         "52.0.131.132"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -3908,10 +3883,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -4072,18 +4047,18 @@
     },
     "billdesk-sihub-signature-test.netflix.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "billdesk-sihub-signature-test.netflix.com",
       "ipv4": [],
-      "last_check": "2026-09-30T21:27:04Z",
-      "last_failure": "2026-09-30T21:27:04Z",
-      "last_negative": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
+      "last_failure": "2026-10-01T02:12:29Z",
+      "last_negative": "2026-10-01T02:12:29Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-09-30T21:27:04Z",
       "policy_excluded_at": "2026-09-30T21:27:04Z",
       "policy_reason": "Payment integration test endpoint",
@@ -4181,10 +4156,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -4238,10 +4213,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -4295,10 +4270,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -4412,10 +4387,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -4979,10 +4954,10 @@
         "104.16.49.231",
         "104.16.50.231"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -5081,10 +5056,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -5137,10 +5112,10 @@
         "45.57.90.1",
         "45.57.91.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -5191,10 +5166,10 @@
         "3.149.227.120",
         "18.116.83.97"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -5283,13 +5258,13 @@
       "first_seen": "2026-08-22T11:40:04Z",
       "hostname": "cbp-eu.nccp.test.netflix.com",
       "ipv4": [
-        "52.17.116.197",
+        "52.17.166.251",
         "52.212.146.224"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -5300,7 +5275,7 @@
         "1.1.1.1": {
           "canonical_name": "dualstack.nccp-int-cbp-eu-vpc0-1134277721.eu-west-1.elb.amazonaws.com",
           "ipv4": [
-            "52.17.116.197",
+            "52.17.166.251",
             "52.212.146.224"
           ],
           "status": "OK"
@@ -5308,7 +5283,7 @@
         "8.8.8.8": {
           "canonical_name": "dualstack.nccp-int-cbp-eu-vpc0-1134277721.eu-west-1.elb.amazonaws.com",
           "ipv4": [
-            "52.17.116.197",
+            "52.17.166.251",
             "52.212.146.224"
           ],
           "status": "OK"
@@ -5316,7 +5291,7 @@
         "9.9.9.9": {
           "canonical_name": "dualstack.nccp-int-cbp-eu-vpc0-1134277721.eu-west-1.elb.amazonaws.com",
           "ipv4": [
-            "52.17.116.197",
+            "52.17.166.251",
             "52.212.146.224"
           ],
           "status": "OK"
@@ -5378,10 +5353,10 @@
         "54.86.93.117",
         "54.209.178.20"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -5460,20 +5435,23 @@
       "status": "expired"
     },
     "cbp.nccp.test.netflix.com": {
-      "canonical_name": "dualstack.nccp-test-frontend-cbp-vpc0-1037866964.eu-west-1.elb.amazonaws.com",
+      "canonical_name": "dualstack.nccp-test-frontend-cbp-us-vpc0-1252153788.us-east-1.elb.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-22T11:40:04Z",
       "hostname": "cbp.nccp.test.netflix.com",
       "ipv4": [
+        "3.213.235.15",
+        "34.230.162.201",
         "52.19.181.34",
-        "52.48.78.218"
+        "52.48.78.218",
+        "52.202.109.235"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -5490,10 +5468,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "dualstack.nccp-test-frontend-cbp-vpc0-1037866964.eu-west-1.elb.amazonaws.com",
+          "canonical_name": "dualstack.nccp-test-frontend-cbp-us-vpc0-1252153788.us-east-1.elb.amazonaws.com",
           "ipv4": [
-            "52.19.181.34",
-            "52.48.78.218"
+            "3.213.235.15",
+            "34.230.162.201",
+            "52.202.109.235"
           ],
           "status": "OK"
         },
@@ -5641,10 +5620,10 @@
         "54.80.122.15",
         "54.144.143.43"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -5698,10 +5677,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -5846,10 +5825,10 @@
         "44.231.108.101",
         "54.212.245.173"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -5901,15 +5880,12 @@
       "ipv4": [
         "3.133.57.11",
         "3.136.253.118",
-        "34.217.252.38",
-        "44.226.248.54",
-        "52.14.201.162",
-        "54.214.31.161"
+        "52.14.201.162"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -5936,11 +5912,11 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-helpcenter-nlb-c7098e1ee413230a.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-helpcenter-nlb-6cc037a5a8a90429.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "34.217.252.38",
-            "44.226.248.54",
-            "54.214.31.161"
+            "3.133.57.11",
+            "3.136.253.118",
+            "52.14.201.162"
           ],
           "status": "OK"
         }
@@ -5963,10 +5939,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -6020,10 +5996,10 @@
         "52.71.110.28",
         "52.203.123.59"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -6157,10 +6133,10 @@
         "104.16.49.231",
         "104.16.50.231"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -6283,10 +6259,10 @@
         "44.205.57.37",
         "54.175.114.128"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -6304,20 +6280,20 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-2.amazonaws.com",
-          "ipv4": [
-            "3.21.189.253",
-            "3.147.179.10",
-            "18.119.152.119"
-          ],
-          "status": "OK"
-        },
-        "9.9.9.9": {
           "canonical_name": "apiproxy-log-nlb-72c5f7ae51b322e8.elb.us-east-1.amazonaws.com",
           "ipv4": [
             "3.230.56.88",
             "44.205.57.37",
             "54.175.114.128"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-2.amazonaws.com",
+          "ipv4": [
+            "3.21.189.253",
+            "3.147.179.10",
+            "18.119.152.119"
           ],
           "status": "OK"
         }
@@ -6341,10 +6317,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -6395,10 +6371,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -6407,18 +6383,18 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
+          "canonical_name": "apiproxy-test-nlb-07bda9b453b196de.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "34.249.116.139"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
           "canonical_name": "apiproxy-test-nlb-b922b8a285eb983f.elb.us-east-1.amazonaws.com",
           "ipv4": [
             "52.54.24.236",
             "52.201.21.64",
             "54.167.128.47"
-          ],
-          "status": "OK"
-        },
-        "8.8.8.8": {
-          "canonical_name": "apiproxy-test-nlb-07bda9b453b196de.elb.eu-west-1.amazonaws.com",
-          "ipv4": [
-            "34.249.116.139"
           ],
           "status": "OK"
         },
@@ -6446,15 +6422,18 @@
       "ipv4": [
         "3.131.81.23",
         "3.131.252.91",
+        "3.132.172.84",
+        "3.132.231.15",
+        "3.132.253.101",
+        "3.133.172.165",
         "3.133.239.80",
-        "35.165.30.1",
-        "44.235.227.192",
-        "54.184.157.35"
+        "18.119.26.28",
+        "18.217.99.125"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -6463,29 +6442,29 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "apiproxy-device-prod-nlb-2-1997a395972846c3.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-device-prod-nlb-3-476f82e9e47ea47f.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.131.81.23",
-            "3.131.252.91",
-            "3.133.239.80"
+            "3.132.231.15",
+            "3.132.253.101",
+            "18.217.99.125"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-device-prod-nlb-4-97fa936b307500cb.elb.us-west-2.amazonaws.com",
-          "ipv4": [
-            "35.165.30.1",
-            "44.235.227.192",
-            "54.184.157.35"
-          ],
-          "status": "OK"
-        },
-        "9.9.9.9": {
           "canonical_name": "apiproxy-device-prod-nlb-2-1997a395972846c3.elb.us-east-2.amazonaws.com",
           "ipv4": [
             "3.131.81.23",
             "3.131.252.91",
             "3.133.239.80"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-device-prod-nlb-4-3e94f3637ba3def3.elb.us-east-2.amazonaws.com",
+          "ipv4": [
+            "3.132.172.84",
+            "3.133.172.165",
+            "18.119.26.28"
           ],
           "status": "OK"
         }
@@ -6628,10 +6607,10 @@
         "34.196.174.83",
         "44.195.102.197"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -6685,10 +6664,10 @@
         "54.173.135.179",
         "54.210.27.211"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -6742,10 +6721,10 @@
         "52.11.156.50",
         "54.148.182.98"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -6799,10 +6778,10 @@
         "52.11.156.50",
         "54.148.182.98"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -6856,10 +6835,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -6913,10 +6892,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -6970,10 +6949,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -7027,10 +7006,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -7204,10 +7183,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -7261,10 +7240,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -7372,10 +7351,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -7429,10 +7408,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -7525,10 +7504,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -7713,10 +7692,10 @@
         "207.45.72.1",
         "207.45.73.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -7766,10 +7745,10 @@
         "207.45.72.1",
         "207.45.73.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -7859,10 +7838,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -7916,10 +7895,10 @@
         "52.71.110.28",
         "52.203.123.59"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -7973,10 +7952,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -8026,14 +8005,13 @@
       "first_seen": "2026-08-21T07:50:39Z",
       "hostname": "fast.com",
       "ipv4": [
-        "23.7.178.81",
         "23.10.216.94",
         "23.60.117.103"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -8044,7 +8022,7 @@
         "1.1.1.1": {
           "canonical_name": "fast.com",
           "ipv4": [
-            "23.7.178.81"
+            "23.60.117.103"
           ],
           "status": "OK"
         },
@@ -8120,10 +8098,10 @@
         "207.45.72.1",
         "207.45.73.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -8173,10 +8151,10 @@
         "45.57.40.1",
         "45.57.41.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -8227,10 +8205,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -8285,10 +8263,10 @@
         "18.172.122.63",
         "18.172.122.82"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -8380,20 +8358,17 @@
       "first_seen": "2026-08-22T11:40:04Z",
       "hostname": "games.netflix.com",
       "ipv4": [
-        "35.83.11.33",
-        "35.94.2.180",
+        "3.12.14.207",
+        "3.143.122.47",
+        "18.116.227.143",
         "44.207.214.105",
-        "44.224.200.144",
         "52.4.121.162",
-        "52.206.211.200",
-        "52.212.127.134",
-        "52.213.79.143",
-        "63.32.68.221"
+        "52.206.211.200"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -8404,18 +8379,18 @@
         "1.1.1.1": {
           "canonical_name": "games.netflix.com",
           "ipv4": [
-            "35.83.11.33",
-            "35.94.2.180",
-            "44.224.200.144"
+            "3.12.14.207",
+            "3.143.122.47",
+            "18.116.227.143"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "games.netflix.com",
           "ipv4": [
-            "52.212.127.134",
-            "52.213.79.143",
-            "63.32.68.221"
+            "44.207.214.105",
+            "52.4.121.162",
+            "52.206.211.200"
           ],
           "status": "OK"
         },
@@ -8447,10 +8422,10 @@
         "18.207.84.236",
         "52.0.131.132"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -8564,10 +8539,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -8675,10 +8650,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -8826,15 +8801,12 @@
       "ipv4": [
         "3.133.57.11",
         "3.136.253.118",
-        "34.217.252.38",
-        "44.226.248.54",
-        "52.14.201.162",
-        "54.214.31.161"
+        "52.14.201.162"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -8852,11 +8824,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-helpcenter-nlb-c7098e1ee413230a.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-helpcenter-nlb-6cc037a5a8a90429.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "34.217.252.38",
-            "44.226.248.54",
-            "54.214.31.161"
+            "3.133.57.11",
+            "3.136.253.118",
+            "52.14.201.162"
           ],
           "status": "OK"
         },
@@ -8888,10 +8860,10 @@
         "52.21.52.186",
         "52.207.146.139"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -9125,10 +9097,10 @@
         "52.3.20.156",
         "52.3.61.206"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -9512,10 +9484,10 @@
         "18.207.84.236",
         "52.0.131.132"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -9558,7 +9530,7 @@
       "status": "active"
     },
     "ichnaea-web.netflix.com": {
-      "canonical_name": "apiproxy-log-nlb-0dbe90394fe752bf.elb.us-west-2.amazonaws.com",
+      "canonical_name": "apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -9567,15 +9539,12 @@
       "ipv4": [
         "3.21.189.253",
         "3.147.179.10",
-        "18.119.152.119",
-        "34.209.190.101",
-        "52.12.134.97",
-        "52.41.166.128"
+        "18.119.152.119"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -9602,11 +9571,11 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-log-nlb-0dbe90394fe752bf.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "34.209.190.101",
-            "52.12.134.97",
-            "52.41.166.128"
+            "3.21.189.253",
+            "3.147.179.10",
+            "18.119.152.119"
           ],
           "status": "OK"
         }
@@ -9618,7 +9587,7 @@
       "status": "active"
     },
     "ichnaea.staging.netflix.com": {
-      "canonical_name": "apiproxy-staging-nlb-17bd35d554594c7c.elb.us-west-2.amazonaws.com",
+      "canonical_name": "apiproxy-staging-nlb-72507cff3c0db5b9.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -9626,15 +9595,12 @@
       "hostname": "ichnaea.staging.netflix.com",
       "ipv4": [
         "3.18.20.99",
-        "3.130.238.221",
-        "35.155.107.249",
-        "54.149.211.156",
-        "54.187.224.153"
+        "3.130.238.221"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -9651,11 +9617,10 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-staging-nlb-17bd35d554594c7c.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-staging-nlb-72507cff3c0db5b9.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "35.155.107.249",
-            "54.149.211.156",
-            "54.187.224.153"
+            "3.18.20.99",
+            "3.130.238.221"
           ],
           "status": "OK"
         },
@@ -9686,10 +9651,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -9742,10 +9707,10 @@
         "207.45.72.1",
         "207.45.73.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -9796,10 +9761,10 @@
         "52.11.156.50",
         "54.148.182.98"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-09-29T02:36:07Z",
@@ -9853,10 +9818,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -10183,10 +10148,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10240,10 +10205,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10325,24 +10290,27 @@
       "status": "expired"
     },
     "ios.prod.dradis.netflix.com": {
-      "canonical_name": "apiproxy-device-prod-nlb-1-2dea7573db70d8ec.elb.us-east-2.amazonaws.com",
+      "canonical_name": "apiproxy-device-prod-nlb-2-1997a395972846c3.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "ios.prod.dradis.netflix.com",
       "ipv4": [
-        "3.15.91.90",
-        "3.131.250.78",
-        "18.221.239.141",
-        "44.225.17.85",
-        "44.235.228.33",
-        "54.189.33.245"
+        "3.131.81.23",
+        "3.131.252.91",
+        "3.132.172.84",
+        "3.132.231.15",
+        "3.132.253.101",
+        "3.133.172.165",
+        "3.133.239.80",
+        "18.119.26.28",
+        "18.217.99.125"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10351,29 +10319,29 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "apiproxy-device-prod-nlb-1-2dea7573db70d8ec.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-device-prod-nlb-3-476f82e9e47ea47f.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.15.91.90",
-            "3.131.250.78",
-            "18.221.239.141"
+            "3.132.231.15",
+            "3.132.253.101",
+            "18.217.99.125"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-device-prod-nlb-1-2dea7573db70d8ec.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-device-prod-nlb-2-1997a395972846c3.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.15.91.90",
-            "3.131.250.78",
-            "18.221.239.141"
+            "3.131.81.23",
+            "3.131.252.91",
+            "3.133.239.80"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-device-prod-nlb-2-9a34ae4608b5939d.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-device-prod-nlb-4-3e94f3637ba3def3.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "44.225.17.85",
-            "44.235.228.33",
-            "54.189.33.245"
+            "3.132.172.84",
+            "3.133.172.165",
+            "18.119.26.28"
           ],
           "status": "OK"
         }
@@ -10396,10 +10364,10 @@
         "18.117.57.101",
         "18.223.36.194"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10453,10 +10421,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10510,10 +10478,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10567,10 +10535,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -10624,10 +10592,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10679,15 +10647,12 @@
       "ipv4": [
         "3.132.80.201",
         "3.142.183.66",
-        "18.221.121.98",
-        "44.229.174.42",
-        "52.32.180.30",
-        "54.191.42.158"
+        "18.221.121.98"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10714,11 +10679,11 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-partner-prod-nlb-a811e4025c8f4f94.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-partner-prod-nlb-600f46abf9d78d73.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "44.229.174.42",
-            "52.32.180.30",
-            "54.191.42.158"
+            "3.132.80.201",
+            "3.142.183.66",
+            "18.221.121.98"
           ],
           "status": "OK"
         }
@@ -10739,10 +10704,10 @@
       "ipv4": [
         "52.26.172.72"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10829,10 +10794,10 @@
         "44.231.108.101",
         "54.212.245.173"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10886,10 +10851,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10942,10 +10907,10 @@
         "207.45.72.1",
         "207.45.73.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -10998,10 +10963,10 @@
         "104.16.49.231",
         "104.16.50.231"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -11061,10 +11026,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -11118,10 +11083,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -11289,10 +11254,10 @@
         "18.207.84.236",
         "52.0.131.132"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -11346,10 +11311,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -11488,24 +11453,24 @@
       "status": "expired"
     },
     "logs.netflix.com": {
-      "canonical_name": "apiproxy-logging-s2-06119af85fbce900.elb.us-east-2.amazonaws.com",
+      "canonical_name": "apiproxy-logging-s1-4a8c8a852b854f84.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "logs.netflix.com",
       "ipv4": [
-        "3.19.205.174",
-        "3.21.223.19",
-        "3.138.232.98",
-        "13.58.158.2",
-        "13.59.96.40",
-        "13.59.143.154"
+        "3.17.233.126",
+        "3.132.36.44",
+        "3.132.37.209",
+        "3.133.193.154",
+        "3.141.212.132",
+        "18.223.242.221"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -11514,29 +11479,29 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "apiproxy-logging-s3-9b3ecee3f3b65520.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-logging-s4-164762ccd0989fc7.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.138.232.98",
-            "13.58.158.2",
-            "13.59.143.154"
+            "3.133.193.154",
+            "3.141.212.132",
+            "18.223.242.221"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-logging-s2-06119af85fbce900.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-logging-s4-164762ccd0989fc7.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.19.205.174",
-            "3.21.223.19",
-            "13.59.96.40"
+            "3.133.193.154",
+            "3.141.212.132",
+            "18.223.242.221"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-logging-s2-06119af85fbce900.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-logging-s1-4a8c8a852b854f84.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.19.205.174",
-            "3.21.223.19",
-            "13.59.96.40"
+            "3.17.233.126",
+            "3.132.36.44",
+            "3.132.37.209"
           ],
           "status": "OK"
         }
@@ -11559,10 +11524,10 @@
         "3.137.126.55",
         "3.139.213.182"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -11616,10 +11581,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -11722,7 +11687,7 @@
       "status": "expired"
     },
     "m.netflix.com": {
-      "canonical_name": "apiproxy-island-prod-nlb-7bc198082d1771af.elb.us-west-2.amazonaws.com",
+      "canonical_name": "apiproxy-island-prod-nlb-a35ba0376662b7b4.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -11731,15 +11696,12 @@
       "ipv4": [
         "3.21.64.12",
         "3.132.32.229",
-        "3.140.152.134",
-        "44.236.136.138",
-        "44.240.252.44",
-        "44.242.88.30"
+        "3.140.152.134"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -11757,11 +11719,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-island-prod-nlb-7bc198082d1771af.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-island-prod-nlb-a35ba0376662b7b4.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "44.236.136.138",
-            "44.240.252.44",
-            "44.242.88.30"
+            "3.21.64.12",
+            "3.132.32.229",
+            "3.140.152.134"
           ],
           "status": "OK"
         },
@@ -11832,10 +11794,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -11885,13 +11847,12 @@
       "first_seen": "2026-08-22T11:40:04Z",
       "hostname": "meechum.netflix.com",
       "ipv4": [
-        "3.166.122.191",
         "13.225.53.103"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -11902,7 +11863,7 @@
         "1.1.1.1": {
           "canonical_name": "meechum.prod.identity.netflix.net",
           "ipv4": [
-            "3.166.122.191"
+            "13.225.53.103"
           ],
           "status": "OK"
         },
@@ -11939,10 +11900,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -11995,10 +11956,10 @@
         "3.229.83.35",
         "54.221.102.224"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -12088,10 +12049,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -12184,10 +12145,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -12280,10 +12241,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -12337,10 +12298,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -12451,10 +12412,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -12547,10 +12508,10 @@
         "3.132.32.229",
         "3.140.152.134"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -12658,10 +12619,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -12715,10 +12676,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -12772,10 +12733,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -12868,10 +12829,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -12967,10 +12928,10 @@
         "54.160.93.182",
         "54.237.226.164"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -12990,18 +12951,18 @@
         "8.8.8.8": {
           "canonical_name": "netflix.com",
           "ipv4": [
-            "3.211.157.115",
-            "3.225.92.8",
-            "54.160.93.182"
+            "3.230.129.93",
+            "52.3.144.142",
+            "54.237.226.164"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "netflix.com",
           "ipv4": [
-            "3.230.129.93",
-            "52.3.144.142",
-            "54.237.226.164"
+            "3.211.157.115",
+            "3.225.92.8",
+            "54.160.93.182"
           ],
           "status": "OK"
         }
@@ -13121,10 +13082,10 @@
         "52.212.254.212",
         "54.229.148.227"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -13178,10 +13139,10 @@
         "52.212.254.212",
         "54.229.148.227"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -13233,15 +13194,12 @@
       "ipv4": [
         "3.19.84.251",
         "3.132.254.214",
-        "3.135.25.251",
-        "44.231.76.127",
-        "44.236.127.245",
-        "44.240.6.158"
+        "3.135.25.251"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -13259,11 +13217,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "pushy-nonmember-nlb1-a3d6d4dc8276dd4e.elb.us-west-2.amazonaws.com",
+          "canonical_name": "pushy-nonmember-nlb1-11207a8443315991.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "44.231.76.127",
-            "44.236.127.245",
-            "44.240.6.158"
+            "3.19.84.251",
+            "3.132.254.214",
+            "3.135.25.251"
           ],
           "status": "OK"
         },
@@ -13295,10 +13253,10 @@
         "50.16.30.139",
         "52.4.82.130"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -13352,10 +13310,10 @@
         "50.16.30.139",
         "52.4.82.130"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -13409,10 +13367,10 @@
         "3.132.254.214",
         "3.135.25.251"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -13466,10 +13424,10 @@
         "3.132.254.214",
         "3.135.25.251"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -13523,10 +13481,10 @@
         "44.236.127.245",
         "44.240.6.158"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -13580,10 +13538,10 @@
         "44.236.127.245",
         "44.240.6.158"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -13637,10 +13595,10 @@
         "18.214.127.164",
         "34.224.54.49"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -13772,10 +13730,10 @@
         "50.17.129.133",
         "54.85.34.25"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -14113,12 +14071,15 @@
       "first_seen": "2026-08-22T11:40:04Z",
       "hostname": "nmtracking.test.netflix.com",
       "ipv4": [
-        "34.249.116.139"
+        "34.249.116.139",
+        "52.54.24.236",
+        "52.201.21.64",
+        "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -14134,9 +14095,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-test-nlb-07bda9b453b196de.elb.eu-west-1.amazonaws.com",
+          "canonical_name": "apiproxy-test-nlb-b922b8a285eb983f.elb.us-east-1.amazonaws.com",
           "ipv4": [
-            "34.249.116.139"
+            "52.54.24.236",
+            "52.201.21.64",
+            "54.167.128.47"
           ],
           "status": "OK"
         },
@@ -14207,10 +14170,10 @@
         "104.16.49.231",
         "104.16.50.231"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -14324,10 +14287,10 @@
         "44.194.200.93",
         "54.173.25.53"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -14381,10 +14344,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -14438,10 +14401,10 @@
         "54.165.226.59",
         "184.194.62.108"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -14523,7 +14486,7 @@
       "status": "expired"
     },
     "nrdp.prod.dradis.netflix.com": {
-      "canonical_name": "apiproxy-nrdp-prod-nlb-2-d464c51d7b7dd5f5.elb.us-east-2.amazonaws.com",
+      "canonical_name": "apiproxy-nrdp-prod-nlb-3-f2cccb01e26ab726.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -14531,16 +14494,16 @@
       "hostname": "nrdp.prod.dradis.netflix.com",
       "ipv4": [
         "3.18.23.51",
-        "3.128.64.243",
+        "3.136.90.23",
         "3.139.190.88",
-        "18.119.79.67",
-        "18.119.145.97",
+        "18.116.187.66",
+        "18.218.48.250",
         "18.225.4.100"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -14567,11 +14530,11 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-nrdp-prod-nlb-2-d464c51d7b7dd5f5.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-nrdp-prod-nlb-4-bf511bae717e1eb0.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.128.64.243",
-            "18.119.79.67",
-            "18.119.145.97"
+            "3.136.90.23",
+            "18.116.187.66",
+            "18.218.48.250"
           ],
           "status": "OK"
         }
@@ -14622,24 +14585,21 @@
       "status": "expired"
     },
     "nrdp.ws.ale.netflix.com": {
-      "canonical_name": "apiproxy-nrdp-ws-nlb-1-216f4bfe029a3fd5.elb.us-east-2.amazonaws.com",
+      "canonical_name": "apiproxy-nrdp-ws-nlb-3-1c1c2785c8587b66.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T17:49:18Z",
       "hostname": "nrdp.ws.ale.netflix.com",
       "ipv4": [
-        "3.13.252.32",
-        "3.23.230.222",
-        "3.136.12.87",
-        "3.138.248.199",
-        "3.141.75.150",
-        "18.218.91.106"
+        "3.20.101.117",
+        "3.20.200.90",
+        "3.128.81.239"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -14648,29 +14608,29 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "apiproxy-nrdp-ws-nlb-1-216f4bfe029a3fd5.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-nrdp-ws-nlb-3-1c1c2785c8587b66.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.23.230.222",
-            "3.138.248.199",
-            "3.141.75.150"
+            "3.20.101.117",
+            "3.20.200.90",
+            "3.128.81.239"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-nrdp-ws-nlb-4-0313118dc0deb4e8.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-nrdp-ws-nlb-3-1c1c2785c8587b66.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.13.252.32",
-            "3.136.12.87",
-            "18.218.91.106"
+            "3.20.101.117",
+            "3.20.200.90",
+            "3.128.81.239"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-nrdp-ws-nlb-4-0313118dc0deb4e8.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-nrdp-ws-nlb-3-1c1c2785c8587b66.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.13.252.32",
-            "3.136.12.87",
-            "18.218.91.106"
+            "3.20.101.117",
+            "3.20.200.90",
+            "3.128.81.239"
           ],
           "status": "OK"
         }
@@ -14682,12 +14642,75 @@
       "status": "active"
     },
     "nrdp.ws.exp.netflix.com": {
-      "canonical_name": "apiproxy-nrdp-ws-nlb-1-216f4bfe029a3fd5.elb.us-east-2.amazonaws.com",
+      "canonical_name": "apiproxy-nrdp-ws-nlb-2-cee5c6c4231f08f8.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "nrdp.ws.exp.netflix.com",
+      "ipv4": [
+        "3.13.252.32",
+        "3.20.101.117",
+        "3.20.200.90",
+        "3.128.81.239",
+        "3.136.12.87",
+        "3.143.192.160",
+        "18.190.52.84",
+        "18.217.178.0",
+        "18.218.91.106"
+      ],
+      "last_check": "2026-10-01T02:12:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-10-01T02:12:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "policy_excluded_at": null,
+      "policy_reason": null,
+      "policy_rule": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-2-cee5c6c4231f08f8.elb.us-east-2.amazonaws.com",
+          "ipv4": [
+            "3.143.192.160",
+            "18.190.52.84",
+            "18.217.178.0"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-3-1c1c2785c8587b66.elb.us-east-2.amazonaws.com",
+          "ipv4": [
+            "3.20.101.117",
+            "3.20.200.90",
+            "3.128.81.239"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-4-0313118dc0deb4e8.elb.us-east-2.amazonaws.com",
+          "ipv4": [
+            "3.13.252.32",
+            "3.136.12.87",
+            "18.218.91.106"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "nrdp.ws.netflix.com": {
+      "canonical_name": "apiproxy-nrdp-ws-nlb-1-216f4bfe029a3fd5.elb.us-east-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "nrdp.ws.netflix.com",
       "ipv4": [
         "3.13.252.32",
         "3.23.230.222",
@@ -14699,10 +14722,10 @@
         "18.217.178.0",
         "18.218.91.106"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -14711,20 +14734,20 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "apiproxy-nrdp-ws-nlb-4-0313118dc0deb4e8.elb.us-east-2.amazonaws.com",
-          "ipv4": [
-            "3.13.252.32",
-            "3.136.12.87",
-            "18.218.91.106"
-          ],
-          "status": "OK"
-        },
-        "8.8.8.8": {
           "canonical_name": "apiproxy-nrdp-ws-nlb-2-cee5c6c4231f08f8.elb.us-east-2.amazonaws.com",
           "ipv4": [
             "3.143.192.160",
             "18.190.52.84",
             "18.217.178.0"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-4-0313118dc0deb4e8.elb.us-east-2.amazonaws.com",
+          "ipv4": [
+            "3.13.252.32",
+            "3.136.12.87",
+            "18.218.91.106"
           ],
           "status": "OK"
         },
@@ -14744,71 +14767,8 @@
       ],
       "status": "active"
     },
-    "nrdp.ws.netflix.com": {
-      "canonical_name": "apiproxy-nrdp-ws-nlb-2-cee5c6c4231f08f8.elb.us-east-2.amazonaws.com",
-      "consecutive_negative_checks": 0,
-      "ever_validated": true,
-      "expired_at": null,
-      "first_seen": "2026-08-21T08:09:29Z",
-      "hostname": "nrdp.ws.netflix.com",
-      "ipv4": [
-        "3.13.252.32",
-        "3.20.101.117",
-        "3.20.200.90",
-        "3.128.81.239",
-        "3.136.12.87",
-        "3.143.192.160",
-        "18.190.52.84",
-        "18.217.178.0",
-        "18.218.91.106"
-      ],
-      "last_check": "2026-09-30T21:27:04Z",
-      "last_negative": null,
-      "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "policy_excluded_at": null,
-      "policy_reason": null,
-      "policy_rule": null,
-      "quarantined_at": null,
-      "resolver_results": {
-        "1.1.1.1": {
-          "canonical_name": "apiproxy-nrdp-ws-nlb-4-0313118dc0deb4e8.elb.us-east-2.amazonaws.com",
-          "ipv4": [
-            "3.13.252.32",
-            "3.136.12.87",
-            "18.218.91.106"
-          ],
-          "status": "OK"
-        },
-        "8.8.8.8": {
-          "canonical_name": "apiproxy-nrdp-ws-nlb-2-cee5c6c4231f08f8.elb.us-east-2.amazonaws.com",
-          "ipv4": [
-            "3.143.192.160",
-            "18.190.52.84",
-            "18.217.178.0"
-          ],
-          "status": "OK"
-        },
-        "9.9.9.9": {
-          "canonical_name": "apiproxy-nrdp-ws-nlb-3-1c1c2785c8587b66.elb.us-east-2.amazonaws.com",
-          "ipv4": [
-            "3.20.101.117",
-            "3.20.200.90",
-            "3.128.81.239"
-          ],
-          "status": "OK"
-        }
-      },
-      "safety_reason": null,
-      "sources": [
-        "netflix-core:netflix.com"
-      ],
-      "status": "active"
-    },
     "nrdp.ws.swiss.netflix.com": {
-      "canonical_name": "apiproxy-nrdp-ws-nlb-3-1c1c2785c8587b66.elb.us-east-2.amazonaws.com",
+      "canonical_name": "apiproxy-nrdp-ws-nlb-1-216f4bfe029a3fd5.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -14818,14 +14778,17 @@
         "3.13.252.32",
         "3.20.101.117",
         "3.20.200.90",
+        "3.23.230.222",
         "3.128.81.239",
         "3.136.12.87",
+        "3.138.248.199",
+        "3.141.75.150",
         "18.218.91.106"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -14843,20 +14806,20 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-nrdp-ws-nlb-4-0313118dc0deb4e8.elb.us-east-2.amazonaws.com",
-          "ipv4": [
-            "3.13.252.32",
-            "3.136.12.87",
-            "18.218.91.106"
-          ],
-          "status": "OK"
-        },
-        "9.9.9.9": {
           "canonical_name": "apiproxy-nrdp-ws-nlb-3-1c1c2785c8587b66.elb.us-east-2.amazonaws.com",
           "ipv4": [
             "3.20.101.117",
             "3.20.200.90",
             "3.128.81.239"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-nrdp-ws-nlb-1-216f4bfe029a3fd5.elb.us-east-2.amazonaws.com",
+          "ipv4": [
+            "3.23.230.222",
+            "3.138.248.199",
+            "3.141.75.150"
           ],
           "status": "OK"
         }
@@ -14879,10 +14842,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -14996,10 +14959,10 @@
         "52.21.52.186",
         "52.207.146.139"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-25T11:33:08Z",
@@ -15053,10 +15016,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-25T11:33:08Z",
@@ -15164,10 +15127,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -15260,10 +15223,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -15317,10 +15280,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -15374,10 +15337,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -15431,10 +15394,10 @@
         "54.209.43.49",
         "98.85.207.205"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -15488,10 +15451,10 @@
         "54.80.122.15",
         "54.144.143.43"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -15545,10 +15508,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -15602,10 +15565,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -15659,10 +15622,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -15716,10 +15679,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -15762,7 +15725,7 @@
       "status": "excluded"
     },
     "oca-api-3rbal.netflix.com": {
-      "canonical_name": "apiproxy-ftl-http-nlb-9ca76ece395fe934.elb.us-east-1.amazonaws.com",
+      "canonical_name": "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -15770,13 +15733,16 @@
       "hostname": "oca-api-3rbal.netflix.com",
       "ipv4": [
         "18.214.21.235",
+        "34.213.114.77",
+        "35.165.68.166",
         "35.175.169.16",
+        "52.40.134.57",
         "54.156.68.242"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -15803,11 +15769,11 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-ftl-http-nlb-9ca76ece395fe934.elb.us-east-1.amazonaws.com",
+          "canonical_name": "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com",
           "ipv4": [
-            "18.214.21.235",
-            "35.175.169.16",
-            "54.156.68.242"
+            "34.213.114.77",
+            "35.165.68.166",
+            "52.40.134.57"
           ],
           "status": "OK"
         }
@@ -15947,10 +15913,10 @@
         "3.138.84.225",
         "3.141.219.247"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16004,10 +15970,10 @@
         "3.138.84.225",
         "3.141.219.247"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16098,12 +16064,15 @@
       "ipv4": [
         "3.132.196.97",
         "3.138.84.225",
-        "3.141.219.247"
+        "3.141.219.247",
+        "18.214.21.235",
+        "35.175.169.16",
+        "54.156.68.242"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16130,11 +16099,11 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-ftl-http-nlb-0a6bdb9ef5cdd17e.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-ftl-http-nlb-9ca76ece395fe934.elb.us-east-1.amazonaws.com",
           "ipv4": [
-            "3.132.196.97",
-            "3.138.84.225",
-            "3.141.219.247"
+            "18.214.21.235",
+            "35.175.169.16",
+            "54.156.68.242"
           ],
           "status": "OK"
         }
@@ -16157,10 +16126,10 @@
         "52.214.151.249",
         "54.171.227.38"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16214,10 +16183,10 @@
         "52.214.151.249",
         "54.171.227.38"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16269,15 +16238,12 @@
       "ipv4": [
         "3.132.196.97",
         "3.138.84.225",
-        "3.141.219.247",
-        "34.213.114.77",
-        "35.165.68.166",
-        "52.40.134.57"
+        "3.141.219.247"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16295,11 +16261,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-ftl-http-nlb-38738ca310a7b66b.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-ftl-http-nlb-0a6bdb9ef5cdd17e.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "34.213.114.77",
-            "35.165.68.166",
-            "52.40.134.57"
+            "3.132.196.97",
+            "3.138.84.225",
+            "3.141.219.247"
           ],
           "status": "OK"
         },
@@ -16331,10 +16297,10 @@
         "35.175.169.16",
         "54.156.68.242"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16388,10 +16354,10 @@
         "35.175.169.16",
         "54.156.68.242"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16445,10 +16411,10 @@
         "3.138.84.225",
         "3.141.219.247"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16541,10 +16507,10 @@
         "35.165.68.166",
         "52.40.134.57"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16598,10 +16564,10 @@
         "35.165.68.166",
         "52.40.134.57"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16655,10 +16621,10 @@
         "3.138.84.225",
         "3.141.219.247"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16710,15 +16676,12 @@
       "ipv4": [
         "3.16.99.240",
         "3.18.37.97",
-        "18.219.26.177",
-        "34.215.51.202",
-        "35.164.28.113",
-        "52.39.125.71"
+        "18.219.26.177"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16736,11 +16699,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-ocga-ngp-nlb-7ef5219b65507b22.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-ocga-ngp-nlb-072a4552caaf9d15.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "34.215.51.202",
-            "35.164.28.113",
-            "52.39.125.71"
+            "3.16.99.240",
+            "3.18.37.97",
+            "18.219.26.177"
           ],
           "status": "OK"
         },
@@ -16772,10 +16735,10 @@
         "44.214.199.139",
         "52.201.108.97"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -16870,10 +16833,10 @@
         "104.16.49.231",
         "104.16.50.231"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16929,14 +16892,14 @@
       "first_seen": "2026-08-22T17:40:12Z",
       "hostname": "opencontent.netflix.com",
       "ipv4": [
-        "173.194.193.121",
-        "192.178.157.121",
-        "192.178.232.121"
+        "142.251.182.121",
+        "192.178.129.121",
+        "192.178.157.121"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -16947,21 +16910,21 @@
         "1.1.1.1": {
           "canonical_name": "ghs.googlehosted.com",
           "ipv4": [
-            "192.178.157.121"
+            "142.251.182.121"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "ghs.googlehosted.com",
           "ipv4": [
-            "173.194.193.121"
+            "192.178.129.121"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "ghs.googlehosted.com",
           "ipv4": [
-            "192.178.232.121"
+            "192.178.157.121"
           ],
           "status": "OK"
         }
@@ -16984,10 +16947,10 @@
         "54.80.122.15",
         "54.144.143.43"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -17101,10 +17064,10 @@
         "3.230.87.71",
         "34.224.144.93"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -17158,10 +17121,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -17215,10 +17178,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -17278,10 +17241,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -17351,15 +17314,12 @@
       "ipv4": [
         "3.14.228.185",
         "3.23.93.81",
-        "3.131.6.49",
-        "34.211.254.52",
-        "35.155.202.105",
-        "52.40.66.138"
+        "3.131.6.49"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -17377,11 +17337,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "dualstack.apiproxy-partnerapi-292524060.us-west-2.elb.amazonaws.com",
+          "canonical_name": "dualstack.apiproxy-partnerapi-1856256085.us-east-2.elb.amazonaws.com",
           "ipv4": [
-            "34.211.254.52",
-            "35.155.202.105",
-            "52.40.66.138"
+            "3.14.228.185",
+            "3.23.93.81",
+            "3.131.6.49"
           ],
           "status": "OK"
         },
@@ -17402,7 +17362,7 @@
       "status": "active"
     },
     "partnerapi.sandbox.netflix.com": {
-      "canonical_name": "apiproxy-website-sandbox-nlb-9077874d857bd442.elb.us-west-2.amazonaws.com",
+      "canonical_name": "apiproxy-website-sandbox-nlb-e0ab3c3f9449332f.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -17411,15 +17371,12 @@
       "ipv4": [
         "3.23.56.59",
         "3.139.119.0",
-        "3.150.24.216",
-        "44.252.124.11",
-        "52.25.17.214",
-        "52.42.62.50"
+        "3.150.24.216"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -17437,11 +17394,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-website-sandbox-nlb-9077874d857bd442.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-website-sandbox-nlb-e0ab3c3f9449332f.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "44.252.124.11",
-            "52.25.17.214",
-            "52.42.62.50"
+            "3.23.56.59",
+            "3.139.119.0",
+            "3.150.24.216"
           ],
           "status": "OK"
         },
@@ -17475,10 +17432,10 @@
         "99.81.56.27",
         "100.61.207.214"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -17530,10 +17487,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -17587,10 +17544,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -17683,10 +17640,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -17775,12 +17732,15 @@
       "first_seen": "2026-08-22T11:40:04Z",
       "hostname": "presentationtracking.test.netflix.com",
       "ipv4": [
-        "34.249.116.139"
+        "34.249.116.139",
+        "52.54.24.236",
+        "52.201.21.64",
+        "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -17796,9 +17756,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-test-nlb-07bda9b453b196de.elb.eu-west-1.amazonaws.com",
+          "canonical_name": "apiproxy-test-nlb-b922b8a285eb983f.elb.us-east-1.amazonaws.com",
           "ipv4": [
-            "34.249.116.139"
+            "52.54.24.236",
+            "52.201.21.64",
+            "54.167.128.47"
           ],
           "status": "OK"
         },
@@ -17828,10 +17790,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -17883,12 +17845,12 @@
       "ipv4": [
         "142.250.113.121",
         "142.251.178.121",
-        "173.194.193.121"
+        "192.178.129.121"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -17906,7 +17868,7 @@
         "8.8.8.8": {
           "canonical_name": "ghs.googlehosted.com",
           "ipv4": [
-            "173.194.193.121"
+            "192.178.129.121"
           ],
           "status": "OK"
         },
@@ -18086,10 +18048,10 @@
         "3.129.196.255",
         "18.221.229.140"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -18192,7 +18154,7 @@
       "status": "expired"
     },
     "push.prod.eu-west-1.internal.dradis.netflix.com": {
-      "canonical_name": "pushy-prod-nlb3-shard2-6cb1673808d103cf.elb.eu-west-1.amazonaws.com",
+      "canonical_name": "pushy-prod-nlb2-0faa00dadac6cbf8.elb.eu-west-1.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -18201,18 +18163,15 @@
       "ipv4": [
         "3.248.133.231",
         "18.203.189.247",
-        "34.252.91.172",
-        "34.252.236.138",
         "34.253.108.152",
-        "52.51.253.173",
-        "52.212.229.205",
-        "54.171.156.218",
-        "63.33.228.172"
+        "52.16.16.21",
+        "54.73.239.34",
+        "54.170.39.204"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -18221,29 +18180,29 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "pushy-prod-nlb4-888783e50761c9f4.elb.eu-west-1.amazonaws.com",
+          "canonical_name": "pushy-prod-nlb2-0faa00dadac6cbf8.elb.eu-west-1.amazonaws.com",
           "ipv4": [
-            "52.51.253.173",
-            "54.171.156.218",
-            "63.33.228.172"
+            "52.16.16.21",
+            "54.73.239.34",
+            "54.170.39.204"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "pushy-prod-nlb4-shard2-66966b98c9fb7d3f.elb.eu-west-1.amazonaws.com",
-          "ipv4": [
-            "34.252.91.172",
-            "34.252.236.138",
-            "52.212.229.205"
-          ],
-          "status": "OK"
-        },
-        "9.9.9.9": {
           "canonical_name": "pushy-prod-nlb3-shard2-6cb1673808d103cf.elb.eu-west-1.amazonaws.com",
           "ipv4": [
             "3.248.133.231",
             "18.203.189.247",
             "34.253.108.152"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-prod-nlb2-0faa00dadac6cbf8.elb.eu-west-1.amazonaws.com",
+          "ipv4": [
+            "52.16.16.21",
+            "54.73.239.34",
+            "54.170.39.204"
           ],
           "status": "OK"
         }
@@ -18255,24 +18214,27 @@
       "status": "excluded"
     },
     "push.prod.eu-west-1.netflix.com": {
-      "canonical_name": "pushy-prod-nlb3-shard2-6cb1673808d103cf.elb.eu-west-1.amazonaws.com",
+      "canonical_name": "pushy-prod-nlb1-shard2-1973926ccdf27c1a.elb.eu-west-1.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "push.prod.eu-west-1.netflix.com",
       "ipv4": [
-        "3.248.133.231",
-        "18.203.189.247",
+        "34.252.38.116",
         "34.252.91.172",
         "34.252.236.138",
-        "34.253.108.152",
-        "52.212.229.205"
+        "52.16.16.21",
+        "52.212.10.98",
+        "52.212.229.205",
+        "54.73.239.34",
+        "54.170.39.204",
+        "54.216.148.165"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -18281,11 +18243,11 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "pushy-prod-nlb4-shard2-66966b98c9fb7d3f.elb.eu-west-1.amazonaws.com",
+          "canonical_name": "pushy-prod-nlb1-shard2-1973926ccdf27c1a.elb.eu-west-1.amazonaws.com",
           "ipv4": [
-            "34.252.91.172",
-            "34.252.236.138",
-            "52.212.229.205"
+            "34.252.38.116",
+            "52.212.10.98",
+            "54.216.148.165"
           ],
           "status": "OK"
         },
@@ -18299,11 +18261,11 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "pushy-prod-nlb3-shard2-6cb1673808d103cf.elb.eu-west-1.amazonaws.com",
+          "canonical_name": "pushy-prod-nlb2-0faa00dadac6cbf8.elb.eu-west-1.amazonaws.com",
           "ipv4": [
-            "3.248.133.231",
-            "18.203.189.247",
-            "34.253.108.152"
+            "52.16.16.21",
+            "54.73.239.34",
+            "54.170.39.204"
           ],
           "status": "OK"
         }
@@ -18315,27 +18277,27 @@
       "status": "active"
     },
     "push.prod.netflix.com": {
-      "canonical_name": "pushy-prod-nlb3-bf7399fa1215a692.elb.us-east-2.amazonaws.com",
+      "canonical_name": "pushy-prod-nlb1-5b33ff1e57dfde1a.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "push.prod.netflix.com",
       "ipv4": [
-        "3.15.68.243",
-        "3.132.230.19",
-        "3.137.73.196",
+        "3.15.245.107",
         "3.141.173.112",
-        "3.146.200.139",
-        "3.147.137.216",
+        "3.143.114.234",
+        "13.59.33.82",
         "13.59.136.77",
+        "18.189.216.73",
         "18.191.6.67",
-        "52.95.251.16"
+        "18.216.0.185",
+        "18.217.59.9"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -18344,29 +18306,29 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "pushy-prod-nlb4-shard2-c3dfc909f26b92c0.elb.us-east-2.amazonaws.com",
+          "canonical_name": "pushy-prod-nlb1-5b33ff1e57dfde1a.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.15.68.243",
-            "3.132.230.19",
-            "52.95.251.16"
+            "3.143.114.234",
+            "18.189.216.73",
+            "18.216.0.185"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
+          "canonical_name": "pushy-prod-nlb4-122e2c3a5c5df235.elb.us-east-2.amazonaws.com",
+          "ipv4": [
+            "3.15.245.107",
+            "13.59.33.82",
+            "18.217.59.9"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
           "canonical_name": "pushy-prod-nlb3-bf7399fa1215a692.elb.us-east-2.amazonaws.com",
           "ipv4": [
             "3.141.173.112",
             "13.59.136.77",
             "18.191.6.67"
-          ],
-          "status": "OK"
-        },
-        "9.9.9.9": {
-          "canonical_name": "pushy-prod-nlb3-shard2-a44334ed5cc0d5f8.elb.us-east-2.amazonaws.com",
-          "ipv4": [
-            "3.137.73.196",
-            "3.146.200.139",
-            "3.147.137.216"
           ],
           "status": "OK"
         }
@@ -18378,27 +18340,27 @@
       "status": "active"
     },
     "push.prod.us-east-1.internal.dradis.netflix.com": {
-      "canonical_name": "pushy-prod-nlb2-b6a1f8d74a5cfd86.elb.us-east-1.amazonaws.com",
+      "canonical_name": "pushy-prod-nlb1-0e34351e64f31cf7.elb.us-east-1.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "push.prod.us-east-1.internal.dradis.netflix.com",
       "ipv4": [
-        "3.217.114.204",
         "18.209.85.220",
-        "34.192.23.130",
+        "23.22.178.161",
+        "34.226.253.187",
+        "34.233.79.31",
+        "35.169.10.137",
+        "50.16.157.95",
         "50.17.133.142",
-        "52.21.89.146",
-        "52.200.71.94",
-        "54.159.105.66",
-        "54.204.178.109",
-        "54.236.226.169"
+        "52.4.57.152",
+        "52.200.71.94"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -18407,29 +18369,29 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "pushy-prod-nlb3-shard2-368379bc3fc32985.elb.us-east-1.amazonaws.com",
+          "canonical_name": "pushy-prod-nlb3-2b8f94552a64bb5c.elb.us-east-1.amazonaws.com",
           "ipv4": [
-            "3.217.114.204",
-            "54.159.105.66",
-            "54.236.226.169"
+            "34.226.253.187",
+            "35.169.10.137",
+            "52.4.57.152"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
+          "canonical_name": "pushy-prod-nlb1-0e34351e64f31cf7.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "23.22.178.161",
+            "34.233.79.31",
+            "50.16.157.95"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
           "canonical_name": "pushy-prod-nlb4-722d5d6bc21c0f3f.elb.us-east-1.amazonaws.com",
           "ipv4": [
             "18.209.85.220",
             "50.17.133.142",
             "52.200.71.94"
-          ],
-          "status": "OK"
-        },
-        "9.9.9.9": {
-          "canonical_name": "pushy-prod-nlb2-b6a1f8d74a5cfd86.elb.us-east-1.amazonaws.com",
-          "ipv4": [
-            "34.192.23.130",
-            "52.21.89.146",
-            "54.204.178.109"
           ],
           "status": "OK"
         }
@@ -18441,27 +18403,27 @@
       "status": "excluded"
     },
     "push.prod.us-east-1.netflix.com": {
-      "canonical_name": "pushy-prod-nlb1-shard2-3802aa202d0ffffa.elb.us-east-1.amazonaws.com",
+      "canonical_name": "pushy-prod-nlb2-shard2-bc9e09e5c18e15cc.elb.us-east-1.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "push.prod.us-east-1.netflix.com",
       "ipv4": [
-        "3.220.227.195",
         "3.230.206.166",
-        "18.204.146.237",
+        "34.226.253.187",
+        "35.169.10.137",
         "44.216.97.65",
+        "52.4.57.152",
         "54.81.86.24",
         "54.174.75.142",
-        "100.26.117.166",
         "100.28.107.182",
         "174.129.170.121"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -18470,11 +18432,11 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "pushy-prod-nlb1-shard2-3802aa202d0ffffa.elb.us-east-1.amazonaws.com",
+          "canonical_name": "pushy-prod-nlb4-shard2-9274479dbff3f3e0.elb.us-east-1.amazonaws.com",
           "ipv4": [
-            "3.220.227.195",
-            "18.204.146.237",
-            "100.26.117.166"
+            "3.230.206.166",
+            "54.174.75.142",
+            "174.129.170.121"
           ],
           "status": "OK"
         },
@@ -18488,11 +18450,11 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "pushy-prod-nlb4-shard2-9274479dbff3f3e0.elb.us-east-1.amazonaws.com",
+          "canonical_name": "pushy-prod-nlb3-2b8f94552a64bb5c.elb.us-east-1.amazonaws.com",
           "ipv4": [
-            "3.230.206.166",
-            "54.174.75.142",
-            "174.129.170.121"
+            "34.226.253.187",
+            "35.169.10.137",
+            "52.4.57.152"
           ],
           "status": "OK"
         }
@@ -18504,7 +18466,7 @@
       "status": "active"
     },
     "push.prod.us-east-2.internal.dradis.netflix.com": {
-      "canonical_name": "pushy-prod-nlb2-0b93b5048b4b3b38.elb.us-east-2.amazonaws.com",
+      "canonical_name": "pushy-prod-nlb1-5b33ff1e57dfde1a.elb.us-east-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -18514,17 +18476,17 @@
         "3.15.68.243",
         "3.132.230.19",
         "3.136.147.197",
-        "3.137.73.196",
         "3.137.104.188",
-        "3.146.200.139",
-        "3.147.137.216",
+        "3.143.114.234",
+        "18.189.216.73",
         "18.191.127.89",
+        "18.216.0.185",
         "52.95.251.16"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -18533,11 +18495,11 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "pushy-prod-nlb2-0b93b5048b4b3b38.elb.us-east-2.amazonaws.com",
+          "canonical_name": "pushy-prod-nlb1-5b33ff1e57dfde1a.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.136.147.197",
-            "3.137.104.188",
-            "18.191.127.89"
+            "3.143.114.234",
+            "18.189.216.73",
+            "18.216.0.185"
           ],
           "status": "OK"
         },
@@ -18551,11 +18513,11 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "pushy-prod-nlb3-shard2-a44334ed5cc0d5f8.elb.us-east-2.amazonaws.com",
+          "canonical_name": "pushy-prod-nlb2-0b93b5048b4b3b38.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.137.73.196",
-            "3.146.200.139",
-            "3.147.137.216"
+            "3.136.147.197",
+            "3.137.104.188",
+            "18.191.127.89"
           ],
           "status": "OK"
         }
@@ -18606,27 +18568,24 @@
       "status": "expired"
     },
     "push.prod.us-west-2.internal.dradis.netflix.com": {
-      "canonical_name": "pushy-prod-nlb2-93bf95f445442309.elb.us-west-2.amazonaws.com",
+      "canonical_name": "pushy-prod-nlb2-shard2-43be0b7005df3e3b.elb.us-west-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "push.prod.us-west-2.internal.dradis.netflix.com",
       "ipv4": [
-        "35.81.92.226",
-        "35.162.161.22",
-        "35.163.21.50",
-        "44.232.75.216",
-        "44.238.127.220",
-        "50.112.122.241",
-        "52.24.26.117",
-        "52.88.144.31",
-        "54.148.231.76"
+        "35.82.23.172",
+        "44.229.50.4",
+        "44.237.126.180",
+        "44.241.34.24",
+        "52.10.248.239",
+        "52.36.81.6"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -18635,11 +18594,74 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "pushy-prod-nlb3-shard2-0229fce26fc325aa.elb.us-west-2.amazonaws.com",
+          "canonical_name": "pushy-prod-nlb2-shard2-43be0b7005df3e3b.elb.us-west-2.amazonaws.com",
           "ipv4": [
-            "35.163.21.50",
-            "52.88.144.31",
-            "54.148.231.76"
+            "44.229.50.4",
+            "44.241.34.24",
+            "52.36.81.6"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "pushy-prod-nlb2-shard2-43be0b7005df3e3b.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "44.229.50.4",
+            "44.241.34.24",
+            "52.36.81.6"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "pushy-prod-nlb3-0264e104ead4010e.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "35.82.23.172",
+            "44.237.126.180",
+            "52.10.248.239"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "excluded"
+    },
+    "push.prod.us-west-2.netflix.com": {
+      "canonical_name": "pushy-prod-nlb1-d580f75201967b9e.elb.us-west-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-21T08:09:29Z",
+      "hostname": "push.prod.us-west-2.netflix.com",
+      "ipv4": [
+        "34.223.153.246",
+        "35.81.92.226",
+        "35.81.198.46",
+        "35.162.161.22",
+        "44.232.75.216",
+        "44.237.239.19",
+        "44.238.127.220",
+        "50.112.122.241",
+        "52.24.26.117"
+      ],
+      "last_check": "2026-10-01T02:12:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-10-01T02:12:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "policy_excluded_at": null,
+      "policy_reason": null,
+      "policy_rule": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "pushy-prod-nlb1-d580f75201967b9e.elb.us-west-2.amazonaws.com",
+          "ipv4": [
+            "34.223.153.246",
+            "35.81.198.46",
+            "44.237.239.19"
           ],
           "status": "OK"
         },
@@ -18666,69 +18688,6 @@
       "sources": [
         "netflix-core:netflix.com"
       ],
-      "status": "excluded"
-    },
-    "push.prod.us-west-2.netflix.com": {
-      "canonical_name": "pushy-prod-nlb1-d580f75201967b9e.elb.us-west-2.amazonaws.com",
-      "consecutive_negative_checks": 0,
-      "ever_validated": true,
-      "expired_at": null,
-      "first_seen": "2026-08-21T08:09:29Z",
-      "hostname": "push.prod.us-west-2.netflix.com",
-      "ipv4": [
-        "34.223.153.246",
-        "35.81.198.46",
-        "44.232.75.216",
-        "44.237.172.67",
-        "44.237.239.19",
-        "44.238.127.220",
-        "44.245.54.146",
-        "52.11.46.122",
-        "52.24.26.117"
-      ],
-      "last_check": "2026-09-30T21:27:04Z",
-      "last_negative": null,
-      "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "policy_excluded_at": null,
-      "policy_reason": null,
-      "policy_rule": null,
-      "quarantined_at": null,
-      "resolver_results": {
-        "1.1.1.1": {
-          "canonical_name": "pushy-prod-nlb1-d580f75201967b9e.elb.us-west-2.amazonaws.com",
-          "ipv4": [
-            "34.223.153.246",
-            "35.81.198.46",
-            "44.237.239.19"
-          ],
-          "status": "OK"
-        },
-        "8.8.8.8": {
-          "canonical_name": "pushy-prod-nlb1-shard2-442b94832ed52b97.elb.us-west-2.amazonaws.com",
-          "ipv4": [
-            "44.237.172.67",
-            "44.245.54.146",
-            "52.11.46.122"
-          ],
-          "status": "OK"
-        },
-        "9.9.9.9": {
-          "canonical_name": "pushy-prod-nlb4-10baac44c86963bf.elb.us-west-2.amazonaws.com",
-          "ipv4": [
-            "44.232.75.216",
-            "44.238.127.220",
-            "52.24.26.117"
-          ],
-          "status": "OK"
-        }
-      },
-      "safety_reason": null,
-      "sources": [
-        "netflix-core:netflix.com"
-      ],
       "status": "active"
     },
     "push.staging.eu-west-1.internal.dradis.netflix.com": {
@@ -18739,12 +18698,12 @@
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "push.staging.eu-west-1.internal.dradis.netflix.com",
       "ipv4": [
-        "52.215.229.112"
+        "52.18.24.190"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -18755,21 +18714,21 @@
         "1.1.1.1": {
           "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
           "ipv4": [
-            "52.215.229.112"
+            "52.18.24.190"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
           "ipv4": [
-            "52.215.229.112"
+            "52.18.24.190"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
           "ipv4": [
-            "52.215.229.112"
+            "52.18.24.190"
           ],
           "status": "OK"
         }
@@ -18788,12 +18747,12 @@
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "push.staging.eu-west-1.netflix.com",
       "ipv4": [
-        "52.215.229.112"
+        "52.18.24.190"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -18804,21 +18763,21 @@
         "1.1.1.1": {
           "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
           "ipv4": [
-            "52.215.229.112"
+            "52.18.24.190"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
           "ipv4": [
-            "52.215.229.112"
+            "52.18.24.190"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "pushy-staging-1-27954977b38f549e.elb.eu-west-1.amazonaws.com",
           "ipv4": [
-            "52.215.229.112"
+            "52.18.24.190"
           ],
           "status": "OK"
         }
@@ -18839,10 +18798,10 @@
       "ipv4": [
         "3.223.225.184"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -18888,10 +18847,10 @@
       "ipv4": [
         "3.223.225.184"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -18937,10 +18896,10 @@
       "ipv4": [
         "184.32.166.155"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -18986,10 +18945,10 @@
       "ipv4": [
         "184.32.166.155"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -19076,10 +19035,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -19132,10 +19091,10 @@
         "207.45.72.1",
         "207.45.73.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -19264,10 +19223,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -19321,10 +19280,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -19378,10 +19337,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -19435,10 +19394,10 @@
         "54.173.135.179",
         "54.210.27.211"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -19491,10 +19450,10 @@
         "207.45.72.1",
         "207.45.73.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -19545,10 +19504,10 @@
         "52.11.156.50",
         "54.148.182.98"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -19602,10 +19561,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -19659,10 +19618,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -19716,10 +19675,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -19774,10 +19733,10 @@
         "13.225.47.56",
         "13.225.47.110"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -19834,10 +19793,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -20042,10 +20001,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -20159,10 +20118,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -20254,10 +20213,10 @@
         "45.57.90.1",
         "45.57.91.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -20306,10 +20265,10 @@
       "ipv4": [
         "199.101.158.51"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -20357,10 +20316,10 @@
         "52.73.16.20",
         "54.82.127.235"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -20414,10 +20373,10 @@
         "52.73.16.20",
         "54.82.127.235"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -20471,10 +20430,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -20528,10 +20487,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -20585,10 +20544,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -20642,10 +20601,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -20861,10 +20820,10 @@
         "52.71.110.28",
         "52.203.123.59"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-09-16T15:26:18Z",
@@ -20908,18 +20867,18 @@
     },
     "sn.netflix.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 149,
+      "consecutive_negative_checks": 150,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-25T11:33:08Z",
       "hostname": "sn.netflix.com",
       "ipv4": [],
-      "last_check": "2026-09-30T21:27:04Z",
-      "last_failure": "2026-09-30T21:27:04Z",
-      "last_negative": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
+      "last_failure": "2026-10-01T02:12:29Z",
+      "last_negative": "2026-10-01T02:12:29Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 149,
+      "negative_observations": 150,
       "negative_since": "2026-08-25T11:33:08Z",
       "policy_excluded_at": null,
       "policy_reason": null,
@@ -20957,10 +20916,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -21053,10 +21012,10 @@
         "52.71.110.28",
         "52.203.123.59"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -21170,10 +21129,10 @@
         "35.169.137.175",
         "52.44.110.148"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -21326,10 +21285,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -21676,10 +21635,10 @@
         "32.189.208.37",
         "44.225.245.99"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -21730,10 +21689,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -21787,10 +21746,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -21883,10 +21842,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -22060,10 +22019,10 @@
         "34.194.54.162",
         "52.6.241.246"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -22117,10 +22076,10 @@
         "52.201.21.64",
         "54.167.128.47"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -22175,10 +22134,10 @@
         "99.86.77.72",
         "99.86.77.114"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -22365,10 +22324,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -22462,10 +22421,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -22519,10 +22478,10 @@
         "52.71.110.28",
         "52.203.123.59"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -22576,10 +22535,10 @@
         "52.71.110.28",
         "52.203.123.59"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -22633,10 +22592,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -22690,10 +22649,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -22747,10 +22706,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -22804,10 +22763,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -22861,10 +22820,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -22918,10 +22877,10 @@
         "3.129.196.255",
         "18.221.229.140"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -22978,10 +22937,10 @@
         "104.16.49.231",
         "104.16.50.231"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -23030,7 +22989,7 @@
       "status": "active"
     },
     "useast.obiwan.netflix.com": {
-      "canonical_name": "apiproxy-obiwan-nlb-dd90ddcf35593cf7.elb.us-east-1.amazonaws.com",
+      "canonical_name": "apiproxy-obiwan-nlb-9f90abd20bb930a3.elb.us-west-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -23038,13 +22997,16 @@
       "hostname": "useast.obiwan.netflix.com",
       "ipv4": [
         "35.168.152.188",
+        "44.252.221.210",
+        "44.253.81.170",
+        "54.71.10.136",
         "54.209.43.49",
         "98.85.207.205"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -23053,11 +23015,11 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "apiproxy-obiwan-nlb-dd90ddcf35593cf7.elb.us-east-1.amazonaws.com",
+          "canonical_name": "apiproxy-obiwan-nlb-9f90abd20bb930a3.elb.us-west-2.amazonaws.com",
           "ipv4": [
-            "35.168.152.188",
-            "54.209.43.49",
-            "98.85.207.205"
+            "44.252.221.210",
+            "44.253.81.170",
+            "54.71.10.136"
           ],
           "status": "OK"
         },
@@ -23087,7 +23049,7 @@
       "status": "active"
     },
     "uswest.obiwan.netflix.com": {
-      "canonical_name": "apiproxy-obiwan-nlb-dd90ddcf35593cf7.elb.us-east-1.amazonaws.com",
+      "canonical_name": "apiproxy-obiwan-nlb-9f90abd20bb930a3.elb.us-west-2.amazonaws.com",
       "consecutive_negative_checks": 0,
       "ever_validated": true,
       "expired_at": null,
@@ -23095,13 +23057,16 @@
       "hostname": "uswest.obiwan.netflix.com",
       "ipv4": [
         "35.168.152.188",
+        "44.252.221.210",
+        "44.253.81.170",
+        "54.71.10.136",
         "54.209.43.49",
         "98.85.207.205"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -23119,11 +23084,11 @@
           "status": "OK"
         },
         "8.8.8.8": {
-          "canonical_name": "apiproxy-obiwan-nlb-dd90ddcf35593cf7.elb.us-east-1.amazonaws.com",
+          "canonical_name": "apiproxy-obiwan-nlb-9f90abd20bb930a3.elb.us-west-2.amazonaws.com",
           "ipv4": [
-            "35.168.152.188",
-            "54.209.43.49",
-            "98.85.207.205"
+            "44.252.221.210",
+            "44.253.81.170",
+            "54.71.10.136"
           ],
           "status": "OK"
         },
@@ -23215,10 +23180,10 @@
         "52.214.151.249",
         "54.171.227.38"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -23272,10 +23237,10 @@
         "35.175.169.16",
         "54.156.68.242"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -23329,10 +23294,10 @@
         "35.165.68.166",
         "52.40.134.57"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -23503,10 +23468,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -23560,10 +23525,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -23615,18 +23580,15 @@
       "ipv4": [
         "3.15.91.90",
         "3.131.250.78",
-        "3.132.231.15",
-        "3.132.253.101",
-        "18.217.99.125",
-        "18.221.239.141",
-        "44.225.17.85",
-        "44.235.228.33",
-        "54.189.33.245"
+        "3.132.172.84",
+        "3.133.172.165",
+        "18.119.26.28",
+        "18.221.239.141"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -23635,11 +23597,11 @@
       "quarantined_at": null,
       "resolver_results": {
         "1.1.1.1": {
-          "canonical_name": "apiproxy-device-prod-nlb-3-476f82e9e47ea47f.elb.us-east-2.amazonaws.com",
+          "canonical_name": "apiproxy-device-prod-nlb-1-2dea7573db70d8ec.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "3.132.231.15",
-            "3.132.253.101",
-            "18.217.99.125"
+            "3.15.91.90",
+            "3.131.250.78",
+            "18.221.239.141"
           ],
           "status": "OK"
         },
@@ -23653,11 +23615,11 @@
           "status": "OK"
         },
         "9.9.9.9": {
-          "canonical_name": "apiproxy-device-prod-nlb-2-9a34ae4608b5939d.elb.us-west-2.amazonaws.com",
+          "canonical_name": "apiproxy-device-prod-nlb-4-3e94f3637ba3def3.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "44.225.17.85",
-            "44.235.228.33",
-            "54.189.33.245"
+            "3.132.172.84",
+            "3.133.172.165",
+            "18.119.26.28"
           ],
           "status": "OK"
         }
@@ -23813,78 +23775,18 @@
       "ipv4": [
         "3.15.91.90",
         "3.131.250.78",
-        "3.132.231.15",
-        "3.132.253.101",
-        "18.217.99.125",
-        "18.221.239.141"
-      ],
-      "last_check": "2026-09-30T21:27:04Z",
-      "last_negative": null,
-      "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "policy_excluded_at": null,
-      "policy_reason": null,
-      "policy_rule": null,
-      "quarantined_at": null,
-      "resolver_results": {
-        "1.1.1.1": {
-          "canonical_name": "apiproxy-device-prod-nlb-1-2dea7573db70d8ec.elb.us-east-2.amazonaws.com",
-          "ipv4": [
-            "3.15.91.90",
-            "3.131.250.78",
-            "18.221.239.141"
-          ],
-          "status": "OK"
-        },
-        "8.8.8.8": {
-          "canonical_name": "apiproxy-device-prod-nlb-3-476f82e9e47ea47f.elb.us-east-2.amazonaws.com",
-          "ipv4": [
-            "3.132.231.15",
-            "3.132.253.101",
-            "18.217.99.125"
-          ],
-          "status": "OK"
-        },
-        "9.9.9.9": {
-          "canonical_name": "apiproxy-device-prod-nlb-1-2dea7573db70d8ec.elb.us-east-2.amazonaws.com",
-          "ipv4": [
-            "3.15.91.90",
-            "3.131.250.78",
-            "18.221.239.141"
-          ],
-          "status": "OK"
-        }
-      },
-      "safety_reason": null,
-      "sources": [
-        "netflix-core:netflix.com"
-      ],
-      "status": "active"
-    },
-    "venkman.cluster.us-west-2.prod.cloud.netflix.com": {
-      "canonical_name": "apiproxy-device-prod-nlb-1-2dea7573db70d8ec.elb.us-east-2.amazonaws.com",
-      "consecutive_negative_checks": 0,
-      "ever_validated": true,
-      "expired_at": null,
-      "first_seen": "2026-08-22T17:40:12Z",
-      "hostname": "venkman.cluster.us-west-2.prod.cloud.netflix.com",
-      "ipv4": [
-        "3.15.91.90",
-        "3.131.81.23",
-        "3.131.250.78",
-        "3.131.252.91",
         "3.132.172.84",
         "3.133.172.165",
-        "3.133.239.80",
+        "3.214.91.176",
+        "3.219.54.248",
         "18.119.26.28",
-        "18.221.239.141"
+        "18.221.239.141",
+        "52.87.23.187"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -23907,6 +23809,66 @@
             "3.132.172.84",
             "3.133.172.165",
             "18.119.26.28"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "apiproxy-device-prod-nlb-2-300c995e1ce8a001.elb.us-east-1.amazonaws.com",
+          "ipv4": [
+            "3.214.91.176",
+            "3.219.54.248",
+            "52.87.23.187"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "netflix-core:netflix.com"
+      ],
+      "status": "active"
+    },
+    "venkman.cluster.us-west-2.prod.cloud.netflix.com": {
+      "canonical_name": "apiproxy-device-prod-nlb-1-2dea7573db70d8ec.elb.us-east-2.amazonaws.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-22T17:40:12Z",
+      "hostname": "venkman.cluster.us-west-2.prod.cloud.netflix.com",
+      "ipv4": [
+        "3.15.91.90",
+        "3.131.81.23",
+        "3.131.250.78",
+        "3.131.252.91",
+        "3.133.239.80",
+        "18.221.239.141"
+      ],
+      "last_check": "2026-10-01T02:12:29Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-10-01T02:12:29Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "policy_excluded_at": null,
+      "policy_reason": null,
+      "policy_rule": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "apiproxy-device-prod-nlb-1-2dea7573db70d8ec.elb.us-east-2.amazonaws.com",
+          "ipv4": [
+            "3.15.91.90",
+            "3.131.250.78",
+            "18.221.239.141"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "apiproxy-device-prod-nlb-1-2dea7573db70d8ec.elb.us-east-2.amazonaws.com",
+          "ipv4": [
+            "3.15.91.90",
+            "3.131.250.78",
+            "18.221.239.141"
           ],
           "status": "OK"
         },
@@ -23938,10 +23900,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -24073,10 +24035,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -24186,12 +24148,12 @@
       "first_seen": "2026-08-21T08:09:29Z",
       "hostname": "ws.push.staging.netflix.com",
       "ipv4": [
-        "18.221.171.43"
+        "3.137.55.158"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -24202,21 +24164,21 @@
         "1.1.1.1": {
           "canonical_name": "pushy-staging-1-0233c113a8cdb86c.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "18.221.171.43"
+            "3.137.55.158"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "pushy-staging-1-0233c113a8cdb86c.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "18.221.171.43"
+            "3.137.55.158"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "pushy-staging-1-0233c113a8cdb86c.elb.us-east-2.amazonaws.com",
           "ipv4": [
-            "18.221.171.43"
+            "3.137.55.158"
           ],
           "status": "OK"
         }
@@ -24239,10 +24201,10 @@
         "34.194.215.122",
         "54.91.223.156"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -24296,10 +24258,10 @@
         "34.194.215.122",
         "54.91.223.156"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -24353,10 +24315,10 @@
         "54.173.135.179",
         "54.210.27.211"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -24410,10 +24372,10 @@
         "54.173.135.179",
         "54.210.27.211"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -24467,10 +24429,10 @@
         "54.173.135.179",
         "54.210.27.211"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -24524,10 +24486,10 @@
         "54.145.90.155",
         "54.235.153.250"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -24580,10 +24542,10 @@
         "207.45.72.1",
         "207.45.73.1"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -24635,10 +24597,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": null,
@@ -24731,10 +24693,10 @@
         "107.20.175.192",
         "204.236.236.127"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:57:31Z",
@@ -24906,10 +24868,10 @@
         "52.71.51.60",
         "52.73.126.208"
       ],
-      "last_check": "2026-09-30T21:27:04Z",
+      "last_check": "2026-10-01T02:12:29Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-09-30T21:27:04Z",
+      "last_success": "2026-10-01T02:12:29Z",
       "negative_observations": 0,
       "negative_since": null,
       "policy_excluded_at": "2026-08-23T15:43:59Z",
@@ -25030,6 +24992,6 @@
       "status": "expired"
     }
   },
-  "updated_at": "2026-09-30T21:27:04Z",
+  "updated_at": "2026-10-01T02:12:29Z",
   "version": 2
 }
