@@ -32,7 +32,6 @@ apis.netflix.com
 artifacts.netflix.com
 assetqc.backlot.netflix.com
 beholder-api.dta.netflix.com
-billdesk-sihub-encryption-test.netflix.com
 billdesk-sihub-encryption.netflix.com
 billdesk-sihub-signature-prod.netflix.com
 blesk.netflix.com

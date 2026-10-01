@@ -10,6 +10,7 @@ assetqcd.test.netflix.com
 assetqct.test.netflix.com
 beacon.test.netflix.com
 beehiveui2t.test.netflix.com
+billdesk-sihub-encryption-test.netflix.com
 billdesk-sihub-signature-test.netflix.com
 cbp-eu.nccp.test.netflix.com
 cbp-us.nccp.test.netflix.com
