@@ -167,7 +167,6 @@ testcamper.netflix.com
 testplan.dta.netflix.com
 thesecret.corp.netflix.com
 thrifty20.netflix.com
-utpublish.dta.netflix.com
 v6.eu-west-1.probnik.netflix.com
 v6.us-east-1.probnik.netflix.com
 v6.us-west-2.probnik.netflix.com
