@@ -54,8 +54,6 @@ cbp-eu.nccp.netflix.com
 cbp-us.nccp.netflix.com
 cbp.nccp.netflix.com
 cdn.nxtgms.netflix.com
-cdn.sand.nxtgms.netflix.com
-cdn.tech.nxtgms.netflix.com
 codecov.dta.netflix.com
 confluence.corp.netflix.com
 copyrightenforcement.netflix.com
@@ -141,7 +139,6 @@ pulse-design-tech.prototypes.netflix.com
 push.prod.us-east-2.netflix.com
 push.test.netflix.com
 ramius.netflix.com
-raven-dev.netflix.com
 sand.nxtgms.netflix.com
 scene-stream.prototypes.netflix.com
 schedule.dta.netflix.com
