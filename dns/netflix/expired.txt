@@ -29,7 +29,6 @@ api-nodequark.test.netflix.com
 api-staging-internal.netflix.com
 api-us.netflix.com
 apis.netflix.com
-artifacts.netflix.com
 assetqc.backlot.netflix.com
 beholder-api.dta.netflix.com
 billdesk-sihub-encryption.netflix.com
@@ -97,7 +96,6 @@ logging.netflix.com
 logparser.dta.netflix.com
 logshredder.dta.netflix.com
 mcrmanifestgen.netflix.com
-mgkverifytest.security.netflix.com
 microstrategyapi.netflix.com
 microstrategydevapi.netflix.com
 mopro-torrent-server.dta.netflix.com

@@ -38,6 +38,7 @@ id.test.netflix.com
 irot.test.netflix.com
 logs.staging.netflix.com
 logs.test.netflix.com
+mgkverifytest.security.netflix.com
 monet.test.netflix.com
 nbc.test.netflix.com
 nm.push.prod.eu-west-1.internal.dradis.netflix.com
