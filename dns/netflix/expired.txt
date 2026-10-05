@@ -14,7 +14,6 @@ ads.netflix.com
 advertising.staging.netflix.com
 aidsvc.netflix.com
 aidsvc.test.netflix.com
-ajay-test-app.netflix.com
 alert.dta.netflix.com
 alertprocessor.dta.netflix.com
 android-appboot.test.netflix.com

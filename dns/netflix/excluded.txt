@@ -1,6 +1,7 @@
 ads.test.netflix.com
 adstr.test.netflix.com
 advertising.test.netflix.com
+ajay-test-app.netflix.com
 android-appboot-staging.netflix.com
 api-us.test.netflix.com
 api-useast-test.netflix.com
