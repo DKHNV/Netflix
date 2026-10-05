@@ -52,7 +52,6 @@ camper.netflix.com
 cbp-eu.nccp.netflix.com
 cbp-us.nccp.netflix.com
 cbp.nccp.netflix.com
-cdn.nxtgms.netflix.com
 codecov.dta.netflix.com
 confluence.corp.netflix.com
 copyrightenforcement.netflix.com
@@ -160,7 +159,6 @@ tenfootui.cast.netflix.com
 tenfootui.netflix.com
 testcamper.netflix.com
 testplan.dta.netflix.com
-thesecret.corp.netflix.com
 thrifty20.netflix.com
 v6.eu-west-1.probnik.netflix.com
 v6.us-east-1.probnik.netflix.com
