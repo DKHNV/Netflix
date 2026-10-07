@@ -165,7 +165,6 @@ v6.us-west-2.probnik.netflix.com
 venkman.cluster.us-east-1.prod.cloud.netflix.com
 venkman.cluster.us-east-1.test.cloud.netflix.com
 wdintegrations.netflix.com
-wdintegrationsdev.netflix.com
 ws.push.sandbox.netflix.com
 www1.netflix.com
 www2.netflix.com
