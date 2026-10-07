@@ -10,7 +10,6 @@ adc-uswest2-2a2.corp.netflix.com
 adc-uswest2-2b1.corp.netflix.com
 adc-uswest2-2b2.corp.netflix.com
 adldap.itp.netflix.com
-ads.netflix.com
 advertising.staging.netflix.com
 aidsvc.netflix.com
 aidsvc.test.netflix.com
@@ -55,14 +54,10 @@ codecov.dta.netflix.com
 copyrightenforcement.netflix.com
 copyrightenforcement.test.netflix.com
 design-tech-real-data.prototypes.netflix.com
-dev-npp-internal.netflix.com
 dnajs.prod.netflix.com
 dnajs.test.netflix.com
 dtatestdispatcher.dta.netflix.com
 ec2types.test.netflix.com
-egon-wildcard.netflix.com
-egon.netflix.com
-egon.test.netflix.com
 euwest.obiwan.netflix.com
 foggy.netflix.com
 gaas-scar.test.netflix.com
@@ -83,8 +78,6 @@ ios.gameboot.netflix.com
 live-proto-tv.prototypes.netflix.com
 local.dta.netflix.com
 logging.netflix.com
-microstrategyapi.netflix.com
-microstrategydevapi.netflix.com
 muse.netflix.com
 nbc.prod.netflix.com
 netcertlab01.corp.netflix.com
@@ -98,7 +91,6 @@ nm.push.staging.us-west-2.internal.dradis.netflix.com
 nm.push.staging.us-west-2.netflix.com
 nm.push.test.netflix.com
 notifications.netflix.com
-npp-internal.netflix.com
 nrdp.corp.netflix.com
 nrdp.staging.netflix.com
 nrdpcrash.dta.netflix.com
@@ -117,7 +109,6 @@ prototypes.netflix.com
 pulse-design-tech.prototypes.netflix.com
 push.prod.us-east-2.netflix.com
 push.test.netflix.com
-ramius.netflix.com
 sand.nxtgms.netflix.com
 scene-stream.prototypes.netflix.com
 schedule.dta.netflix.com
@@ -125,16 +116,8 @@ screeningplayerd.test.netflix.com
 sctweb-old.netflix.com
 sn.netflix.com
 sourcegraph.netflix.com
-staging-npp-internal.netflix.com
-stash.corp.netflix.com
-stash.netflix.com
-stitch.dta.netflix.com
-subtools-prod.netflix.com
-subtools-sandbox.netflix.com
-subtools-test.netflix.com
 sue.dta.netflix.com
 tech.nxtgms.netflix.com
-tenfootui.cast.netflix.com
 tenfootui.netflix.com
 testcamper.netflix.com
 testplan.dta.netflix.com
@@ -144,7 +127,6 @@ v6.us-east-1.probnik.netflix.com
 v6.us-west-2.probnik.netflix.com
 venkman.cluster.us-east-1.prod.cloud.netflix.com
 venkman.cluster.us-east-1.test.cloud.netflix.com
-wdintegrations.netflix.com
 ws.push.sandbox.netflix.com
 www1.netflix.com
 www2.netflix.com

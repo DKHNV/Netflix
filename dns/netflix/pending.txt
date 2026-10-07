@@ -1,5 +1,15 @@
+ads.netflix.com
 cdn.nxtgms.netflix.com
+egon-wildcard.netflix.com
+egon.netflix.com
 mcrmanifestgen.netflix.com
+microstrategyapi.netflix.com
 mriserver.netflix.com
 nhegdefirstdeploy.netflix.com
+npp-internal.netflix.com
+ramius.netflix.com
 siteops.prod.netflix.com
+stash.netflix.com
+subtools-prod.netflix.com
+tenfootui.cast.netflix.com
+wdintegrations.netflix.com

@@ -12,7 +12,6 @@ assetqct.test.netflix.com
 beacon.test.netflix.com
 beehiveui2t.test.netflix.com
 billdesk-sihub-encryption-test.netflix.com
-billdesk-sihub-signature-test.netflix.com
 cbp-eu.nccp.test.netflix.com
 cbp-us.nccp.test.netflix.com
 cbp.nccp.test.netflix.com
@@ -23,12 +22,14 @@ control.tls.develop.test.cloud.netflix.com
 csi.dta.netflix.com
 customerevents.test.netflix.com
 customereventsqa.netflix.com
+dev-npp-internal.netflix.com
 dev-npp.netflix.com
 develop-int.test.netflix.com
 develop-stage.netflix.com
 develop.staging.ssic.netflix.com
 dexters.test.netflix.com
 dextert.test.netflix.com
+egon.test.netflix.com
 embed.develop-stage.netflix.com
 embed.release-stage.netflix.com
 eworley-tls-curve-validation.test.cloud.netflix.com
@@ -50,6 +51,7 @@ logs.staging.netflix.com
 logs.test.netflix.com
 logshredder.dta.netflix.com
 mgkverifytest.security.netflix.com
+microstrategydevapi.netflix.com
 monet.test.netflix.com
 mopro-torrent-server.dta.netflix.com
 nbc.test.netflix.com
@@ -101,7 +103,12 @@ siteops-develop.test.netflix.com
 siteops.test.netflix.com
 slmprovisioner.test.netflix.com
 spetools.test.netflix.com
+staging-npp-internal.netflix.com
 staging-npp.netflix.com
+stash.corp.netflix.com
+stitch.dta.netflix.com
+subtools-sandbox.netflix.com
+subtools-test.netflix.com
 test.deeplink.netflix.com
 test.games.netflix.com
 test.security.netflix.com
