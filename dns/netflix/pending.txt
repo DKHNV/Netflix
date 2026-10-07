@@ -1,2 +1,5 @@
-artifacts.netflix.com
 cdn.nxtgms.netflix.com
+mcrmanifestgen.netflix.com
+mriserver.netflix.com
+nhegdefirstdeploy.netflix.com
+siteops.prod.netflix.com

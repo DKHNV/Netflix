@@ -1,2 +1,3 @@
+artifacts.netflix.com
 cdn.sand.nxtgms.netflix.com
 cdn.tech.nxtgms.netflix.com
