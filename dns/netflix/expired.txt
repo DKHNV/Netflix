@@ -23,7 +23,6 @@ api-int-internal.test.netflix.com
 api-internal.netflix.com
 api-internal.test.netflix.com
 api-latam.netflix.com
-api-nodequark.test.netflix.com
 api-staging-internal.netflix.com
 api-us.netflix.com
 apis.netflix.com
@@ -89,7 +88,6 @@ nm.push.staging.us-east-2.internal.dradis.netflix.com
 nm.push.staging.us-east-2.netflix.com
 nm.push.staging.us-west-2.internal.dradis.netflix.com
 nm.push.staging.us-west-2.netflix.com
-nm.push.test.netflix.com
 notifications.netflix.com
 nrdp.corp.netflix.com
 nrdp.staging.netflix.com

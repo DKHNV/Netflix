@@ -3,6 +3,7 @@ adstr.test.netflix.com
 advertising.test.netflix.com
 ajay-test-app.netflix.com
 android-appboot-staging.netflix.com
+api-nodequark.test.netflix.com
 api-us.test.netflix.com
 api-useast-test.netflix.com
 api.test.netflix.com
@@ -61,6 +62,7 @@ nm.push.prod.us-east-2.internal.dradis.netflix.com
 nm.push.prod.us-west-2.internal.dradis.netflix.com
 nm.push.sandbox.netflix.com
 nm.push.staging.netflix.com
+nm.push.test.netflix.com
 nmtracking.test.netflix.com
 ntag.staging.netflix.com
 ntag.test.netflix.com
