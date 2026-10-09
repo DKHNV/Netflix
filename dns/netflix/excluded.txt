@@ -117,7 +117,6 @@ thesecret.corp.netflix.com
 tls.develop.test.cloud.netflix.com
 tlscontrol.develop.test.cloud.netflix.com
 turbot.test.netflix.com
-utpublish.dta.netflix.com
 wdintegrationsdev.netflix.com
 ws.push.staging.netflix.com
 ws.push.test.netflix.com

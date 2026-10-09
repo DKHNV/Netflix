@@ -1,2 +1,3 @@
 billdesk-sihub-encryption-test.netflix.com
 billdesk-sihub-signature-test.netflix.com
+utpublish.dta.netflix.com
