@@ -1,3 +1,6 @@
 billdesk-sihub-encryption-test.netflix.com
 billdesk-sihub-signature-test.netflix.com
+cdn.sand.nxtgms.netflix.com
+cdn.tech.nxtgms.netflix.com
+raven-dev.netflix.com
 utpublish.dta.netflix.com
