@@ -68,7 +68,6 @@ helpqa.test.netflix.com
 hopper-mobile.prototypes.netflix.com
 hopper-stream.prototypes.netflix.com
 htmltvui.netflix.com
-identity.staging.netflix.com
 identity.test.netflix.com
 instantgames.netflix.com
 interactive-discovery.prototypes.netflix.com

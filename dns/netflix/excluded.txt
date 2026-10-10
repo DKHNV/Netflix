@@ -44,6 +44,7 @@ ichnaea.staging.netflix.com
 ichnaea.test.netflix.com
 id.staging.netflix.com
 id.test.netflix.com
+identity.staging.netflix.com
 irot.test.netflix.com
 jira.corp.netflix.com
 logparser.dta.netflix.com
