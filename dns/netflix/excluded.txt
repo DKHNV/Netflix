@@ -51,7 +51,6 @@ logparser.dta.netflix.com
 logs.staging.netflix.com
 logs.test.netflix.com
 logshredder.dta.netflix.com
-mgkverifytest.security.netflix.com
 microstrategydevapi.netflix.com
 monet.test.netflix.com
 mopro-torrent-server.dta.netflix.com
