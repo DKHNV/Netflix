@@ -1,5 +1,4 @@
 ads.netflix.com
-cdn.nxtgms.netflix.com
 egon-wildcard.netflix.com
 egon.netflix.com
 mcrmanifestgen.netflix.com
