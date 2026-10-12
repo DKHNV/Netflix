@@ -1,4 +1,3 @@
-ablaze-beta.prod.netflix.com
 ablaze.prod.netflix.com
 ablaze.test.netflix.com
 adc-useast1-1c1.corp.netflix.com
@@ -101,7 +100,6 @@ oldobi-sgt.netflix.com
 pay-helix.netflix.com
 prehire-stage.netflix.com
 prod.deeplink.netflix.com
-prototypes.netflix.com
 pulse-design-tech.prototypes.netflix.com
 push.prod.us-east-2.netflix.com
 push.test.netflix.com
