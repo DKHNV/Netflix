@@ -32,6 +32,7 @@ egon.test.netflix.com
 embed.develop-stage.netflix.com
 embed.release-stage.netflix.com
 eworley-tls-curve-validation.test.cloud.netflix.com
+gaas-scar.test.netflix.com
 graphit.dta.netflix.com
 handler.dta.netflix.com
 help.stage.netflix.com
