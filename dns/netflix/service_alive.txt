@@ -105,6 +105,7 @@ nrdp.ws.netflix.com
 nrdp.ws.swiss.netflix.com
 nrdpbuilds.netflix.com
 ntag-assets.dev.netflix.com
+ntag-assets.prod.netflix.com
 nutshell.netflix.com
 obelix.netflix.com
 oca-api-3rbal.netflix.com
