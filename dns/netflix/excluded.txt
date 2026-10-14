@@ -110,12 +110,14 @@ stash.corp.netflix.com
 stitch.dta.netflix.com
 subtools-sandbox.netflix.com
 subtools-test.netflix.com
+sue.dta.netflix.com
 test.deeplink.netflix.com
 test.games.netflix.com
 test.security.netflix.com
 tls.develop.test.cloud.netflix.com
 tlscontrol.develop.test.cloud.netflix.com
 turbot.test.netflix.com
+venkman.cluster.us-east-1.test.cloud.netflix.com
 wdintegrationsdev.netflix.com
 ws.push.staging.netflix.com
 ws.push.test.netflix.com
