@@ -117,7 +117,6 @@ thrifty20.netflix.com
 v6.eu-west-1.probnik.netflix.com
 v6.us-east-1.probnik.netflix.com
 v6.us-west-2.probnik.netflix.com
-venkman.cluster.us-east-1.prod.cloud.netflix.com
 ws.push.sandbox.netflix.com
 www1.netflix.com
 www2.netflix.com
