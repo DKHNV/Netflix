@@ -1,11 +1,1 @@
-ads.netflix.com
-egon-wildcard.netflix.com
-egon.netflix.com
 identity.prod.netflix.com
-microstrategyapi.netflix.com
-npp-internal.netflix.com
-ramius.netflix.com
-stash.netflix.com
-subtools-prod.netflix.com
-tenfootui.cast.netflix.com
-wdintegrations.netflix.com

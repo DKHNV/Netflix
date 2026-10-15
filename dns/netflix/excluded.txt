@@ -27,14 +27,12 @@ cms.obiwan.test.netflix.com
 control.tls.develop.test.cloud.netflix.com
 customerevents.test.netflix.com
 customereventsqa.netflix.com
-dev-npp-internal.netflix.com
 dev-npp.netflix.com
 develop-int.test.netflix.com
 develop-stage.netflix.com
 develop.staging.ssic.netflix.com
 dexters.test.netflix.com
 dextert.test.netflix.com
-egon.test.netflix.com
 embed.develop-stage.netflix.com
 embed.release-stage.netflix.com
 eworley-tls-curve-validation.test.cloud.netflix.com
@@ -50,7 +48,6 @@ identity.test.netflix.com
 irot.test.netflix.com
 logs.staging.netflix.com
 logs.test.netflix.com
-microstrategydevapi.netflix.com
 monet.test.netflix.com
 nbc.test.netflix.com
 nm.push.prod.eu-west-1.internal.dradis.netflix.com
@@ -97,12 +94,7 @@ sgw.stagingb.cloud.netflix.com
 sharkboot.test.netflix.com
 slmprovisioner.test.netflix.com
 spetools.test.netflix.com
-staging-npp-internal.netflix.com
 staging-npp.netflix.com
-stash.corp.netflix.com
-stitch.dta.netflix.com
-subtools-sandbox.netflix.com
-subtools-test.netflix.com
 sue.dta.netflix.com
 test.deeplink.netflix.com
 test.games.netflix.com
