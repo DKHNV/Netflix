@@ -61,10 +61,8 @@ instantgames.netflix.com
 interactive-discovery.prototypes.netflix.com
 ios.gameboot.netflix.com
 live-proto-tv.prototypes.netflix.com
-local.dta.netflix.com
 logging.netflix.com
 muse.netflix.com
-nbc.prod.netflix.com
 netcertlab01.corp.netflix.com
 nm.push.staging.eu-west-1.internal.dradis.netflix.com
 nm.push.staging.eu-west-1.netflix.com
@@ -84,12 +82,10 @@ oca-api-4r05pct.netflix.com
 oca-api-4r1pct.netflix.com
 oca-api-4r2pct.netflix.com
 oca-api-4region.netflix.com
-oca-api.us-east-2.prodaa.netflix.com
 oldobi-sgt.netflix.com
 pay-helix.netflix.com
 prehire-stage.netflix.com
 prod.deeplink.netflix.com
-pulse-design-tech.prototypes.netflix.com
 push.prod.us-east-2.netflix.com
 push.test.netflix.com
 sand.nxtgms.netflix.com
