@@ -18,6 +18,7 @@ handler.dta.netflix.com
 hoa-api.dta.netflix.com
 hoc.dta.netflix.com
 hoke-api.dta.netflix.com
+identity.prod.netflix.com
 jira.corp.netflix.com
 logparser.dta.netflix.com
 logshredder.dta.netflix.com
