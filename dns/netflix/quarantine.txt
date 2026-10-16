@@ -1,5 +1,6 @@
 ads.netflix.com
 ajay-test-app.netflix.com
+api-nodequark.test.netflix.com
 artifacts.netflix.com
 billdesk-sihub-encryption-test.netflix.com
 billdesk-sihub-signature-test.netflix.com
@@ -28,6 +29,7 @@ mopro-torrent-server.dta.netflix.com
 mriserver.netflix.com
 nhegdefirstdeploy.netflix.com
 nimbus-api.dta.netflix.com
+nm.push.test.netflix.com
 npp-internal.netflix.com
 origin-sod.test.netflix.com
 promotion.dta.netflix.com
