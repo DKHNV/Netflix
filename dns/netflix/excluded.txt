@@ -42,7 +42,6 @@ ichnaea.staging.netflix.com
 ichnaea.test.netflix.com
 id.staging.netflix.com
 id.test.netflix.com
-identity.staging.netflix.com
 identity.test.netflix.com
 irot.test.netflix.com
 local.dta.netflix.com
