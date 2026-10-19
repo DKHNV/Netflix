@@ -59,6 +59,7 @@ nm.push.staging.netflix.com
 nmtracking.test.netflix.com
 ntag.staging.netflix.com
 ntag.test.netflix.com
+nts-cert-testcontent-test.nrd.netflix.com
 obelixd.test.netflix.com
 obelixt.test.netflix.com
 obiwan.stage.netflix.com
