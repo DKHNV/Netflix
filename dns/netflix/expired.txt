@@ -94,7 +94,6 @@ sctweb-old.netflix.com
 sn.netflix.com
 sourcegraph.netflix.com
 tech.nxtgms.netflix.com
-tenfootui.netflix.com
 testcamper.netflix.com
 testplan.dta.netflix.com
 thrifty20.netflix.com
