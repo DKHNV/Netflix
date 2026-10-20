@@ -72,7 +72,6 @@ opstools.obiwan.stage.netflix.com
 partnerapi.sandbox.netflix.com
 partnerapi.test.netflix.com
 presentationtracking.test.netflix.com
-prototypes.netflix.com
 pulse-design-tech.prototypes.netflix.com
 push.prod.eu-west-1.internal.dradis.netflix.com
 push.prod.us-east-1.internal.dradis.netflix.com

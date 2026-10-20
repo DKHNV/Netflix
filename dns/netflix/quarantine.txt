@@ -1,3 +1,4 @@
+ablaze-beta.prod.netflix.com
 ads.netflix.com
 ajay-test-app.netflix.com
 api-nodequark.test.netflix.com
@@ -35,6 +36,7 @@ nm.push.test.netflix.com
 npp-internal.netflix.com
 origin-sod.test.netflix.com
 promotion.dta.netflix.com
+prototypes.netflix.com
 ramius.netflix.com
 raven-dev.netflix.com
 siteops-develop.test.netflix.com
