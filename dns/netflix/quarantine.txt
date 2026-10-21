@@ -54,6 +54,7 @@ sue.dta.netflix.com
 tenfootui.cast.netflix.com
 thesecret.corp.netflix.com
 utpublish.dta.netflix.com
+venkman.cluster.us-east-1.prod.cloud.netflix.com
 venkman.cluster.us-east-1.test.cloud.netflix.com
 wdintegrations.netflix.com
 wdintegrationsdev.netflix.com
