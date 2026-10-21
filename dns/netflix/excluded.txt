@@ -94,14 +94,12 @@ sharkboot.test.netflix.com
 slmprovisioner.test.netflix.com
 spetools.test.netflix.com
 staging-npp.netflix.com
-sue.dta.netflix.com
 test.deeplink.netflix.com
 test.games.netflix.com
 test.security.netflix.com
 tls.develop.test.cloud.netflix.com
 tlscontrol.develop.test.cloud.netflix.com
 turbot.test.netflix.com
-venkman.cluster.us-east-1.test.cloud.netflix.com
 ws.push.staging.netflix.com
 ws.push.test.netflix.com
 ws.test.netflix.com
