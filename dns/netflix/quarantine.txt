@@ -1,4 +1,13 @@
 ablaze-beta.prod.netflix.com
+adc-useast1-1c1.corp.netflix.com
+adc-useast1-1c2.corp.netflix.com
+adc-useast1-1d1.corp.netflix.com
+adc-useast1-1d2.corp.netflix.com
+adc-uswest2-2a1.corp.netflix.com
+adc-uswest2-2a2.corp.netflix.com
+adc-uswest2-2b1.corp.netflix.com
+adc-uswest2-2b2.corp.netflix.com
+adldap.itp.netflix.com
 ads.netflix.com
 ajay-test-app.netflix.com
 api-nodequark.test.netflix.com
@@ -22,6 +31,7 @@ hoc.dta.netflix.com
 hoke-api.dta.netflix.com
 identity.prod.netflix.com
 identity.staging.netflix.com
+identity.test.netflix.com
 jira.corp.netflix.com
 logparser.dta.netflix.com
 logshredder.dta.netflix.com

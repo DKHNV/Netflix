@@ -1,11 +1,3 @@
-adc-useast1-1c1.corp.netflix.com
-adc-useast1-1c2.corp.netflix.com
-adc-useast1-1d1.corp.netflix.com
-adc-useast1-1d2.corp.netflix.com
-adc-uswest2-2a1.corp.netflix.com
-adc-uswest2-2a2.corp.netflix.com
-adc-uswest2-2b1.corp.netflix.com
-adc-uswest2-2b2.corp.netflix.com
 ads.test.netflix.com
 adstr.test.netflix.com
 advertising.test.netflix.com
@@ -42,7 +34,6 @@ ichnaea.staging.netflix.com
 ichnaea.test.netflix.com
 id.staging.netflix.com
 id.test.netflix.com
-identity.test.netflix.com
 irot.test.netflix.com
 local.dta.netflix.com
 logs.staging.netflix.com
