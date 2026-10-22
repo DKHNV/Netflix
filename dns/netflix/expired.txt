@@ -1,8 +1,6 @@
 ablaze.prod.netflix.com
 ablaze.test.netflix.com
 advertising.staging.netflix.com
-aidsvc.netflix.com
-aidsvc.test.netflix.com
 alertprocessor.dta.netflix.com
 android-appboot.test.netflix.com
 android.gameboot.netflix.com
@@ -11,7 +9,6 @@ api-internal.netflix.com
 api-internal.test.netflix.com
 api-staging-internal.netflix.com
 apis.netflix.com
-assetqc.backlot.netflix.com
 beholder-api.dta.netflix.com
 billdesk-sihub-encryption.netflix.com
 billdesk-sihub-signature-prod.netflix.com
@@ -28,19 +25,13 @@ c02.tech.nxtgms.netflix.com
 c4.eu-west-1.prod.netflix.com
 c4.us-east-1.prod.netflix.com
 c4.us-west-2.prod.netflix.com
-ca.netflix.com
-cbp-eu.nccp.netflix.com
-cbp-us.nccp.netflix.com
-cbp.nccp.netflix.com
 codecov.dta.netflix.com
 dtatestdispatcher.dta.netflix.com
-euwest.obiwan.netflix.com
 helix-prod-202510-202610.netflix.com
 help.test.netflix.com
 helpd.test.netflix.com
 helpqa.test.netflix.com
 hopper-mobile.prototypes.netflix.com
-instantgames.netflix.com
 interactive-discovery.prototypes.netflix.com
 ios.gameboot.netflix.com
 live-proto-tv.prototypes.netflix.com
@@ -66,10 +57,8 @@ oca-api-4r2pct.netflix.com
 oca-api-4region.netflix.com
 pay-helix.netflix.com
 prod.deeplink.netflix.com
-push.prod.us-east-2.netflix.com
 push.test.netflix.com
 sand.nxtgms.netflix.com
-scene-stream.prototypes.netflix.com
 schedule.dta.netflix.com
 screeningplayerd.test.netflix.com
 sn.netflix.com
@@ -82,8 +71,4 @@ v6.eu-west-1.probnik.netflix.com
 v6.us-east-1.probnik.netflix.com
 v6.us-west-2.probnik.netflix.com
 ws.push.sandbox.netflix.com
-www1.netflix.com
-www2.netflix.com
-www3.netflix.com
 wwws.netflix.com
-yellow2admin-test.netflix.com
