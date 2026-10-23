@@ -1,2 +1,1 @@
-nbc.prod.netflix.com
-oca-api.us-east-2.prodaa.netflix.com
+tenfootui.netflix.com

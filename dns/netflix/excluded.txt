@@ -42,7 +42,6 @@ ichnaea.test.netflix.com
 id.staging.netflix.com
 id.test.netflix.com
 irot.test.netflix.com
-local.dta.netflix.com
 logs.staging.netflix.com
 logs.test.netflix.com
 monet.test.netflix.com
@@ -70,7 +69,6 @@ partnerapi.sandbox.netflix.com
 partnerapi.test.netflix.com
 prehire-stage.netflix.com
 presentationtracking.test.netflix.com
-pulse-design-tech.prototypes.netflix.com
 push.prod.eu-west-1.internal.dradis.netflix.com
 push.prod.us-east-1.internal.dradis.netflix.com
 push.prod.us-east-2.internal.dradis.netflix.com
