@@ -12,7 +12,6 @@ apis.netflix.com
 beholder-api.dta.netflix.com
 billdesk-sihub-encryption.netflix.com
 billdesk-sihub-signature-prod.netflix.com
-bob-api.dta.netflix.com
 c00.nxtgms.netflix.com
 c00.sand.nxtgms.netflix.com
 c00.tech.nxtgms.netflix.com
@@ -61,7 +60,6 @@ push.test.netflix.com
 sand.nxtgms.netflix.com
 schedule.dta.netflix.com
 screeningplayerd.test.netflix.com
-sn.netflix.com
 sourcegraph.netflix.com
 tech.nxtgms.netflix.com
 testcamper.netflix.com

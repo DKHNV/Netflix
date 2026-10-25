@@ -24,6 +24,7 @@ egon-wildcard.netflix.com
 egon.netflix.com
 egon.test.netflix.com
 gaas-scar.test.netflix.com
+gotest.netflix.com
 graphit.dta.netflix.com
 handler.dta.netflix.com
 hoa-api.dta.netflix.com
