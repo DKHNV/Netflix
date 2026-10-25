@@ -1,1 +1,14 @@
+api-eu.netflix.com
+api-global-prefix.netflix.com
+api-latam.netflix.com
+api-us.netflix.com
+blesk.netflix.com
+camper.netflix.com
+copyrightenforcement.netflix.com
+dnajs.prod.netflix.com
+foggy.netflix.com
+htmltvui.netflix.com
+oldobi-sgt.netflix.com
+sctweb-old.netflix.com
 tenfootui.netflix.com
+yellow2admin-prod.netflix.com
