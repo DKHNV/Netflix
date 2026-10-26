@@ -48,6 +48,7 @@ nhegdefirstdeploy.netflix.com
 nimbus-api.dta.netflix.com
 nm.push.test.netflix.com
 npp-internal.netflix.com
+nts-cert-testcontent-test.nrd.netflix.com
 oca-api.us-east-2.prodaa.netflix.com
 origin-sod.test.netflix.com
 promotion.dta.netflix.com

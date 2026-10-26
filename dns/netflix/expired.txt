@@ -24,7 +24,6 @@ c02.tech.nxtgms.netflix.com
 c4.eu-west-1.prod.netflix.com
 c4.us-east-1.prod.netflix.com
 c4.us-west-2.prod.netflix.com
-codecov.dta.netflix.com
 dtatestdispatcher.dta.netflix.com
 helix-prod-202510-202610.netflix.com
 help.test.netflix.com
@@ -63,7 +62,6 @@ screeningplayerd.test.netflix.com
 sourcegraph.netflix.com
 tech.nxtgms.netflix.com
 testcamper.netflix.com
-testplan.dta.netflix.com
 thrifty20.netflix.com
 v6.eu-west-1.probnik.netflix.com
 v6.us-east-1.probnik.netflix.com
