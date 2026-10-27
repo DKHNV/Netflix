@@ -54,6 +54,7 @@ nm.push.prod.us-west-2.internal.dradis.netflix.com
 nm.push.sandbox.netflix.com
 nm.push.staging.netflix.com
 nmtracking.test.netflix.com
+nrdp.staging.netflix.com
 ntag.staging.netflix.com
 ntag.test.netflix.com
 obelixd.test.netflix.com
@@ -85,6 +86,7 @@ release-stage.netflix.com
 release.staging.ssic.netflix.com
 request.irot.test.netflix.com
 scene-stream.prototypes.netflix.com
+schedule.dta.netflix.com
 screeningplayert.test.netflix.com
 sgw.staginga.cloud.netflix.com
 sgw.stagingb.cloud.netflix.com
