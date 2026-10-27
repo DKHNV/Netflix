@@ -68,6 +68,7 @@ subtools-sandbox.netflix.com
 subtools-test.netflix.com
 sue.dta.netflix.com
 tenfootui.cast.netflix.com
+tenfootui.netflix.com
 thesecret.corp.netflix.com
 utpublish.dta.netflix.com
 venkman.cluster.us-east-1.prod.cloud.netflix.com
