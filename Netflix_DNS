@@ -147,6 +147,7 @@ public.appboot.netflix.com
 push.prod.eu-west-1.netflix.com
 push.prod.netflix.com
 push.prod.us-east-1.netflix.com
+push.prod.us-east-2.netflix.com
 push.prod.us-west-2.netflix.com
 qc.netflix.com
 qr.netflix.com

@@ -17,8 +17,8 @@ foggy.netflix.com
 htmltvui.netflix.com
 instantgames.netflix.com
 oldobi-sgt.netflix.com
-push.prod.us-east-2.netflix.com
 sctweb-old.netflix.com
+sn.netflix.com
 www1.netflix.com
 www2.netflix.com
 www3.netflix.com
