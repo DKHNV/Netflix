@@ -51,7 +51,6 @@ nxtgms.netflix.com
 oca-api-4r05pct.netflix.com
 oca-api-4r1pct.netflix.com
 oca-api-4r2pct.netflix.com
-oca-api-4region.netflix.com
 pay-helix.netflix.com
 prod.deeplink.netflix.com
 push.test.netflix.com
