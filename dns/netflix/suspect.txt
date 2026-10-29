@@ -1,12 +1,1 @@
-aidsvc.netflix.com
-assetqc.backlot.netflix.com
-ca.netflix.com
-cbp-eu.nccp.netflix.com
-cbp-us.nccp.netflix.com
-cbp.nccp.netflix.com
-euwest.obiwan.netflix.com
-instantgames.netflix.com
 sn.netflix.com
-www1.netflix.com
-www2.netflix.com
-www3.netflix.com

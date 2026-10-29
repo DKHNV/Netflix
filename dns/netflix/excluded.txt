@@ -1,7 +1,6 @@
 ads.test.netflix.com
 adstr.test.netflix.com
 advertising.test.netflix.com
-aidsvc.test.netflix.com
 android-appboot-staging.netflix.com
 api-us.test.netflix.com
 api-useast-test.netflix.com
@@ -78,7 +77,6 @@ release-int.test.netflix.com
 release-stage.netflix.com
 release.staging.ssic.netflix.com
 request.irot.test.netflix.com
-scene-stream.prototypes.netflix.com
 schedule.dta.netflix.com
 screeningplayert.test.netflix.com
 sgw.staginga.cloud.netflix.com
@@ -102,4 +100,3 @@ www-int.test.netflix.com
 www-qa.test.netflix.com
 www2.alpha.netflix.com
 wwws.test.netflix.com
-yellow2admin-test.netflix.com

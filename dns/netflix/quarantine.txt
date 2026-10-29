@@ -9,6 +9,8 @@ adc-uswest2-2b1.corp.netflix.com
 adc-uswest2-2b2.corp.netflix.com
 adldap.itp.netflix.com
 ads.netflix.com
+aidsvc.netflix.com
+aidsvc.test.netflix.com
 ajay-test-app.netflix.com
 alert.dta.netflix.com
 api-eu.netflix.com
@@ -17,10 +19,15 @@ api-latam.netflix.com
 api-nodequark.test.netflix.com
 api-us.netflix.com
 artifacts.netflix.com
+assetqc.backlot.netflix.com
 billdesk-sihub-encryption-test.netflix.com
 billdesk-sihub-signature-test.netflix.com
 blesk.netflix.com
+ca.netflix.com
 camper.netflix.com
+cbp-eu.nccp.netflix.com
+cbp-us.nccp.netflix.com
+cbp.nccp.netflix.com
 cdn.nxtgms.netflix.com
 cdn.sand.nxtgms.netflix.com
 cdn.tech.nxtgms.netflix.com
@@ -36,6 +43,7 @@ ec2types.test.netflix.com
 egon-wildcard.netflix.com
 egon.netflix.com
 egon.test.netflix.com
+euwest.obiwan.netflix.com
 foggy.netflix.com
 gaas-scar.test.netflix.com
 gotest.netflix.com
@@ -49,6 +57,7 @@ htmltvui.netflix.com
 identity.prod.netflix.com
 identity.staging.netflix.com
 identity.test.netflix.com
+instantgames.netflix.com
 jira.corp.netflix.com
 local.dta.netflix.com
 logparser.dta.netflix.com
@@ -74,6 +83,7 @@ prototypes.netflix.com
 pulse-design-tech.prototypes.netflix.com
 ramius.netflix.com
 raven-dev.netflix.com
+scene-stream.prototypes.netflix.com
 sctweb-old.netflix.com
 siteops-develop.test.netflix.com
 siteops.prod.netflix.com
@@ -94,4 +104,8 @@ venkman.cluster.us-east-1.prod.cloud.netflix.com
 venkman.cluster.us-east-1.test.cloud.netflix.com
 wdintegrations.netflix.com
 wdintegrationsdev.netflix.com
+www1.netflix.com
+www2.netflix.com
+www3.netflix.com
 yellow2admin-prod.netflix.com
+yellow2admin-test.netflix.com
