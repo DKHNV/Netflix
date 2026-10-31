@@ -1,6 +1,6 @@
 # Netflix DNS Maintenance Report
 
-Generated: `2026-10-31T12:45:54Z`
+Generated: `2026-10-31T21:42:55Z`
 
 ## DNS lifecycle
 
@@ -41,27 +41,27 @@ Average stability: **91.2%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `api-global.netflix.com` | dead | `2026-08-21T17:49:18Z` | 271 | TLS_CERT_ERROR | 34.208.235.84, 44.236.148.165, 54.189.73.148 | 0.0 | 50 |
-| `api-user.netflix.com` | dead | `2026-08-21T17:49:18Z` | 271 | TLS_CERT_ERROR | 100.28.105.134, 13.216.189.215, 34.208.235.84 | 0.0 | 50 |
-| `api.netflix.com` | dead | `2026-08-21T17:49:18Z` | 271 | TLS_CERT_ERROR | 100.28.105.134, 13.216.189.215, 34.208.235.84 | 0.0 | 50 |
-| `appboot.netflix.com` | dead | `2026-08-21T08:09:29Z` | 273 | TLS_CERT_ERROR | 34.217.204.82, 44.234.6.167, 52.89.219.164 | 0.0 | 50 |
-| `dse.netflix.com` | dead | `2026-08-21T08:09:29Z` | 273 | TLS_ERROR | 18.236.7.30, 34.218.19.240, 44.226.113.145 | 0.0 | 50 |
-| `internationalbenefits.netflix.com` | dead | `2026-08-21T11:46:08Z` | 272 | TLS_ERROR | 18.236.7.30, 34.218.19.240, 44.226.113.145 | 0.0 | 50 |
-| `microstrategy.netflix.com` | dead | `2026-08-21T08:09:29Z` | 273 | TLS_ERROR | 18.236.7.30, 34.218.19.240, 44.226.113.145 | 0.0 | 50 |
-| `microstrategydev.netflix.com` | dead | `2026-08-21T08:09:29Z` | 273 | TLS_ERROR | 18.236.7.30, 34.218.19.240, 44.226.113.145 | 0.0 | 50 |
-| `obiwan.netflix.com` | dead | `2026-08-21T11:46:08Z` | 272 | TIMEOUT | 44.252.221.210, 44.253.81.170, 54.71.10.136 | 0.0 | 50 |
-| `raven.netflix.com` | dead | `2026-08-21T08:09:29Z` | 273 | TLS_ERROR | 18.236.7.30, 34.218.19.240, 44.226.113.145 | 0.0 | 50 |
-| `secure.netflix.com` | dead | `2026-08-21T08:09:29Z` | 273 | TLS_CERT_ERROR | 45.57.90.1, 45.57.91.1 | 0.0 | 50 |
-| `uiboot.netflix.com` | dead | `2026-08-21T08:09:29Z` | 273 | TLS_CERT_ERROR | 100.28.13.17, 34.217.204.82, 44.234.6.167 | 0.0 | 50 |
-| `useast.obiwan.netflix.com` | dead | `2026-08-21T11:46:08Z` | 272 | TIMEOUT | 44.252.221.210, 44.253.81.170, 54.71.10.136 | 0.0 | 50 |
-| `uswest.obiwan.netflix.com` | dead | `2026-08-21T11:46:08Z` | 272 | TIMEOUT | 44.252.221.210, 44.253.81.170, 54.71.10.136 | 0.0 | 50 |
-| `venkman.cluster.eu-west-1.prod.cloud.netflix.com` | dead | `2026-08-22T17:40:12Z` | 267 | TLS_CERT_ERROR | 107.22.243.248, 3.214.91.176, 3.219.54.248 | 0.0 | 50 |
-| `venkman.cluster.us-east-2.prod.cloud.netflix.com` | dead | `2026-08-22T17:40:12Z` | 267 | TLS_CERT_ERROR | 3.214.91.176, 3.219.54.248, 34.214.209.123 | 0.0 | 50 |
-| `venkman.cluster.us-west-2.prod.cloud.netflix.com` | dead | `2026-08-22T17:40:12Z` | 267 | TLS_CERT_ERROR | 3.214.91.176, 3.219.54.248, 35.165.30.1 | 0.0 | 50 |
+| `api-global.netflix.com` | dead | `2026-08-21T17:49:18Z` | 272 | TLS_CERT_ERROR | 34.208.235.84, 44.236.148.165, 54.189.73.148 | 0.0 | 49 |
+| `api-user.netflix.com` | dead | `2026-08-21T17:49:18Z` | 272 | TLS_CERT_ERROR | 34.208.235.84, 44.236.148.165, 54.189.73.148 | 0.0 | 49 |
+| `api.netflix.com` | dead | `2026-08-21T17:49:18Z` | 272 | TLS_CERT_ERROR | 34.208.235.84, 44.236.148.165, 54.189.73.148 | 0.0 | 49 |
+| `appboot.netflix.com` | dead | `2026-08-21T08:09:29Z` | 274 | TLS_CERT_ERROR | 34.217.204.82, 44.234.6.167, 52.89.219.164 | 0.0 | 49 |
+| `dse.netflix.com` | dead | `2026-08-21T08:09:29Z` | 274 | TLS_ERROR | 18.236.7.30, 34.218.19.240, 44.226.113.145 | 0.0 | 49 |
+| `internationalbenefits.netflix.com` | dead | `2026-08-21T11:46:08Z` | 273 | TLS_ERROR | 18.236.7.30, 34.218.19.240, 44.226.113.145 | 0.0 | 49 |
+| `microstrategy.netflix.com` | dead | `2026-08-21T08:09:29Z` | 274 | TLS_ERROR | 18.236.7.30, 34.218.19.240, 44.226.113.145 | 0.0 | 49 |
+| `microstrategydev.netflix.com` | dead | `2026-08-21T08:09:29Z` | 274 | TLS_ERROR | 18.236.7.30, 34.218.19.240, 44.226.113.145 | 0.0 | 49 |
+| `obiwan.netflix.com` | dead | `2026-08-21T11:46:08Z` | 273 | TIMEOUT | 44.252.221.210, 44.253.81.170, 54.71.10.136 | 0.0 | 49 |
+| `raven.netflix.com` | dead | `2026-08-21T08:09:29Z` | 274 | TLS_ERROR | 18.236.7.30, 34.218.19.240, 44.226.113.145 | 0.0 | 49 |
+| `secure.netflix.com` | dead | `2026-08-21T08:09:29Z` | 274 | TLS_CERT_ERROR | 45.57.90.1, 45.57.91.1 | 0.0 | 49 |
+| `uiboot.netflix.com` | dead | `2026-08-21T08:09:29Z` | 274 | TLS_CERT_ERROR | 34.217.204.82, 44.234.6.167, 52.89.219.164 | 0.0 | 49 |
+| `useast.obiwan.netflix.com` | dead | `2026-08-21T11:46:08Z` | 273 | TIMEOUT | 44.252.221.210, 44.253.81.170, 54.71.10.136 | 0.0 | 49 |
+| `uswest.obiwan.netflix.com` | dead | `2026-08-21T11:46:08Z` | 273 | TIMEOUT | 44.252.221.210, 44.253.81.170, 54.71.10.136 | 0.0 | 49 |
+| `venkman.cluster.eu-west-1.prod.cloud.netflix.com` | dead | `2026-08-22T17:40:12Z` | 268 | TLS_CERT_ERROR | 35.165.30.1, 44.225.17.85, 44.229.178.197 | 0.0 | 49 |
+| `venkman.cluster.us-east-2.prod.cloud.netflix.com` | dead | `2026-08-22T17:40:12Z` | 268 | TLS_CERT_ERROR | 34.214.209.123, 35.165.30.1, 44.235.227.192 | 0.0 | 49 |
+| `venkman.cluster.us-west-2.prod.cloud.netflix.com` | dead | `2026-08-22T17:40:12Z` | 268 | TLS_CERT_ERROR | 35.165.30.1, 44.225.17.85, 44.229.178.197 | 0.0 | 49 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-31T12:45:54Z`
+Discovery state updated: `2026-10-31T21:42:55Z`
 
 ## Notes
 
