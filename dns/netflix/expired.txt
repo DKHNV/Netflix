@@ -55,7 +55,6 @@ pay-helix.netflix.com
 prod.deeplink.netflix.com
 push.test.netflix.com
 sand.nxtgms.netflix.com
-screeningplayerd.test.netflix.com
 sourcegraph.netflix.com
 tech.nxtgms.netflix.com
 testcamper.netflix.com
