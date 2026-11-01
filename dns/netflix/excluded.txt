@@ -10,7 +10,6 @@ assetqcd.test.netflix.com
 assetqct.test.netflix.com
 beacon.test.netflix.com
 beehiveui2t.test.netflix.com
-bob-api.dta.netflix.com
 cbp-eu.nccp.test.netflix.com
 cbp-us.nccp.test.netflix.com
 cbp.nccp.test.netflix.com

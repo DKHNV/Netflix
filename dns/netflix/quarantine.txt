@@ -23,6 +23,7 @@ assetqc.backlot.netflix.com
 billdesk-sihub-encryption-test.netflix.com
 billdesk-sihub-signature-test.netflix.com
 blesk.netflix.com
+bob-api.dta.netflix.com
 ca.netflix.com
 camper.netflix.com
 cbp-eu.nccp.netflix.com
@@ -88,6 +89,7 @@ sctweb-old.netflix.com
 siteops-develop.test.netflix.com
 siteops.prod.netflix.com
 siteops.test.netflix.com
+sn.netflix.com
 staging-npp-internal.netflix.com
 stash.corp.netflix.com
 stash.netflix.com
