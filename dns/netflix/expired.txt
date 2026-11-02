@@ -8,7 +8,6 @@ api-int-internal.test.netflix.com
 api-internal.netflix.com
 api-internal.test.netflix.com
 api-staging-internal.netflix.com
-apis.netflix.com
 beholder-api.dta.netflix.com
 billdesk-sihub-encryption.netflix.com
 billdesk-sihub-signature-prod.netflix.com
@@ -63,4 +62,3 @@ v6.eu-west-1.probnik.netflix.com
 v6.us-east-1.probnik.netflix.com
 v6.us-west-2.probnik.netflix.com
 ws.push.sandbox.netflix.com
-wwws.netflix.com

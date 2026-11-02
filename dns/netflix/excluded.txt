@@ -15,7 +15,6 @@ cbp-us.nccp.test.netflix.com
 cbp.nccp.test.netflix.com
 cms.obiwan.stage.netflix.com
 cms.obiwan.test.netflix.com
-codecov.dta.netflix.com
 control.tls.develop.test.cloud.netflix.com
 customerevents.test.netflix.com
 customereventsqa.netflix.com
@@ -88,7 +87,6 @@ staging-npp.netflix.com
 test.deeplink.netflix.com
 test.games.netflix.com
 test.security.netflix.com
-testplan.dta.netflix.com
 tls.develop.test.cloud.netflix.com
 tlscontrol.develop.test.cloud.netflix.com
 turbot.test.netflix.com

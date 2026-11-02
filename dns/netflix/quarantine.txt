@@ -32,6 +32,7 @@ cbp.nccp.netflix.com
 cdn.nxtgms.netflix.com
 cdn.sand.nxtgms.netflix.com
 cdn.tech.nxtgms.netflix.com
+codecov.dta.netflix.com
 confluence.corp.netflix.com
 copyrightenforcement.netflix.com
 copyrightenforcement.test.netflix.com
@@ -100,6 +101,7 @@ subtools-test.netflix.com
 sue.dta.netflix.com
 tenfootui.cast.netflix.com
 tenfootui.netflix.com
+testplan.dta.netflix.com
 thesecret.corp.netflix.com
 utpublish.dta.netflix.com
 venkman.cluster.us-east-1.prod.cloud.netflix.com
