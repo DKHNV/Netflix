@@ -35,14 +35,6 @@ live-proto-tv.prototypes.netflix.com
 logging.netflix.com
 muse.netflix.com
 netcertlab01.corp.netflix.com
-nm.push.staging.eu-west-1.internal.dradis.netflix.com
-nm.push.staging.eu-west-1.netflix.com
-nm.push.staging.us-east-1.internal.dradis.netflix.com
-nm.push.staging.us-east-1.netflix.com
-nm.push.staging.us-east-2.internal.dradis.netflix.com
-nm.push.staging.us-east-2.netflix.com
-nm.push.staging.us-west-2.internal.dradis.netflix.com
-nm.push.staging.us-west-2.netflix.com
 notifications.netflix.com
 nrdp.corp.netflix.com
 nrdpcrash.dta.netflix.com
