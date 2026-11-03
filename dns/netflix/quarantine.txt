@@ -75,6 +75,7 @@ nhegdefirstdeploy.netflix.com
 nimbus-api.dta.netflix.com
 nm.push.test.netflix.com
 npp-internal.netflix.com
+nrdp.staging.netflix.com
 nts-cert-testcontent-test.nrd.netflix.com
 oca-api.us-east-2.prodaa.netflix.com
 oldobi-sgt.netflix.com
@@ -86,6 +87,7 @@ pulse-design-tech.prototypes.netflix.com
 ramius.netflix.com
 raven-dev.netflix.com
 scene-stream.prototypes.netflix.com
+schedule.dta.netflix.com
 sctweb-old.netflix.com
 siteops-develop.test.netflix.com
 siteops.prod.netflix.com
