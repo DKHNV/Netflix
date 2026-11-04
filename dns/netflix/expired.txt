@@ -37,7 +37,6 @@ muse.netflix.com
 netcertlab01.corp.netflix.com
 notifications.netflix.com
 nrdp.corp.netflix.com
-nrdpcrash.dta.netflix.com
 nxtgms.netflix.com
 oca-api-4r05pct.netflix.com
 oca-api-4r1pct.netflix.com
