@@ -1,5 +1,6 @@
 ads.test.netflix.com
 adstr.test.netflix.com
+advertising.staging.netflix.com
 advertising.test.netflix.com
 android-appboot-staging.netflix.com
 api-us.test.netflix.com
@@ -29,6 +30,7 @@ embed.release-stage.netflix.com
 eworley-tls-curve-validation.test.cloud.netflix.com
 help.stage.netflix.com
 helpt.test.netflix.com
+hopper-mobile.prototypes.netflix.com
 ichnaea.staging.netflix.com
 ichnaea.test.netflix.com
 id.staging.netflix.com
