@@ -20,7 +20,6 @@ api-nodequark.test.netflix.com
 api-us.netflix.com
 artifacts.netflix.com
 assetqc.backlot.netflix.com
-billdesk-sihub-encryption-test.netflix.com
 blesk.netflix.com
 bob-api.dta.netflix.com
 ca.netflix.com
