@@ -10,6 +10,7 @@ api-staging-internal.netflix.com
 beholder-api.dta.netflix.com
 billdesk-sihub-encryption.netflix.com
 billdesk-sihub-signature-prod.netflix.com
+billdesk-sihub-signature-test.netflix.com
 c00.nxtgms.netflix.com
 c00.sand.nxtgms.netflix.com
 c00.tech.nxtgms.netflix.com
