@@ -31,7 +31,6 @@ helpd.test.netflix.com
 helpqa.test.netflix.com
 interactive-discovery.prototypes.netflix.com
 ios.gameboot.netflix.com
-live-proto-tv.prototypes.netflix.com
 logging.netflix.com
 muse.netflix.com
 netcertlab01.corp.netflix.com
