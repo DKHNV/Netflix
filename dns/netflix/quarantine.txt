@@ -105,7 +105,6 @@ tenfootui.cast.netflix.com
 tenfootui.netflix.com
 testplan.dta.netflix.com
 thesecret.corp.netflix.com
-utpublish.dta.netflix.com
 venkman.cluster.us-east-1.prod.cloud.netflix.com
 venkman.cluster.us-east-1.test.cloud.netflix.com
 wdintegrations.netflix.com
