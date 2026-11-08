@@ -87,6 +87,7 @@ ramius.netflix.com
 raven-dev.netflix.com
 scene-stream.prototypes.netflix.com
 schedule.dta.netflix.com
+screeningplayerd.test.netflix.com
 sctweb-old.netflix.com
 siteops-develop.test.netflix.com
 siteops.prod.netflix.com

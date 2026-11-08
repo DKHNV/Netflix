@@ -86,7 +86,6 @@ release-int.test.netflix.com
 release-stage.netflix.com
 release.staging.ssic.netflix.com
 request.irot.test.netflix.com
-screeningplayerd.test.netflix.com
 screeningplayert.test.netflix.com
 sgw.staginga.cloud.netflix.com
 sgw.stagingb.cloud.netflix.com
