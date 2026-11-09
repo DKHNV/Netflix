@@ -24,6 +24,8 @@ c02.tech.nxtgms.netflix.com
 c4.eu-west-1.prod.netflix.com
 c4.us-east-1.prod.netflix.com
 c4.us-west-2.prod.netflix.com
+cdn.sand.nxtgms.netflix.com
+cdn.tech.nxtgms.netflix.com
 dtatestdispatcher.dta.netflix.com
 helix-prod-202510-202610.netflix.com
 help.test.netflix.com
@@ -43,6 +45,7 @@ oca-api-4r2pct.netflix.com
 pay-helix.netflix.com
 prod.deeplink.netflix.com
 push.test.netflix.com
+raven-dev.netflix.com
 sand.nxtgms.netflix.com
 sourcegraph.netflix.com
 tech.nxtgms.netflix.com

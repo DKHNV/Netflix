@@ -18,6 +18,7 @@ api-global-prefix.netflix.com
 api-latam.netflix.com
 api-nodequark.test.netflix.com
 api-us.netflix.com
+apis.netflix.com
 artifacts.netflix.com
 assetqc.backlot.netflix.com
 blesk.netflix.com
@@ -28,8 +29,6 @@ cbp-eu.nccp.netflix.com
 cbp-us.nccp.netflix.com
 cbp.nccp.netflix.com
 cdn.nxtgms.netflix.com
-cdn.sand.nxtgms.netflix.com
-cdn.tech.nxtgms.netflix.com
 codecov.dta.netflix.com
 confluence.corp.netflix.com
 copyrightenforcement.netflix.com
@@ -84,7 +83,6 @@ promotion.dta.netflix.com
 prototypes.netflix.com
 pulse-design-tech.prototypes.netflix.com
 ramius.netflix.com
-raven-dev.netflix.com
 scene-stream.prototypes.netflix.com
 schedule.dta.netflix.com
 screeningplayerd.test.netflix.com
@@ -112,5 +110,6 @@ wdintegrationsdev.netflix.com
 www1.netflix.com
 www2.netflix.com
 www3.netflix.com
+wwws.netflix.com
 yellow2admin-prod.netflix.com
 yellow2admin-test.netflix.com
