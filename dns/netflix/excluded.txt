@@ -19,7 +19,6 @@ cms.obiwan.test.netflix.com
 control.tls.develop.test.cloud.netflix.com
 customerevents.test.netflix.com
 customereventsqa.netflix.com
-dev-npp.netflix.com
 develop-int.test.netflix.com
 develop-stage.netflix.com
 develop.staging.ssic.netflix.com
@@ -84,7 +83,6 @@ sgw.stagingb.cloud.netflix.com
 sharkboot.test.netflix.com
 slmprovisioner.test.netflix.com
 spetools.test.netflix.com
-staging-npp.netflix.com
 test.deeplink.netflix.com
 test.games.netflix.com
 test.security.netflix.com

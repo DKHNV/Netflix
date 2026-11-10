@@ -19,7 +19,6 @@ api-latam.netflix.com
 api-nodequark.test.netflix.com
 api-us.netflix.com
 apis.netflix.com
-artifacts.netflix.com
 assetqc.backlot.netflix.com
 blesk.netflix.com
 bob-api.dta.netflix.com
@@ -36,6 +35,7 @@ copyrightenforcement.test.netflix.com
 csi.dta.netflix.com
 design-tech-real-data.prototypes.netflix.com
 dev-npp-internal.netflix.com
+dev-npp.netflix.com
 dnajs.prod.netflix.com
 dnajs.test.netflix.com
 ec2types.test.netflix.com
@@ -62,7 +62,6 @@ local.dta.netflix.com
 logparser.dta.netflix.com
 logshredder.dta.netflix.com
 mcrmanifestgen.netflix.com
-mgkverifytest.security.netflix.com
 microstrategyapi.netflix.com
 microstrategydevapi.netflix.com
 mopro-torrent-server.dta.netflix.com
@@ -80,6 +79,7 @@ nm.push.staging.us-west-2.internal.dradis.netflix.com
 nm.push.staging.us-west-2.netflix.com
 nm.push.test.netflix.com
 npp-internal.netflix.com
+npp.netflix.com
 nrdp.staging.netflix.com
 nts-cert-testcontent-test.nrd.netflix.com
 oca-api-4region.netflix.com
@@ -100,6 +100,7 @@ siteops.prod.netflix.com
 siteops.test.netflix.com
 sn.netflix.com
 staging-npp-internal.netflix.com
+staging-npp.netflix.com
 stash.corp.netflix.com
 stash.netflix.com
 stitch.dta.netflix.com

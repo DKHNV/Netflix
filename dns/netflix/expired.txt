@@ -7,6 +7,7 @@ api-int-internal.test.netflix.com
 api-internal.netflix.com
 api-internal.test.netflix.com
 api-staging-internal.netflix.com
+artifacts.netflix.com
 beholder-api.dta.netflix.com
 billdesk-sihub-encryption-test.netflix.com
 billdesk-sihub-encryption.netflix.com
@@ -34,6 +35,7 @@ helpqa.test.netflix.com
 interactive-discovery.prototypes.netflix.com
 ios.gameboot.netflix.com
 logging.netflix.com
+mgkverifytest.security.netflix.com
 muse.netflix.com
 netcertlab01.corp.netflix.com
 notifications.netflix.com
