@@ -46,15 +46,7 @@ nm.push.prod.us-east-1.internal.dradis.netflix.com
 nm.push.prod.us-east-2.internal.dradis.netflix.com
 nm.push.prod.us-west-2.internal.dradis.netflix.com
 nm.push.sandbox.netflix.com
-nm.push.staging.eu-west-1.internal.dradis.netflix.com
-nm.push.staging.eu-west-1.netflix.com
 nm.push.staging.netflix.com
-nm.push.staging.us-east-1.internal.dradis.netflix.com
-nm.push.staging.us-east-1.netflix.com
-nm.push.staging.us-east-2.internal.dradis.netflix.com
-nm.push.staging.us-east-2.netflix.com
-nm.push.staging.us-west-2.internal.dradis.netflix.com
-nm.push.staging.us-west-2.netflix.com
 nmtracking.test.netflix.com
 nrdpcrash.dta.netflix.com
 ntag.staging.netflix.com
