@@ -25,6 +25,7 @@ c02.tech.nxtgms.netflix.com
 c4.eu-west-1.prod.netflix.com
 c4.us-east-1.prod.netflix.com
 c4.us-west-2.prod.netflix.com
+cdn.nxtgms.netflix.com
 cdn.sand.nxtgms.netflix.com
 cdn.tech.nxtgms.netflix.com
 dtatestdispatcher.dta.netflix.com
@@ -52,6 +53,7 @@ sand.nxtgms.netflix.com
 sourcegraph.netflix.com
 tech.nxtgms.netflix.com
 testcamper.netflix.com
+thesecret.corp.netflix.com
 thrifty20.netflix.com
 utpublish.dta.netflix.com
 v6.eu-west-1.probnik.netflix.com
