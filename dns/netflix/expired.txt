@@ -1,5 +1,6 @@
 ablaze.prod.netflix.com
 ablaze.test.netflix.com
+ajay-test-app.netflix.com
 alertprocessor.dta.netflix.com
 android-appboot.test.netflix.com
 android.gameboot.netflix.com
@@ -53,7 +54,6 @@ sand.nxtgms.netflix.com
 sourcegraph.netflix.com
 tech.nxtgms.netflix.com
 testcamper.netflix.com
-thesecret.corp.netflix.com
 thrifty20.netflix.com
 utpublish.dta.netflix.com
 v6.eu-west-1.probnik.netflix.com
