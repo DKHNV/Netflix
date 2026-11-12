@@ -9,6 +9,7 @@ adc-uswest2-2b1.corp.netflix.com
 adc-uswest2-2b2.corp.netflix.com
 adldap.itp.netflix.com
 ads.netflix.com
+advertising.staging.netflix.com
 aidsvc.netflix.com
 aidsvc.test.netflix.com
 alert.dta.netflix.com
@@ -49,6 +50,7 @@ handler.dta.netflix.com
 hoa-api.dta.netflix.com
 hoc.dta.netflix.com
 hoke-api.dta.netflix.com
+hopper-mobile.prototypes.netflix.com
 hopper-stream.prototypes.netflix.com
 htmltvui.netflix.com
 identity.prod.netflix.com

@@ -32,8 +32,6 @@ cdn.tech.nxtgms.netflix.com
 dtatestdispatcher.dta.netflix.com
 helix-prod-202510-202610.netflix.com
 help.test.netflix.com
-helpd.test.netflix.com
-helpqa.test.netflix.com
 interactive-discovery.prototypes.netflix.com
 ios.gameboot.netflix.com
 logging.netflix.com
