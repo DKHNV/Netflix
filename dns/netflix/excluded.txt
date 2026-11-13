@@ -27,6 +27,7 @@ embed.develop-stage.netflix.com
 embed.release-stage.netflix.com
 eworley-tls-curve-validation.test.cloud.netflix.com
 help.stage.netflix.com
+help.test.netflix.com
 helpd.test.netflix.com
 helpqa.test.netflix.com
 helpt.test.netflix.com
@@ -71,6 +72,7 @@ push.staging.us-east-1.internal.dradis.netflix.com
 push.staging.us-east-1.netflix.com
 push.staging.us-west-2.internal.dradis.netflix.com
 push.staging.us-west-2.netflix.com
+push.test.netflix.com
 refimages.dta.netflix.com
 release-int.test.netflix.com
 release-stage.netflix.com

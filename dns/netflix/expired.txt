@@ -31,7 +31,6 @@ cdn.sand.nxtgms.netflix.com
 cdn.tech.nxtgms.netflix.com
 dtatestdispatcher.dta.netflix.com
 helix-prod-202510-202610.netflix.com
-help.test.netflix.com
 interactive-discovery.prototypes.netflix.com
 ios.gameboot.netflix.com
 logging.netflix.com
@@ -46,7 +45,6 @@ oca-api-4r1pct.netflix.com
 oca-api-4r2pct.netflix.com
 pay-helix.netflix.com
 prod.deeplink.netflix.com
-push.test.netflix.com
 raven-dev.netflix.com
 sand.nxtgms.netflix.com
 sourcegraph.netflix.com
