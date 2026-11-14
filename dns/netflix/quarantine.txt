@@ -45,6 +45,7 @@ identity.prod.netflix.com
 identity.staging.netflix.com
 identity.test.netflix.com
 instantgames.netflix.com
+live-proto-tv.prototypes.netflix.com
 local.dta.netflix.com
 nbc.prod.netflix.com
 nm.push.staging.eu-west-1.internal.dradis.netflix.com
