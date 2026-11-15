@@ -10,6 +10,7 @@ assetqcd.test.netflix.com
 assetqct.test.netflix.com
 beacon.test.netflix.com
 beehiveui2t.test.netflix.com
+beholder-api.dta.netflix.com
 cbp-eu.nccp.test.netflix.com
 cbp-us.nccp.test.netflix.com
 cbp.nccp.test.netflix.com
@@ -23,6 +24,7 @@ develop-stage.netflix.com
 develop.staging.ssic.netflix.com
 dexters.test.netflix.com
 dextert.test.netflix.com
+dtatestdispatcher.dta.netflix.com
 embed.develop-stage.netflix.com
 embed.release-stage.netflix.com
 eworley-tls-curve-validation.test.cloud.netflix.com
