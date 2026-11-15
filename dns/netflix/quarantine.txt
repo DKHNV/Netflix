@@ -15,7 +15,6 @@ alert.dta.netflix.com
 api-eu.netflix.com
 api-global-prefix.netflix.com
 api-latam.netflix.com
-api-nodequark.test.netflix.com
 api-us.netflix.com
 apis.netflix.com
 assetqc.backlot.netflix.com
@@ -56,7 +55,6 @@ nm.push.staging.us-east-2.internal.dradis.netflix.com
 nm.push.staging.us-east-2.netflix.com
 nm.push.staging.us-west-2.internal.dradis.netflix.com
 nm.push.staging.us-west-2.netflix.com
-nm.push.test.netflix.com
 npp.netflix.com
 nrdp.staging.netflix.com
 nrdpcrash.dta.netflix.com

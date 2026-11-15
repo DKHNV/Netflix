@@ -8,6 +8,7 @@ android.gameboot.netflix.com
 api-int-internal.test.netflix.com
 api-internal.netflix.com
 api-internal.test.netflix.com
+api-nodequark.test.netflix.com
 api-staging-internal.netflix.com
 artifacts.netflix.com
 beholder-api.dta.netflix.com
@@ -59,6 +60,7 @@ muse.netflix.com
 netcertlab01.corp.netflix.com
 nhegdefirstdeploy.netflix.com
 nimbus-api.dta.netflix.com
+nm.push.test.netflix.com
 notifications.netflix.com
 npp-internal.netflix.com
 nrdp.corp.netflix.com
