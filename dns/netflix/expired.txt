@@ -43,6 +43,7 @@ hoa-api.dta.netflix.com
 hoc.dta.netflix.com
 hoke-api.dta.netflix.com
 identity.prod.netflix.com
+identity.staging.netflix.com
 interactive-discovery.prototypes.netflix.com
 ios.gameboot.netflix.com
 jira.corp.netflix.com
