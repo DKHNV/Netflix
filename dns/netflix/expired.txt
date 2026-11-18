@@ -3,7 +3,6 @@ ablaze.test.netflix.com
 ads.netflix.com
 ajay-test-app.netflix.com
 alertprocessor.dta.netflix.com
-android-appboot.test.netflix.com
 android.gameboot.netflix.com
 api-int-internal.test.netflix.com
 api-internal.netflix.com
@@ -56,7 +55,6 @@ microstrategyapi.netflix.com
 microstrategydevapi.netflix.com
 mopro-torrent-server.dta.netflix.com
 mriserver.netflix.com
-muse.netflix.com
 netcertlab01.corp.netflix.com
 nhegdefirstdeploy.netflix.com
 nimbus-api.dta.netflix.com
