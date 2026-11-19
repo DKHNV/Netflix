@@ -36,6 +36,8 @@ euwest.obiwan.netflix.com
 foggy.netflix.com
 gaas-scar.test.netflix.com
 gotest.netflix.com
+helpd.test.netflix.com
+helpqa.test.netflix.com
 hopper-mobile.prototypes.netflix.com
 hopper-stream.prototypes.netflix.com
 htmltvui.netflix.com

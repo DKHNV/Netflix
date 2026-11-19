@@ -31,8 +31,6 @@ embed.release-stage.netflix.com
 eworley-tls-curve-validation.test.cloud.netflix.com
 help.stage.netflix.com
 help.test.netflix.com
-helpd.test.netflix.com
-helpqa.test.netflix.com
 helpt.test.netflix.com
 ichnaea.staging.netflix.com
 ichnaea.test.netflix.com
