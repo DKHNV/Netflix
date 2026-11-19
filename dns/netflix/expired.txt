@@ -1,3 +1,4 @@
+ablaze-beta.prod.netflix.com
 ablaze.prod.netflix.com
 ablaze.test.netflix.com
 ads.netflix.com
@@ -70,6 +71,7 @@ origin-sod.test.netflix.com
 pay-helix.netflix.com
 prod.deeplink.netflix.com
 promotion.dta.netflix.com
+prototypes.netflix.com
 ramius.netflix.com
 raven-dev.netflix.com
 sand.nxtgms.netflix.com
