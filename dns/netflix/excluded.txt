@@ -1,6 +1,7 @@
 ads.test.netflix.com
 adstr.test.netflix.com
 advertising.test.netflix.com
+alertprocessor.dta.netflix.com
 android-appboot-staging.netflix.com
 android-appboot.test.netflix.com
 api-us.test.netflix.com
@@ -30,7 +31,6 @@ embed.develop-stage.netflix.com
 embed.release-stage.netflix.com
 eworley-tls-curve-validation.test.cloud.netflix.com
 help.stage.netflix.com
-help.test.netflix.com
 helpt.test.netflix.com
 ichnaea.staging.netflix.com
 ichnaea.test.netflix.com
@@ -72,7 +72,6 @@ push.staging.us-east-1.internal.dradis.netflix.com
 push.staging.us-east-1.netflix.com
 push.staging.us-west-2.internal.dradis.netflix.com
 push.staging.us-west-2.netflix.com
-push.test.netflix.com
 refimages.dta.netflix.com
 release-int.test.netflix.com
 release-stage.netflix.com

@@ -34,8 +34,8 @@ dnajs.test.netflix.com
 ec2types.test.netflix.com
 euwest.obiwan.netflix.com
 foggy.netflix.com
-gaas-scar.test.netflix.com
 gotest.netflix.com
+help.test.netflix.com
 helpd.test.netflix.com
 helpqa.test.netflix.com
 hopper-mobile.prototypes.netflix.com
@@ -63,6 +63,7 @@ oca-api.us-east-2.prodaa.netflix.com
 oldobi-sgt.netflix.com
 prehire-stage.netflix.com
 pulse-design-tech.prototypes.netflix.com
+push.test.netflix.com
 scene-stream.prototypes.netflix.com
 schedule.dta.netflix.com
 screeningplayerd.test.netflix.com

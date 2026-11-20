@@ -3,7 +3,6 @@ ablaze.prod.netflix.com
 ablaze.test.netflix.com
 ads.netflix.com
 ajay-test-app.netflix.com
-alertprocessor.dta.netflix.com
 android.gameboot.netflix.com
 api-int-internal.test.netflix.com
 api-internal.netflix.com
@@ -36,6 +35,7 @@ dev-npp-internal.netflix.com
 egon-wildcard.netflix.com
 egon.netflix.com
 egon.test.netflix.com
+gaas-scar.test.netflix.com
 graphit.dta.netflix.com
 handler.dta.netflix.com
 helix-prod-202510-202610.netflix.com
