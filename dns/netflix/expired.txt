@@ -86,6 +86,7 @@ stitch.dta.netflix.com
 subtools-prod.netflix.com
 subtools-sandbox.netflix.com
 subtools-test.netflix.com
+sue.dta.netflix.com
 tech.nxtgms.netflix.com
 tenfootui.cast.netflix.com
 testcamper.netflix.com
@@ -94,6 +95,8 @@ utpublish.dta.netflix.com
 v6.eu-west-1.probnik.netflix.com
 v6.us-east-1.probnik.netflix.com
 v6.us-west-2.probnik.netflix.com
+venkman.cluster.us-east-1.prod.cloud.netflix.com
+venkman.cluster.us-east-1.test.cloud.netflix.com
 wdintegrations.netflix.com
 wdintegrationsdev.netflix.com
 ws.push.sandbox.netflix.com

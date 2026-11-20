@@ -70,12 +70,9 @@ screeningplayerd.test.netflix.com
 sctweb-old.netflix.com
 sn.netflix.com
 staging-npp.netflix.com
-sue.dta.netflix.com
 tenfootui.netflix.com
 testplan.dta.netflix.com
 thesecret.corp.netflix.com
-venkman.cluster.us-east-1.prod.cloud.netflix.com
-venkman.cluster.us-east-1.test.cloud.netflix.com
 www1.netflix.com
 www2.netflix.com
 www3.netflix.com
