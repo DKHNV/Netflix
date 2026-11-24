@@ -27,7 +27,6 @@ dtatestdispatcher.dta.netflix.com
 ec2types.test.netflix.com
 euwest.obiwan.netflix.com
 foggy.netflix.com
-gotest.netflix.com
 help.test.netflix.com
 helpd.test.netflix.com
 helpqa.test.netflix.com
