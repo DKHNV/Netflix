@@ -76,6 +76,7 @@ nm.push.test.netflix.com
 notifications.netflix.com
 npp-internal.netflix.com
 nrdp.corp.netflix.com
+nts-cert-testcontent-test.nrd.netflix.com
 nxtgms.netflix.com
 oca-api-4r05pct.netflix.com
 oca-api-4r1pct.netflix.com

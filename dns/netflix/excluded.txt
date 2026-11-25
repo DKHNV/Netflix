@@ -3,7 +3,6 @@ adstr.test.netflix.com
 advertising.test.netflix.com
 alertprocessor.dta.netflix.com
 android-appboot-staging.netflix.com
-android-appboot.test.netflix.com
 api-us.test.netflix.com
 api-useast-test.netflix.com
 api.test.netflix.com
