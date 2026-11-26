@@ -33,7 +33,9 @@ ichnaea.staging.netflix.com
 ichnaea.test.netflix.com
 id.staging.netflix.com
 id.test.netflix.com
+interactive-discovery.prototypes.netflix.com
 irot.test.netflix.com
+local.dta.netflix.com
 logs.staging.netflix.com
 logs.test.netflix.com
 monet.test.netflix.com

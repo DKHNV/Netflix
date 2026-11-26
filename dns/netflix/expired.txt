@@ -55,10 +55,8 @@ hoke-api.dta.netflix.com
 identity.prod.netflix.com
 identity.staging.netflix.com
 identity.test.netflix.com
-interactive-discovery.prototypes.netflix.com
 ios.gameboot.netflix.com
 jira.corp.netflix.com
-local.dta.netflix.com
 logging.netflix.com
 logparser.dta.netflix.com
 logshredder.dta.netflix.com
