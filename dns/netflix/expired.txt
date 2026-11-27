@@ -103,6 +103,7 @@ subtools-test.netflix.com
 sue.dta.netflix.com
 tech.nxtgms.netflix.com
 tenfootui.cast.netflix.com
+tenfootui.netflix.com
 testcamper.netflix.com
 thrifty20.netflix.com
 utpublish.dta.netflix.com

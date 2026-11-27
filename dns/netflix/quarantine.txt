@@ -2,6 +2,7 @@ advertising.staging.netflix.com
 aidsvc.netflix.com
 aidsvc.test.netflix.com
 alert.dta.netflix.com
+alertprocessor.dta.netflix.com
 android-appboot.test.netflix.com
 api-eu.netflix.com
 api-global-prefix.netflix.com
@@ -58,7 +59,6 @@ screeningplayerd.test.netflix.com
 sctweb-old.netflix.com
 sn.netflix.com
 staging-npp.netflix.com
-tenfootui.netflix.com
 testplan.dta.netflix.com
 thesecret.corp.netflix.com
 www1.netflix.com
